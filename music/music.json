@@ -1,0 +1,1883 @@
+var data = [
+	{
+	"type":"song",
+	"author":"Vincent Delerm",
+	"title":"Fanny Ardant et moi",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=OVebbkH8F6w",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tes parents",
+	"title":"Tes parents",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=NbRAdEHLvqw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Le monologue shakespearien",
+	"title":"Le monologue shakespearien",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=vs5GS4QeIP4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Cosmopolitan",
+	"title":"Cosmopolitan",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=zFJvNdoS1qM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Deauville sans trintignant",
+	"title":"Deauville sans trintignant",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=yk9CWcoIM30",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Les gens qui doutent",
+	"title":"Les gens qui doutent",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=VGSa4Ls1ub0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Pomme",
+	"title":"La lumière",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=oDrkzxxSfuk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"CLARA YSÉ",
+	"title":"Le monde s'est dédoublé",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=hMhnOHX69yY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Rosemary Standley",
+	"title":"La Nuit, Je Mens",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=1nxyydourhg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bénabar",
+	"title":"Y'a une fille qu'habite chez moi",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=OjjPD3z7TGc",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Vangelis",
+	"title":"Pulstar",
+	"lang":null,
+	"year:": 1976,
+	"youtube":"https://www.youtube.com/watch?v=HaMBmBeNvtM",
+	"playlist":["techno"]
+	},
+	{
+	"type":"song",
+	"author":"Synapson",
+	"title":"All in You feat. Anna Kova",
+	"lang":"en",
+	"year": 2015,
+	"youtube":"https://www.youtube.com/watch?v=tvMoteOdPBA",
+	"playlist":["techno"]
+	},
+	{
+	"type":"song",
+	"author":"James Blake",
+	"title":"Retrograde",
+	"lang":"en",
+	"year": 2013,
+	"youtube":"https://www.youtube.com/watch?v=6p6PcFFUm5I",
+	"playlist":["techno","pop"]
+	},
+	{
+	"type":"song",
+	"author":"Kavinsky",
+	"title":"Nightcall",
+	"lang":"en",
+	"year":2011,
+	"youtube":"https://www.youtube.com/watch?v=MV_3Dpw-BRY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Space",
+	"title":"Magic Fly",
+	"lang":null,
+	"year":1977,
+	"youtube":"https://www.youtube.com/watch?v=ZavwtJxmqJI",
+	"playlist":["70s","disco","techno"]
+	},
+	{
+	"type":"song",
+	"author":"Rone",
+	"title":"Opening",
+	"lang":null,
+	"year":2021,
+	"youtube":"https://www.youtube.com/watch?v=DHgE0Kn7zqE",
+	"playlist":["techno","movie"]
+	},
+	{
+	"type":"song",
+	"author":"Pink Floyd",
+	"title":"Shine On You Crazy Diamond",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=54W8kktFE_o",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Pink Floyd",
+	"title":"Welcome To The Machine",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=tBvAxSx0nAM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Pink Floyd",
+	"title":"Have A Cigar",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=tbdpv7G_PPg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":Pink Floyd",
+	"title":"Wish You Were Here",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=hjpF8ukSrvk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Pink Floyd",
+	"title":"On The Turning Away",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=A7ZnvwCm8TI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Roger Waters",
+	"title":"Watching TV",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Ca3PnHFgJ54",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"ABBA",
+	"title":"SOS",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=CxMcD8QHVag",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"ABBA",
+	"title":"Money, Money, Money",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=1LPNuFkteI8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"ABBA",
+	"title":"The Winner Takes It All",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=WbnG3eAGb6Y",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tom Jones",
+	"title":"Sexbomb",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=WZ32gSLNHfA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"It's Not Unusual",
+	"title":"It's Not Unusual",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=k-HdGnzYdFQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Billy Joel",
+	"title":"Goodnight Saigon",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ghllgDOV8uA",
+	"playlist":["pop"]
+	},
+	{
+	"type":"song",
+	"author":"Claude François",
+	"title":"Même si tu revenais",
+	"lang":"fr",
+	"year":1965,
+	"youtube":"https://www.youtube.com/watch?v=L6aA3tvyYsU",
+	"playlist":["variete","60s"]
+	},
+	{
+	"type":"song",
+	"author":"Nicolas Peyrac",
+	"title":"Je pars",
+	"lang":"fr",
+	"year":1977,
+	"youtube":"https://www.youtube.com/watch?v=AYq4JikAsTk",
+	"playlist":["variete","70s"]
+	},
+	{
+	"type":"song",
+	"author":"Nicolas Peyrac",
+	"title":"Et mon père",
+	"lang":"fr",
+	"year":1976,
+	"youtube":"https://www.youtube.com/watch?v=If9_rZkK3Ys",
+	"playlist":["variete","70s"]
+	},
+	{
+	"type":"song",
+	"author":"Yves Simpn",
+	"title":"J'pense à elle tout le temps",
+	"lang":"fr",
+	"year": 1983,
+	"youtube":"https://www.youtube.com/watch?v=Wot7jso3ZIs",
+	"playlist":["variete","80s"]
+	},
+	{
+	"type":"song",
+	"author":"Yves Simon",
+	"title":"Zelda",
+	"lang":"fr",
+	"year": 1977,
+	"youtube":"https://www.youtube.com/watch?v=uYeRE_dFUCo",
+	"playlist":["variete","70s"]
+	},
+	{
+	"type":"song",
+	"author":"Yves Simon",
+	"title":"Amazoniaque",
+	"lang":"en",
+	"year": 1983,
+	"youtube":"https://www.youtube.com/watch?v=b6J5H4QfWns",
+	"playlist":["variete","80s"]
+	},
+	{
+	"type":"song",
+	"author":"AC/DC",
+	"title":"Thunderstruck",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=v2AC41dglnM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"AC/DC",
+	"title":"Back In Black",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=pAgnJDJN4VA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"The Best of Edith Piaf Medley: Non, je ne regrette rien / La vie en rose / Hymne à l'amour /...",
+	"title":"The Best of Edith Piaf Medley: Non, je ne regrette rien / La vie en rose / Hymne à l'amour /...",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=FuXJWb9iSI0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"While My Guitar Gently Weeps",
+	"title":"While My Guitar Gently Weeps",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=YFDg-pgE0Hk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Here Comes The Sun",
+	"title":"Here Comes The Sun",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=GKdl-GCsNJ0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"The Beatles",
+	"title":"For No One",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=hgJ7dmr_ysU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"She's Leaving Home",
+	"title":"She's Leaving Home",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=VaBPY78D88g",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hexagone",
+	"title":"Renaud",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=eUbj8aUC_rQ",
+	"playlist":[""]
+	},
+
+	{
+	"type":"song",
+	"author":"Yves SIMON",
+	"title":"Diabolo Menthe",
+	"lang":"fr",
+	"year": 1977,
+	"youtube":"https://www.youtube.com/watch?v=yH2aqAuyxSg",
+	"playlist":["variete","70s"]
+	},
+	{
+	"type":"song",
+	"title":"Au Pays Des Merveilles De Juliet",
+	"author":"Yves Simon",
+	"lang":"fr",
+	"year": 1973,
+	"youtube":"https://www.youtube.com/watch?v=VFl-1cYQWa4",
+	"playlist":["variete","70s"]
+	},
+	{
+	"type":"song",
+	"author":"YVES SIMON",
+	"title":"J'ai Rêvé New York",
+	"lang":"fr",
+	"year": 1974,
+	"youtube":"https://www.youtube.com/watch?v=xhLhUsOjqDI",
+	"playlist":["70s","variete"]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"Le carnet à spirales",
+	"lang":"fr",
+	"year": 1976,
+	"youtube":"https://www.youtube.com/watch?v=vS9aPtjSk9A",
+	"playlist":["variete","70s"]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"Mon Hôtel",
+	"lang":"fr",
+	"year":  2004,
+	"youtube":"https://www.youtube.com/watch?v=J7H82e4R7ZE",
+	"playlist":["variete"]
+	},
+	{
+	"type":"song",
+	"author":"Claude Nougaro",
+	"title":"A bout de souffle",
+	"lang":"fr",
+	"year": 1965,
+	"youtube":"https://www.youtube.com/watch?v=vYew-f3tnD8",
+	"playlist":["60s","variete"]
+	},
+	{
+	"type":"song",
+	"author":"Herman's Hermits",
+	"title":"No Milk Today",
+	"lang":"en",
+	"year": 1967,
+	"youtube":"https://www.youtube.com/watch?v=Gpc-gVqIAoc",
+	"playlist":["60s","pop"]
+	},
+	{
+	"type":"song",
+	"author":"Eddy Mitchell",
+	"title":"Toujours un coin qui me rappelle",
+	"lang":"en",
+	"year": 1964,
+	"youtube":"https://www.youtube.com/watch?v=5gzHhQgUlVE",
+	"playlist":["variete","60s"]
+	},
+	{
+	"type":"song",
+	"author":"Eddy Mitchell",
+	"title":"Le cimetière des éléphants",
+	"lang":"en",
+	"year": 1982,
+	"youtube":"https://www.youtube.com/watch?v=_qzlls38Dlk",
+	"playlist":["variete","80s"]
+	},
+	{
+	"type":"song",
+	"author":"Jamiroquai",
+	"title":"Virtual Insanity",
+	"lang":"en",
+	"year": 1996,
+	"youtube":"https://www.youtube.com/watch?v=4JkIs37a2JE",
+	"playlist":["pop","90s"]
+	},
+	{
+	"type":"song",
+	"author":"Britney Spears",
+	"title":"Baby One More Time",
+	"lang":"en",
+	"year": 1998,
+	"youtube":"https://www.youtube.com/watch?v=C-u5WLJ9Yk4",
+	"playlist":["90s","pop"]
+	},
+	{
+	"type":"song",
+	"author":"Moby",
+	"title":"Natural Blues",
+	"lang":"en",
+	"year":1999,
+	"youtube":"https://www.youtube.com/watch?v=gr5PFgUDD5Q",
+	"playlist":["90s","pop","techno"]
+	},
+	{
+	"type":"song",
+	"author":"Moby",
+	"title":"Why Does My Heart Feel So Bad?",
+	"lang":"en",
+	"year": 1999,
+	"youtube":"https://www.youtube.com/watch?v=DLQoFcEF6Ws",
+	"playlist":["90s","pop","techno"]
+	},
+	{
+	"type":"song",
+	"author":"Jeanne Moreau",
+	"title":"India Song",
+	"lang":"fr",
+	"year": 1975,
+	"youtube":"https://www.youtube.com/watch?v=iNjAhpPOhPs",
+	"playlist":["70s","variete"]
+	},
+	{
+	"type":"song",
+	"author":"BENNY GOODMAN",
+	"title":"SING, SING, SING",
+	"lang":null,
+	"year": 1950,
+	"youtube":"https://www.youtube.com/watch?v=r2S1I_ien6A",
+	"playlist":["jazz","50s"]
+	},
+	{
+	"type":"song",
+	"author": "Marianne Faithfull",
+	"title":"The Ballad Of Lucy Jordan",
+	"lang":"en",
+	"year": 1979,
+	"youtube":"https://www.youtube.com/watch?v=d0NxhFn0szc",
+	"playlist":["pop","70s"]
+	},
+	{
+	"type":"song",
+	"author":"Drupi",
+	"title":"Vado Via",
+	"year":1977,
+	"lang":"it",
+	"youtube":"https://www.youtube.com/watch?v=G7EVwcT141I",
+	"playlist":["70s","variete"]
+	},
+	{
+	"type":"song",
+	"author":"Clou",
+	"title":"Cesse cesse",
+	"lang":"fr",
+	"year":2020,
+	"youtube":"https://www.youtube.com/watch?v=4Lerq0cDWgU",
+	"playlist":["variete"]
+	},
+	{
+	"type":"song",
+	"author":"The Beatles",
+	"title":"Something",
+	"lang":"en",
+	"year":1969,
+	"youtube":"https://www.youtube.com/watch?v=UelDrZ1aFeY",
+	"playlist":["pop","60s"]
+	},
+	{
+	"type":"song",
+	"author":"Dave Brubeck",
+	"title":"Take Five",
+	"lang":"en",
+	"year": 1959,
+	"youtube":"https://www.youtube.com/watch?v=vmDDOFXSgAs",
+	"playlist":["jazz"]
+	},
+	{
+	"type":"song",
+	"author":"The Verve",
+	"title":"Bitter Sweet Symphony",
+	"lang":"en",
+	"year":  1997,
+	"youtube":"https://www.youtube.com/watch?v=1lyu1KKwC74",
+	"playlist":["pop"]
+	},
+	{
+	"type":"song",
+	"author":"The Beatles",
+	"title":"Back In The U.S.S.R.",
+	"lang":"en",
+	"year":1968,
+	"youtube":"https://www.youtube.com/watch?v=nS5_EQgbuLc",
+	"playlist":["pop","60s"]
+	},	{
+	"type":"song",
+	"author":"David Bowie",
+	"title":"Ashes To Ashes",
+	"lang":"en",
+	"year": 1980,
+	"youtube":"https://www.youtube.com/watch?v=YF_ESqYuhSQ",
+	"playlist":["pop"]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Cornflake Girl",
+	"lang":"en",
+	"year":1994,
+	"youtube":"https://www.youtube.com/watch?v=w_HA5Czhtx4",
+	"playlist":["pop"]
+	},
+
+	{
+	"type":"song",
+	"author":"Sparks",
+	"title":"When I'm with You",
+	"lang":"en",
+	"year":1980,
+	"youtube":"https://www.youtube.com/watch?v=ZJ7Fs8szLgI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Mike Oldfield",
+	"title":"Get to france",
+	"lang":"en",
+	"year":1984,
+	"youtube":"https://www.youtube.com/watch?v=Cy1DC_Hi8ag",
+	"playlist":["pop"]
+	},
+	{
+	"type":"song",
+	"author":"SYMPATHY",
+	"title":"RARE BIRD",
+	"lang":"en",
+	"year":1969,
+	"youtube":"https://www.youtube.com/watch?v=9vN6-1Zeg2w",
+	"playlist":["60s"]
+	},
+	{
+	"type":"song",
+	"author":"Bénabar",
+	"title":"Majorette",
+	"lang":"fr",
+	"year":2001,
+	"youtube":"https://www.youtube.com/watch?v=3tMgL9R8Wp0",
+	"playlist":["variete"]
+	},
+	{
+	"type":"song",
+	"author":"David Bowie",
+	"title":"Starman",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=tRcPA7Fzebw",
+	"year": 1969,
+	"playlist":["pop","70s"]
+	},
+	{
+	"type":"song",
+	"author":"Neil Young",
+	"title":"Heart of Gold",
+	"lang":"en",
+	"year":1972,
+	"youtube":"https://www.youtube.com/watch?v=X3IA6pIVank",
+	"playlist":["Folk"]
+	},
+	{
+	"type":"song",
+	"author":"David Bowie",
+	"title":"Let's Dance",
+	"lang":"en",
+	"year":1983,
+	"youtube":"https://www.youtube.com/watch?v=VbD_kBJc_gI",
+	"playlist":["80s"]
+	},
+	{
+	"type":"song",
+	"author":"Clara Luciani",
+	"title":"Respire encore",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=uWH00ehhLP8",
+	"playlist":["pop"]
+	},
+	{
+	"type":"song",
+	"author":"Daniel Balavoine",
+	"title":"Tous les cris les S.O.S.",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=urWV2OjAmUQ",
+	"playlist":["variete"]
+	},
+	{
+	"type":"song",
+	"author":"Juliette Armanet",
+	"title":"Le dernier jour du disco",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=hTHmZYC7Zws",
+	"playlist":["pop"]
+	},
+	{
+	"type":"song",
+	"author":"Daniel Guichard",
+	"title":"Mon Vieux",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=x8l43czQAy4",
+	"playlist":["variete"]
+	},
+	{
+	"type":"song",
+	"author":"Christophe",
+	"title":"Aline",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=zHtlgFoCNF8",
+	"playlist":["variete"]
+	},
+	{
+	"type":"song",
+	"author":"Kate Bush",
+	"title":"Running Up That Hill",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=wp43OdtAAkM",
+	"playlist":["pop"]
+	},
+	{
+	"type":"song",
+	"author":"Alain Bashung",
+	"title":"Gaby Oh Gaby",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=gPKqSkC4-Rw",
+	"playlist":["variete"]
+	},
+	{
+	"type":"song",
+	"author":"The Buggles",
+	"title":"Video Killed The Radio Star",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=W8r-tXRLazs",
+	"playlist":["pop","80s"]
+	},
+	{
+	"type":"song",
+	"author":"Dalida, Alain Delon",
+	"title":"Paroles, paroles",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=LYAvhujK4nA",
+	"playlist":["70s","variete"]
+	},
+	{
+	"type":"song",
+	"author":"Talk Talk",
+	"title":"It's My Life",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=cFH5JgyZK1I",
+	"playlist":["80s"]
+	},
+	{
+	"type":"song",
+	"author":"Il était une fois",
+	"title":"J'ai encore rêvé d'elle",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=jGRaXdT2-58",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Les Rita Mitsouko",
+	"title":"C'est comme ça",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=fGZRVGlGZ6A",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Daniel Balavoine",
+	"title":"S.O.S d'un terrien en détresse",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=JogioTloRB4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Léo Ferré",
+	"title":"Avec le temps",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ZH7dG0qyzyg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bernard Lavilliers, Catherine Ringer",
+	"title":"IDEES NOIRES avec Catherine Ringer",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ubL_hVPm6Oc",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"The Cure",
+	"title":"Just Like Heaven",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=n3nPiBai66M",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"France Gall",
+	"title":"Il jouait du piano debout",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=7l7eXx_8DHY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bernard Lavilliers",
+	"title":"Les mains d’or",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=C_FrCekiYSY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Toute première fois",
+	"title":"Toute première fois",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=nqjGhiLYkOw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Daniel Balavoine",
+	"title":"Le chanteur",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=HXdP15Ubu6M",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Michel Polnareff : on ira tous au paradis",
+	"title":"Michel Polnareff : on ira tous au paradis",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=DBXaKjMsTbI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Johnny Hallyday",
+	"title":"L'envie",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=33pac2EN53Y",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"France Gall",
+	"title":"Donner pour donner",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=iyxFMSPdqpg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Cyndi Lauper",
+	"title":"Time After Time",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=VdQY7BusJNU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Pierre Bachelet",
+	"title":"Elle est d'ailleurs",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=aIKItIaNnys",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Culture Club",
+	"title":"Do You Really Want To Hurt Me",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=2nXGPZaTKik",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Renaud",
+	"title":"Mistral gagnant",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=_YqzuE-5RE8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Lionel Richie",
+	"title":"All Night Long",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=nqAvFx3NxUM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Lionel Richie",
+	"title":"All Night Long",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=nqAvFx3NxUM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Kim Wilde",
+	"title":"Cambodia",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=BERFZja9wb0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Louise Attaque",
+	"title":"je t'emmene au vent",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=JD-riIt7h_A",
+	"playlist":["variete"]
+	},
+	{
+	"type":"song",
+	"author":"Julien Clerc",
+	"title":"Ma préférence",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=vUGzmbh_o0w",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Jean-Jacques Goldman",
+	"title":"Quand la musique est bonne",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=-boDeijWuOY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Murray Head",
+	"title":"One Night In Bangkok",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=rgc_LRjlbTU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Une autre histoire",
+	"title":"Une autre histoire",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=zcG4rTyhPNI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Blondie",
+	"title":"Heart Of Glass",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=WGU_4-5RaxU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"The Human League",
+	"title":"Don't You Want Me",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=uPudE8nDog0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Etienne Daho",
+	"title":"Saudade",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=baRz32cIey4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Etienne Daho",
+	"title":"Des heures hindoues",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=I66DaObuSEU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Talk Talk",
+	"title":"Such A Shame",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=lLdvpFIPReA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"The Communards",
+	"title":"Don't Leave Me This Way",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=1RHBAd5YUR8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"The Stranglers",
+	"title":"Always The Sun",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=cYQTL-ws6p4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Midnight Oil",
+	"title":"Beds Are Burning",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ejorQVy3m8E",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Dexys Midnight Runners, Kevin Rowland",
+	"title":"Come On Eileen",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=6BODDyZRF6A",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Michel Sardou",
+	"title":"Les lacs du Connemara",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=bpEmjxobvbY",
+	"playlist":["Variete"]
+	},
+	{
+	"type":"song",
+	"author":"Alain Bashung",
+	"title":"La nuit je mens",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=r6_aNASroxo",
+	"playlist":["variete"]
+	},
+	{
+	"type":"song",
+	"author":"Jean-Patrick Capdevielle",
+	"title":"Quand t'es dans le désert",
+	"lang":"fr",
+	"year":1980,
+	"youtube":"https://www.youtube.com/watch?v=Mkzw7Wop9pU",
+	"playlist":["80s"]
+	},
+	{
+	"type":"song",
+	"author":"Love Me, Please Love Me",
+	"title":"Love Me, Please Love Me",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=haHoDJfcOvI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Etienne Daho",
+	"title":"Comme un boomerang",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=OgmAy9e8fpA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Souchon",
+	"title":"La ballade de Jim",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Eg9YmQqTg3s",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"La vie ne m'apprend rien",
+	"title":"La vie ne m'apprend rien",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ZWXeZQcYsho",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Jean",
+	"title":"Jacques Goldman - Pas toi",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=6XMyHym9vGs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Richard Cocciante : Le Coup de Soleil",
+	"title":"Richard Cocciante : Le Coup de Soleil",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=CIjqKL33TTE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Niagara",
+	"title":"Tchiki Boum",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=dyF8dpKPPuI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Le Premier jour du reste de ta vie",
+	"title":"Le Premier jour du reste de ta vie",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=AlwgC9yqNcw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Souchon",
+	"title":"Foule sentimentale",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=V_SNDGwwGFM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Etienne Daho",
+	"title":"Duel au soleil",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=_IRSPA25vCA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hubert",
+	"title":"Félix Thiéfaine - Je t'en remets au vent",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=m-ozZp5SBOU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Etienne Daho",
+	"title":"Tombé pour la France",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=EqeJUGzvnq0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"L'amour avec toi",
+	"title":"L'amour avec toi",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=MqwVpFb1HUk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Sur la route de Memphis",
+	"title":"Sur la route de Memphis",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=k4uAetQruwA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Thiefaine",
+	"title":"La fille du coupeur de joint au zenith",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=jiKYhvpBgpw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Eddy Mitchel",
+	"title":"Couleur menthe à l'eau",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=CCYN79b6_ks",
+	"playlist":["variete","70s"]
+	},
+	{
+	"type":"song",
+	"author":"Indochine",
+	"title":"L'aventurier",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=M7X6oYg6iro",
+	"playlist":["80s"]
+	},
+	{
+	"type":"song",
+	"author":"Elli Medeiros",
+	"title":"Toi Mon Toi",
+	"lang":"en",
+	"year":1986,
+	"youtube":"https://www.youtube.com/watch?v=6cuv2irrtWQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Black",
+	"title":"Wonderful Life",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=u1ZoHfJZACA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Johnny Hallyday",
+	"title":"Quelque chose de Tennessee",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=8Sc4Pb7d1Nk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"J'aime les filles",
+	"title":"J'aime les filles",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=0J5K4O19WUc",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"a",
+	"title":"ha - Take On Me",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=djV11Xbc914",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Culture Club",
+	"title":"Karma Chameleon",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=JmcA9LIIXWw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Charles Aznavour",
+	"title":"Emmenez-moi",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=0OrKMaeQUx0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Les Rita Mitsouko",
+	"title":"Marcia Baïla",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=1zWlnzFXcKY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Et si tu n'existais pas",
+	"title":"Et si tu n'existais pas",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Ueba8LaflnE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Il est cinq heures, Paris s'éveille",
+	"title":"Il est cinq heures, Paris s'éveille",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=J8Wi6wr4bGs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Peter Gabriel",
+	"title":"Sledgehammer",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=OJWJE0x7T4Q",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Axel Bauer, Zazie",
+	"title":"A Ma Place",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=vOznRtE4fOg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"La poupée qui fait non",
+	"title":"La poupée qui fait non",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=OhaU5b3Qp5M",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Noir Désir",
+	"title":"L'homme pressé",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=by1RRP9wa_Y",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Depeche Mode",
+	"title":"Just Can't Get Enough",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=_6FBfAQ-NDE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Niagara",
+	"title":"J'ai Vu",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Fe8mocHKHnM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Ryan Paris",
+	"title":"Dolce Vita",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=EXmABxvHTG4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bronski Beat Smalltown Boy",
+	"title":"Bronski Beat Smalltown Boy",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=zOkOK8afLHI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Depeche Mode",
+	"title":"Personal Jesus",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=u1xrNaTO1bI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Peter Gabriel",
+	"title":"Don't Give Up",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=VjEq-r2agqc",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Madness",
+	"title":"Our House",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=KwIe_sjKeAY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Eurythmics","Annie Lennox","Dave Stewart"],
+	"title":"Sweet Dreams",
+	"lang":"en",
+	"year": 1983,
+	"youtube":"https://www.youtube.com/watch?v=qeMFqkcPYcg",
+	"playlist":["pop","80s"]
+	},
+{
+	"type":"song",
+	"author":"Eurythmics, Annie Lennox, Dave Stewart",
+	"title":"Missionary Man",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=0-Q3cp3cp88",
+	"playlist":["en","80s"]
+	},
+	{
+	"type":"song",
+	"author":"Eurythmics, Annie Lennox, Dave Stewart",
+	"title":"Love Is a Stranger",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=o6f593X6rv8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Sexcrime",
+	"title":"Sexcrime",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=yudmtYsv_oU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"James Brown",
+	"title":"I Feel Good",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=B1wOK9yGUYM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hit the Road Jack",
+	"title":"Hit the Road Jack",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=SrnWp5O0DEs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Ray Charles",
+	"title":"I Can't Stop Loving You",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=QX9HFyQMMC4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Ray Charles",
+	"title":"Georgia On My Mind",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ggGzE5KfCio",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Aretha Franklin",
+	"title":"Respect",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=A134hShx_gw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Feeling Good",
+	"title":"Feeling Good",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=BNMKGYiJpvg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Nancy Sinatra",
+	"title":"These Boots Are Made For Walkin'",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=m2fPkzJsMU8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bang Bang",
+	"title":"Bang Bang",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=OEFa4ztm9P0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Marvin Gaye",
+	"title":"Let's Get It On",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=x6QZn9xiuOE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Marvin Gaye",
+	"title":"What's Going On",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=H-kA3UtBj4M",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Mercy Mercy Me",
+	"title":"Mercy Mercy Me",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=_f5xq6vCQS8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Vancouver",
+	"title":"Vancouver",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=LW2fZrNqEAw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Eurythmics",
+	"title":"There Must Be An Angel",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=RCdneDxFRYQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Eurythmics","Annie Lennox","Dave Stewart"],
+	"title":"Here Comes The Rain Again",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=TzFnYcIqj6I",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Genesis",
+	"title":"Jesus He Knows Me",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=35K6vQRt67g",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tears For Fears",
+	"title":"Mad World",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=u1ZvPSpLxCg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Paul Simon",
+	"title":"You Can Call Me Al",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=uq-gYOrU8bA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Genesis",
+	"title":"That's All",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Vzyn60Zns-E",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Phil Collins",
+	"title":"In The Air Tonight",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=YkADj0TPrJA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Genesis",
+	"title":"Land Of Confusion",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=TlBIa8z_Mts",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Depeche Mode",
+	"title":"Never Let Me Down Again",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=snILjFUkk_A",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Depeche Mode",
+	"title":"People Are People",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=MzGnX-MbYE4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Ram Jam",
+	"title":"Black Betty",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=I_2D8Eo15wE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"ABBA",
+	"title":"Gimme! Gimme! Gimme!",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=XEjLoHdbVeE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Depeche Mode",
+	"title":"A Question Of Time",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=9pt7EWFF_T8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Kalki Koechlin: The Printing Machine | Unblushed",
+	"title":"Kalki Koechlin: The Printing Machine | Unblushed",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=JF0_dGYeSEk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Le Témoin Magnifique",
+	"title":"Le Témoin Magnifique",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Bk0i6VQp0sI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"The Beatles",
+	"title":"A Day In The Life",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=usNsCeOV4GM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Michel Delpech",
+	"title":"Quand j'étais chanteur",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=9Z27xAaE_dU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Charles Aznavour",
+	"title":"La bohème",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=fVfnEyLOkrM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Christophe",
+	"title":"Les mots bleus",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=OqZY0Kztm3Q",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Orchestral Manoeuvres In The Dark",
+	"title":"Enola Gay",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=d5XJ2GiR6Bo",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Michel Sardou",
+	"title":"Je vais t’aimer",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=DyvukrAgZ-g",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Michel Polnareff ~ Le Bal Des Laze",
+	"title":"Michel Polnareff ~ Le Bal Des Laze",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=tPxajzP-2jQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"France Gall",
+	"title":"Comment lui dire",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=2uqpXetUT5w",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"France Gall",
+	"title":"Ca balance pas mal à Paris",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=WQqjcmVbYGI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"BARBARA ....L' aigle noir",
+	"title":"BARBARA ....L' aigle noir",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=d9cEY13bUTo",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Julien Clerc",
+	"title":"Ce N'est Rien",
+	"lang":"fr",
+	"year": 1971,
+	"youtube":"https://www.youtube.com/watch?v=ZzQ403SHTPM",
+	"playlist":["70s","variete"]
+	},
+	{
+	"type":"song",
+	"author":"Celui qui chante",
+	"title":"Celui qui chante",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=KxTr58C9CHg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Maxime Le Forestier : San Francisco",
+	"title":"Maxime Le Forestier : San Francisco",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=0uT87XQrki0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Bashung",
+	"title":"Vertige de l'amour",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=D136hOqYF28",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Véronique Sanson",
+	"title":"Chanson sur ma drôle de vie",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=NAogfwwqwGY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Véronique Sanson",
+	"title":"Chanson sur ma drôle de vie",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=NAogfwwqwGY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"France Gall",
+	"title":"Si maman si",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=EYF8n5aRzwM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Michel Berger",
+	"title":"Seras tu là ?",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=bJtzg2Vpkp8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Michel Berger",
+	"title":"La groupie du pianiste",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=hFCYZ4ViQDY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"France Gall",
+	"title":"La déclaration d'amour",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=4ufY6fB_jgA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Vancouver",
+	"title":"Vancouver",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=LW2fZrNqEAw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Led Zeppelin",
+	"title":"Stairway To Heaven",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=QkF3oxziUI4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Kashmir",
+	"title":"Kashmir",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=tzVJPgCn-Z8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Led Zeppelin",
+	"title":"Immigrant Song",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=P3Y8OWkiUts",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"",
+	"title":"Etienne Daho - Week end à Rome",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Ft2U58G5Szw&list=RDEMaRzAJOU-lMPqj2687jJOTA&index=17",
+	"playlist":""
+	},
+	{
+	"type":"song",
+	"author":"",
+	"title":"Musique",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=xc0fAO9Ouzs",
+	"playlist":""
+	},
+	{
+	"type":"song",
+	"author":"",
+	"title":"France Gall - Hong-Kong Star (Audio officiel)",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=L0EIZ2z5azU&list=RDEMaRzAJOU-lMPqj2687jJOTA&index=13",
+	"playlist":""
+	},
+	{
+	"type":"song",
+	"author":"",
+	"title":"France Gall - Résiste (Audio officiel)",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=I5mlAZkibgw&list=RDEMaRzAJOU-lMPqj2687jJOTA&index=12",
+	"playlist":""
+	},
+	{
+	"type":"song",
+	"author":"Michel Polnareff",
+	"title":"Lettre à france",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=Fk2VBiMm9I4&list=RDEMaRzAJOU-lMPqj2687jJOTA&index=10",
+	"playlist":["70s","variete"]
+	},
+	{
+	"type":"song",
+	"author":"France Gall",
+	"title":"Besoin d'amour",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=b6U2K3LfNfg",
+	"playlist":["70s","variete"]
+	},
+	{
+	"type":"song",
+	"author":"Michel Berger",
+	"title":"Quelques mots d'amour",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=3Z4hhmOtAMM",
+	"playlist":""
+	},
+	{
+	"type":"song",
+	"author":"France Gall",
+	"title":"Débranche",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=Xa6WZkfKlxA",
+	"playlist":""
+	},
+	{
+	"type":"song",
+	"author":"La P'tite Lady",
+	"title":"Vivien Savage",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=xmOk4P78bt",
+	"playlist":["80s","France","Pop"]
+	},
+	{
+	"type":"song",
+	"author":"Michel Berger",
+	"title":"Les Princes Des Villes",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=0z0lY83p5ZI",
+	"playlist":["80s","France"]
+	},
+	{
+	"type":"song",
+	"author":"Michel Berger",
+	"title":"Mademoiselle Chang",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=qJVur-uuD1U",
+	"playlist":["80s","France"]
+	},
+	{
+	"type" : "music",
+	"title" : "Le jour c'est levé",
+	"author": "Telephone",
+	"lang": "fr",
+	"youtube": "https://www.youtube.com/watch?v=ogb2dJEVds8",
+	"playlist" : ["80s","France","Calme"]
+	},
+        {
+        "type" : "music",
+        "title" : "Father Figure",
+        "author": "George Michael",
+        "lang": "en",
+        "youtube": "https://www.youtube.com/watch?v=m_9hfHvQSNo",
+        "playlist" : ["80s","pop"]
+        },
+        {
+        "type" : "music",
+        "title" : "Careless Whisper",
+        "author": "George Michael",
+        "lang": "en",
+        "youtube": "https://www.youtube.com/watch?v=izGwDsrQ1eQ",
+        "playlist" : ["80s","pop","slow"]
+        },
+        {
+        "type" : "music",
+        "title" : "Freedom 90",
+        "author": "George Michael",
+        "lang": "en",
+        "youtube": "https://www.youtube.com/watch?v=diYAc7gB-0A",
+        "playlist" : ["80s","pop"]
+        },
+        {
+        "type" : "music",
+        "title" : "Comboys and angels",
+        "author": "George Michael",
+        "lang": "en",
+        "youtube": "https://www.youtube.com/watch?v=Ve-rxwKuqtI",
+        "playlist" : ["80s","slow"]
+        }
+
+];
