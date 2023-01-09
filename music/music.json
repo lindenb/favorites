@@ -1,6 +1,33 @@
 var data = [
 	{
 	"type":"song",
+	"author":"Billy Joel",
+	"title":"My Life",
+	"lang":"en",
+	"year": 1978,
+	"youtube":"https://www.youtube.com/watch?v=h3JFEfdK_Ls",
+	"playlist":["80s","pop"]
+	},
+	{
+	"type":"song",
+	"author":"Billy Joel",
+	"title":"Pressure",
+	"lang":"en",
+	"year":1982,
+	"youtube":"https://www.youtube.com/watch?v=Iyv905Q2omU",
+	"playlist":["80s","pop","rock"]
+	},
+	{
+	"type":"song",
+	"author":["Isabelle Adjani","Serge Gainsbourg"]
+	"title":"Pull marine",
+	"lang":"fr",
+	"year":1984,
+	"youtube":"https://www.youtube.com/watch?v=XDVZoMlxzJA",
+	"playlist":["variete","80s"]
+	},
+	{
+	"type":"song",
 	"author":"MATHIEU BOOGAERTS",
 	"title":"AVANT QUE JE M'ENNUIE",
 	"lang":"fr",
@@ -1214,6 +1241,115 @@ var data = [
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=vUGzmbh_o0w",
 	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Julien Clerc",
+	"title":"Souffrir par toi n'est pas souffrir",
+	"lang":"fr",
+	"year":1975,
+	"youtube":"https://www.youtube.com/watch?v=c49_exfPoT8",
+	"playlist":["variete","70s"]
+	},
+	{
+	"type":"song",
+	"author":"Julien Clerc",
+	"title":"Ça commence comme un rêve d'enfant",
+	"lang":"fr",
+	"year":1979,
+	"youtube":"https://www.youtube.com/watch?v=wRXsPK9NqrA",
+	"playlist":["variete","70s"]
+	},
+	{
+	"type":"song",
+	"author":"Julien Clerc",
+	"title":"Coeur de Rocker",
+	"lang":"fr",
+	"year":1982,
+	"youtube":"https://www.youtube.com/watch?v=3R9grTgxcEo",
+	"playlist":["variete","80s"]
+	},
+	{
+	"type":"song",
+	"author":"Julien Clerc",
+	"title":"La fille aux bas nylon",
+	"lang":"fr",
+	"year": 1984,
+	"youtube":"https://www.youtube.com/watch?v=iX8ZJkz5l4w",
+	"playlist":["variete","80s"]
+	},
+	{
+	"type":"song",
+	"author":"Julien Clerc",
+	"title":"La Californie",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=1Aasx2RSxkA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Julien Clerc",
+	"title":"La Cavalerie",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=bsXcmFsidsE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Serge Reggiani",
+	"title":"Il suffirait de presque rien",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=kKsxiwgKShA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Serge Reggiani",
+	"title":"Ma solitude",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=B8scO403YtE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Serge Reggiani",
+	"title":"Votre fille a 20 ans",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=6rwsYtO-d4U",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Serge Reggiani",
+	"title":"Les loups sont entrés dans Paris",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=96xjUEhK-rs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Serge Reggiani",
+	"title":"Sarah",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=gPXhQxYThqs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":""Serge Reggiani",
+	"title":"Le petit garçon",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=tLP0vQfCaJw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Julien Clerc",
+	"title":"Ballade pour un fou",
+	"lang":"fr",
+	"year":1975,
+	"youtube":"https://www.youtube.com/watch?v=PRCRaE9ulOI",
+	"playlist":["variete","70s"]
 	},
 	{
 	"type":"song",
