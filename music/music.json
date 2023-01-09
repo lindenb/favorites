@@ -1,9 +1,337 @@
 var data = [
 	{
 	"type":"song",
+	"author":"MATHIEU BOOGAERTS",
+	"title":"AVANT QUE JE M'ENNUIE",
+	"lang":"fr",
+	"year": 2012,
+	"youtube":"https://www.youtube.com/watch?v=yxwN2RZiGKk",
+	"playlist":["variete"]
+	},
+	{
+	"type":"song",
+	"author":"Richard Gotainer",
+	"title":"Le Mambo Du Decalco",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=O9lEuPGfpic",
+	"playlist":["variete"]
+	},
+	{
+	"type":"song",
+	"author":"GONTARD",
+	"title":"Dans ma ville",
+	"lang":"fr",
+	"year": 2019,
+	"youtube":"https://www.youtube.com/watch?v=ycvIg0h_8tQ",
+	"playlist":["rap"]
+	},	{
+	"type":"song",
+	"author":"Gerry Rafferty",
+	"title":"The Ark",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=p9MOCN29akc",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Les Frères Jacques",
+	"title":"Général à Vendre",
+	"lang":"fr",
+	"year": 1955,
+	"youtube":"https://www.youtube.com/watch?v=-a6jSciXd3M",
+	"playlist":["variete","50s"]
+	},
+	{
+	"type":"song",
+	"author":"Gerry Rafferty",
+	"title":"'Baker Street'",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Y8JPXwst6P4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Gerry Rafferty",
+	"title":"Whatever's Written in Your Heart",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=xae30OFPZz8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Lou Reed",
+	"title":"Walk on the Wild Side",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=oG6fayQBm9w",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"The Temptations",
+	"title":"Papa Was A Rolling Stone",
+	"lang":"en",
+	"year":1972,
+	"youtube":"https://www.youtube.com/watch?v=nXiQtD5gcHU",
+	"playlist":["soul","70s"]
+	},
+	{
+	"type":"song",
+	"author":"JeanJacques Goldman",
+	"title":"Encore Un Matin",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=lp-9brK2O84",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Jean-Jacques Goldman",
+	"title":"Il suffira d'un signe",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Vav-2sgJ4MI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Frank Sinatra",
+	"title":"L.O.V.E.",
+	"lang":"en",
+	"year": 1964,
+	"duration":"2m30s",
+	"youtube":"https://www.youtube.com/watch?v=tmSzRx9RYLk",
+	"playlist":["jazz","swing","soul"]
+	},	{
+	"type":"song",
+	"author":"P̲ink F̲lo̲yd",
+	"title":"Wish you were here (Full Album)",
+	"lang":"en",
+	"year": 1975,
+	"duration": "44m17s",
+	"youtube":"https://www.youtube.com/watch?v=0pGSl-QIHWY",
+	"playlist":["70s","pysche"]
+	},
+	{
+	"type":"song",
+	"author":"John Scott",
+	"title":"Final CountDown",
+	"lang":null,
+	"year":1980,
+	"youtube":"https://www.youtube.com/watch?v=McNSgFzSm3s",
+	"playlist":["movie","orchestral"]
+	},
+	{
+	"type":"song",
+	"author":"John Scott",
+	"title":"Mr. And Mrs. Tideman",
+	"lang":null,
+	"year":1980,
+	"youtube":"https://www.youtube.com/watch?v=McPuDsLlKcA",
+	"playlist":["movie","orchestral"]
+	},
+	{
+	"type":"song",
+	"author":"Fame",
+	"title":"Hot Lunch Jam",
+	"lang":"en",
+	"year":1980,
+	"youtube":"https://www.youtube.com/watch?v=QMMHut0t-HU",
+	"playlist":["rock","80s","movie"]
+	},
+	{
+	"type":"song",
+	"author":"Prince",
+	"title":"Sign 'O' the Times",
+	"lang":"en",
+	"year": 1987,
+	"youtube":"https://www.youtube.com/watch?v=SO-rvSerJXc",
+	"playlist":["80s","rock"]
+	},
+	{
+	"type":"song",
+	"author":"Prince",
+	"title":"Sometimes It Snows in April",
+	"lang":"en",
+	"year":  1986,
+	"youtube":"https://www.youtube.com/watch?v=ikZgBhSMSUM",
+	"playlist":["slow","80s"]
+	},
+	{
+	"type":"song",
+	"author":"Prince",
+	"title":"Purple Rain",
+	"lang":"en",
+	"year":  1984,
+	"youtube":"https://www.youtube.com/watch?v=S6Y1gohk5-A",
+	"playlist":["rock","80s"]
+	},
+	{
+	"type":"song",
+	"author":"Prince",
+	"title":"When Doves Cry",
+	"lang":"en",
+	"year":  1984,
+	"youtube":"https://www.youtube.com/watch?v=UG3VcCAlUgE",
+	"playlist":["rock","80s"]
+	},
+	{
+	"type":"song",
+	"author":["DMC","Aerosmith"],
+	"title":"Walk This Way",
+	"lang":"en",
+	"year": 1986,
+	"youtube":"https://www.youtube.com/watch?v=4B_UYYPb-Gk",
+	"playlist":["80s","rock","rap"]
+	},
+	{
+	"type":"song",
+	"author":"Deep Purple",
+	"title":"Smoke on the Water",
+	"lang":"en",
+	"year":  1972,
+	"youtube":"https://www.youtube.com/watch?v=zUwEIt9ez7M",
+	"playlist":["70s","rock"]
+	},
+	{
+	"type":"song",
+	"author":"Tomoyasu Hotei",
+	"title":"Battle Without Honor Or Humanity",
+	"lang":null,
+	"year": 2000,
+	"youtube":"https://www.youtube.com/watch?v=gw5vAd5icAg",
+	"playlist":["movie"]
+	},
+	{
+	"type":"song",
+	"author":"AIR",
+	"title":"Playground Love",
+	"lang":"en",
+	"year":2000,
+	"youtube":"https://www.youtube.com/watch?v=NAgX1jO3No0",
+	"playlist":["slow","movie"]
+	},
+	{
+	"type":"song",
+	"author":"T-Rex",
+	"title":"Cosmic Dancer",
+	"lang":"en",
+	"year": 1971,
+	"youtube":"https://www.youtube.com/watch?v=GMfjA4gyEcU",
+	"playlist":["70s","pop","movie"]
+	},
+	{
+	"type":"song",
+	"author":"T-Rex",
+	"title":"Bang a Gong (Get In On)",
+	"lang":"en",
+	"year": 1971,
+	"youtube":"https://www.youtube.com/watch?v=TVEhDrJzM8E",
+	"playlist":["70s","rock"]
+	},
+	{
+	"type":"song",
+	"author":"The Who",
+	"title":"Pinball Wizard",
+	"lang":"en",
+	"year": 1969,
+	"youtube":"https://www.youtube.com/watch?v=4AKbUm8GrbM",
+	"playlist":["60s","pop","rock"]
+	},
+	{
+	"type":"song",
+	"author":"The Who",
+	"title":"My Generation",
+	"lang":"en",
+	"year": 1965,
+	"youtube":"https://www.youtube.com/watch?v=qN5zw04WxCc",
+	"playlist":["60s","pop","rock"]
+	},
+	{
+	"type":"song",
+	"author":"The Who",
+	"title":"Baba O'Riley",
+	"lang":"en",
+	"year": 1971,
+	"youtube":"https://www.youtube.com/watch?v=rIbMbXjbW98",
+	"playlist":["70s","psyche","rock"]
+	},
+	{
+	"type":"song",
+	"author":"The Doors",
+	"title":"The Doors The End",
+	"lang":"en",
+	"year":1967,
+	"duration":"11m45s",
+	"youtube":"https://www.youtube.com/watch?v=ZeMlQEWEg2Q",
+	"playlist":["60s","movie","rock","psyche"]
+	},
+	{
+	"type":"song",
+	"author":"The Doors",
+	"title":"Riders On The Storm",
+	"lang":"en",
+	"year":1971,
+	"youtube":"https://www.youtube.com/watch?v=iv8GW1GaoIc",
+	"playlist":["70s","pop","rock","psyche"]
+	},
+	{
+	"type":"song",
+	"author":"The Police",
+	"title":"So Lonely",
+	"year":1978,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=dpW-1kY9GU4",
+	"playlist":["80s","pop"]
+	},
+	{
+	"type":"song",
+	"author":"The Police",
+	"title":"Roxanne",
+	"lang":"en",
+	"year":1981,
+	"youtube":"https://www.youtube.com/watch?v=fZheUzgIFEk",
+	"playlist":["80s","pop"]
+	},
+	{
+	"type":"song",
+	"author":"The Police",
+	"title":"Every Little Thing She Does Is Magic",
+	"lang":"en",
+	"year":1981,
+	"youtube":"https://www.youtube.com/watch?v=aENX1Sf3fgQ",
+	"playlist":["80s","pop"]
+	},
+	{
+	"type":"song",
+	"author":"The Police",
+	"title":"Don't Stand So Close To Me",
+	"lang":"en",
+	"year":1980,
+	"youtube":"https://www.youtube.com/watch?v=KNIZofPB8ZM",
+	"playlist":["80s","pop"]
+	},
+	{
+	"type":"song",
+	"author":"The Police",
+	"title":"Message In A Bottle",
+	"lang":"en",
+	"year":1979,
+	"youtube":"https://www.youtube.com/watch?v=MbXWrmQW-OE",
+	"playlist":["80s","pop"]
+	},
+	{
+	"type":"song",
+	"author":"The Police",
+	"title":"Walking On The Moon",
+	"lang":"en",
+	"year":1979,
+	"youtube":"https://www.youtube.com/watch?v=zPwMdZOlPo8",
+	"playlist":["80s","pop"]
+	},
+	{
+	"type":"song",
 	"author":"Vincent Delerm",
 	"title":"Fanny Ardant et moi",
 	"lang":"en",
+	"year": 2002,
 	"youtube":"https://www.youtube.com/watch?v=OVebbkH8F6w",
 	"playlist":[""]
 	},
@@ -12,6 +340,7 @@ var data = [
 	"author":"Tes parents",
 	"title":"Tes parents",
 	"lang":"en",
+	"year": 2002,
 	"youtube":"https://www.youtube.com/watch?v=NbRAdEHLvqw",
 	"playlist":[""]
 	},
@@ -20,6 +349,7 @@ var data = [
 	"author":"Le monologue shakespearien",
 	"title":"Le monologue shakespearien",
 	"lang":"en",
+	"year": 2002,
 	"youtube":"https://www.youtube.com/watch?v=vs5GS4QeIP4",
 	"playlist":[""]
 	},
@@ -28,6 +358,7 @@ var data = [
 	"author":"Cosmopolitan",
 	"title":"Cosmopolitan",
 	"lang":"en",
+	"year": 2002,
 	"youtube":"https://www.youtube.com/watch?v=zFJvNdoS1qM",
 	"playlist":[""]
 	},
@@ -36,6 +367,7 @@ var data = [
 	"author":"Deauville sans trintignant",
 	"title":"Deauville sans trintignant",
 	"lang":"en",
+	"year": 2002,
 	"youtube":"https://www.youtube.com/watch?v=yk9CWcoIM30",
 	"playlist":[""]
 	},
@@ -159,7 +491,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":Pink Floyd",
+	"author":"Pink Floyd",
 	"title":"Wish You Were Here",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=hjpF8ukSrvk",
@@ -1078,10 +1410,162 @@ var data = [
 	},
 	{
 	"type":"song",
+	"title":"La beauté d'Ava Gardner",
+	"author":"Alain Souchon",
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=hld-bz24DXY",
+	"playlist":["variete"]
+	},
+	{
+	"type":"song",
+	"author":"Alain Souchon",
+	"title":"Les cadors",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=cePV7P86SdY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Souchon",
+	"title":"C'est comme vous voulez",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=8zh6s4qzPHY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Souchon",
+	"title":"Le bagad de Lann Bihoué",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=BanP4Mu_g2g",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Souchon",
+	"title":"Jamais content",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=VbGR-PNdeOE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Souchon",
+	"title":"Bidon",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=rhovrqeMT9I",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Souchon",
+	"title":"Poulailler's Song",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=bMGqcGtSgho",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Souchon",
+	"title":"J'veux du cuir",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=VDCofH6PmAs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Souchon",
+	"title":"Quand j'serai K.O.",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=DJo3p9ukt24",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Souchon",
+	"title":"J'ai dix ans",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ANr_Ff3Lqbs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Souchon",
+	"title":"La vie ne vaut rien",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=nHR5H1b6_R0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"ALAIN SOUCHON",
+	"title":"Rive Gauche",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=gZ6aOUoJvRg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Souchon",
+	"title":"On avance",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=pre8VCCdiX0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Souchon",
+	"title":"Somerset maugham",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=0_lC1pzZb9M",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Souchon",
+	"title":"Sous les jupes des filles",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=nxtYAw-VmEw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Souchon",
+	"title":"L'amour à la machine",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=lhaPy4yh0N0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Souchon",
+	"title":"Y'a d'la rumba dans l'air",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=SdPj0oRGFzU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Etienne Daho",
 	"title":"Duel au soleil",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=_IRSPA25vCA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Véronique Sanson",
+	"title":"Le Maudit",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=pgZ215t1lJQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Veronique Sanson",
+	"title":"Alia Souza",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=oefXwYqS50c",
 	"playlist":[""]
 	},
 	{
@@ -1311,7 +1795,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Eurythmics","Annie Lennox","Dave Stewart"],
+	"author":["Eurythmics","Annie Lennox","Dave Stewart"],
 	"title":"Sweet Dreams",
 	"lang":"en",
 	"year": 1983,
@@ -1320,23 +1804,23 @@ var data = [
 	},
 {
 	"type":"song",
-	"author":"Eurythmics, Annie Lennox, Dave Stewart",
+	"author":["Eurythmics","Annie Lennox","Dave Stewart"],
 	"title":"Missionary Man",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=0-Q3cp3cp88",
-	"playlist":["en","80s"]
+	"playlist":["pop","80s"]
 	},
 	{
 	"type":"song",
-	"author":"Eurythmics, Annie Lennox, Dave Stewart",
+	"author":["Eurythmics","Annie Lennox","Dave Stewart"],
 	"title":"Love Is a Stranger",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=o6f593X6rv8",
-	"playlist":[""]
+	"playlist":["pop","80s"]
 	},
 	{
 	"type":"song",
-	"author":"Sexcrime",
+	"author": ["Eurythmics","Annie Lennox","Dave Stewart"],
 	"title":"Sexcrime",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=yudmtYsv_oU",
@@ -1801,6 +2285,78 @@ var data = [
 	},
 	{
 	"type":"song",
+	"author":"Veronique Sanson",
+	"title":"Besoin de personne",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=QDyBT6scETs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Veronique Sanson",
+	"title":"Bernard's Song",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=m7xMEuspc2s",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Véronique Sanson",
+	"title":"Doux dehors, fou dedans",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ordtF292IXw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Robert Charlebois",
+	"title":"Lindberg",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=AtYcPgLXzG8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Robert Charlebois",
+	"title":"Je reviendrai à Montréal",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=g4NXUo8qipM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Robert Charlebois",
+	"title":"Conception",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=EQkvSAvpX4w",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Robert Charlebois",
+	"title":"Ordinaire",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=IDGNA83mxDo",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Robert Charlebois",
+	"title":"Quebec Love",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=sATRhhqUiAc",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Beau Dommage",
+	"title":"La Complainte Du Phoque En Alaska",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=JWKpzJrli9c",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Michel Berger",
 	"title":"Quelques mots d'amour",
 	"lang":"fr",
@@ -1840,7 +2396,7 @@ var data = [
 	"playlist":["80s","France"]
 	},
 	{
-	"type" : "music",
+	"type" : "song",
 	"title" : "Le jour c'est levé",
 	"author": "Telephone",
 	"lang": "fr",
@@ -1848,7 +2404,7 @@ var data = [
 	"playlist" : ["80s","France","Calme"]
 	},
         {
-        "type" : "music",
+        "type" : "song",
         "title" : "Father Figure",
         "author": "George Michael",
         "lang": "en",
@@ -1856,7 +2412,7 @@ var data = [
         "playlist" : ["80s","pop"]
         },
         {
-        "type" : "music",
+        "type" : "song",
         "title" : "Careless Whisper",
         "author": "George Michael",
         "lang": "en",
@@ -1864,7 +2420,7 @@ var data = [
         "playlist" : ["80s","pop","slow"]
         },
         {
-        "type" : "music",
+        "type" : "song",
         "title" : "Freedom 90",
         "author": "George Michael",
         "lang": "en",
@@ -1872,12 +2428,12 @@ var data = [
         "playlist" : ["80s","pop"]
         },
         {
-        "type" : "music",
+        "type" : "song",
         "title" : "Comboys and angels",
         "author": "George Michael",
         "lang": "en",
         "youtube": "https://www.youtube.com/watch?v=Ve-rxwKuqtI",
-        "playlist" : ["80s","slow"]
+        "playlist" : ["80s","slow","pop"]
         }
 
 ];
