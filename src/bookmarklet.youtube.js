@@ -7,7 +7,7 @@ function grab(){
 		(dash<0?t:t.substring(0,dash).trim()) +
 		"\",\n\t\"title\":\"" +
 		(dash<0?t:t.substring(dash+1).trim())+
-		"\",\n\t\"lang\":\"en\",\n\t\"youtube\":\"" +
+		"\",\n\t\"year\":null,\n\t\"lang\":\"en\",\n\t\"youtube\":\"" +
 		document.location.href.replace(/&.*/,"") +
 		"\",\n\t\"playlist\":[\"\"]\n\t},\n";
 	alert(s);

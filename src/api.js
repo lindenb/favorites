@@ -50,10 +50,51 @@ class Track {
 	getTitle() {
 		return this.object.title;
 		}
+	createAuthorAnchor(s) {
+		var a = document.createElement("a");
+		a.setAttribute("class","author");
+		a.setAttribute("title",s);
+		a.setAttribute("href","#");
+		a.appendChild(document.createTextNode(s));
+		return a;
+		}
+	createPlaylistAnchor(s) {
+		var a = document.createElement("a");
+		a.setAttribute("class","playlist");
+		a.setAttribute("title",s);
+		a.setAttribute("href","#");
+		a.appendChild(document.createTextNode("["+s+"]"));
+		return a;
+		}
+	createLangAnchor(s) {
+		var a = document.createElement("a");
+		a.setAttribute("class","lang");
+		a.setAttribute("title",s);
+		a.setAttribute("href","#");
+		a.appendChild(document.createTextNode(s));
+		return a;
+		}
 	getNode() {
 		if(this.node==null) {
 			this.node = document.createElement("div");
-			this.node.appendChild(document.createTextNode(this.getTitle()));
+			this.node.setAttribute("class","post-container");
+
+
+			var h3 = document.createElement("div");
+			h3.setAttribute("class","post-title");
+			this.node.appendChild(h3);
+
+			var  authors = toArray(this.object.author);
+			for(var i=0;i< authors.length;i++) {
+				h3.appendChild(this.createAuthorAnchor(authors[i]));
+				h3.appendChild(document.createTextNode(i+1==authors.length?" : ":" & "));
+				}
+
+			/** IMAGE, LINK TO YOUTUBE */
+			var div = document.createElement("div");
+                        div.setAttribute("class","post-thumb");
+			this.node.appendChild(div);
+
 			var src =  this.getSmallImgFromYoutube();
 			if(src!=null) {
 				var img = document.createElement("img");
@@ -61,8 +102,33 @@ class Track {
 				img.setAttribute("alt", src);
 				img.setAttribute("width", "120");
 				img.setAttribute("height", "90");
-				this.node.appendChild(img);
+				div.appendChild(img);
 				}
+			var div = document.createElement("div");
+                        div.setAttribute("class","post-content");
+			this.node.appendChild(div);
+
+			var span = document.createElement("span");
+			span.appendChild(document.createTextNode(this.getTitle()));
+			div.appendChild(span);
+
+			// play list
+			span = document.createElement("span");
+			var  playlists = toArray(this.object.playlist);
+			for(var i=0;i< playlists.length;i++) {
+				span.appendChild(this.createPlaylistAnchor(playlists[i]));
+				if(i+1 <  playlists.length) span.appendChild(document.createTextNode(" "));
+				}
+			div.appendChild(span);
+
+			// lang
+			var  langs = toArray(this.object.lang);
+			span = document.createElement("span");
+			for(var i=0;i< langs.length;i++) {
+				span.appendChild(this.createLangAnchor(langs[i]));
+				if(i+1 <  playlists.length) span.appendChild(document.createTextNode(" "));
+				}
+			div.appendChild(span);
 			}
 		return this.node;
 		}

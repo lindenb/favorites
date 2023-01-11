@@ -1,6 +1,553 @@
 var data = [
 	{
 	"type":"song",
+	"author":"La FM qui s'est spécialisée funky",
+	"title":"La FM qui s'est spécialisée funky",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=cgwRvBYcUZI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"La boîte de jazz",
+	"title":"La boîte de jazz",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=cGX7nIPrmBQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Joueurs de blues",
+	"title":"Joueurs de blues",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=QwpfWFChu60",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Super nana",
+	"title":"Super nana",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=GzwUYyuvxXk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Je voulais te dire que je t'attends",
+	"title":"Je voulais te dire que je t'attends",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=1NuDoNj6EaA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Dites",
+	"title":"moi",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=PAVUPZady6Y",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Lucille",
+	"title":"Michel Jonasz",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=UwApGNIIpRA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Michel Jonasz",
+	"title":"Changez tout",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=u6vYHI2qtFA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Michel Jonasz",
+	"title":"J'veux pas qu' tu t'en ailles",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=w8-Jn357OHo",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Roger Glover And Guests",
+	"title":"Love Is All",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=BR6pYICqZT0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Timmy Thomas",
+	"title":"Why Can't We Live Together",
+	"year":1973,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=KYx2uZRlJCk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Cat Stevens",
+	"title":"Lady d'Arbanville",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=JzZjw-lVpYY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Cat Stevens",
+	"title":"Oh Very Young",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=95_zeIj2AZk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Al Stewart",
+	"title":"Year Of The Cat",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=cqZc7ZQURMs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Jacques Higelin",
+	"title":"Pars",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=xGRReyDyoGY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Jacques Higelin",
+	"title":"Tombé du ciel",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=TmI9SB4VDl8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Jacques Higelin",
+	"title":"Champagne",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=MzOTJ4KJ1Rs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Jeanne Cherhal",
+	"title":"Parfait inconnu",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=0Cj3Lik6i2E",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Jeanne Cherhal",
+	"title":"Les chiens de faïence",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=DY3ILdEt_uw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Jeanne Cherhal",
+	"title":"Ça sent le sapin",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=UIevqjMX1zU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Jeanne Cherhal","Jacques Higelin"],
+	"title":"Je voudrais dormir",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=xm6v3feoILw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Jeanne Cherhal",
+	"title":"Super 8",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=O34aKpdDSmw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Jeanne Cherhal",
+	"title":"Un couple normal",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=EeW2MEFxoUM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Jeanne Cherhal",
+	"title":"Le petit voisin",
+	"year":2004,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=GM9ZHmdebGg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Jeanne Cherhal",
+	"title":"La station",
+	"year":2004,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=7X23D3-xMMU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Johnny Hallyday",
+	"title":"Toute la musique que j'aime",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=fnG3ywEAK7s",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Michel Polnareff",
+	"title":"Dans La Rue",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=l5xPsUtzy0s",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Michel Polnareff",
+	"title":"Goodbye Marylou",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=OquzcoRGjiM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"Darjeeling",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=EI9Dy5Exh2Y",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Johnny Halliday",
+	"title":"Allumer le feu",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=8fOo2rmowVU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Dans un vieux rock'n'roll",
+	"title":"Dans un vieux rock'n'roll",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=PyCZnKfpL5k",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Oh ! J'cours tout seul",
+	"title":"Oh ! J'cours tout seul",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Nr8Ajc0SIuk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"Nicolas",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=oQQ19gOhIMw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"Les miroirs dans la boue",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=9N044dStO9U",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"Comme je m'ennuie de toi",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=jL7gN53fbiU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"Les Machines Absurdes",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ARQwEdER4qI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Léo Ferré",
+	"title":"Avec le temps",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Bj3aTZePVQw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Georges Brassens",
+	"title":"Les Passantes",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=vvjhsZYaofk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"U2",
+	"title":"Desire",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=z8rQ575DWD8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Sunday Bloody Sunday",
+	"title":"Sunday Bloody Sunday",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Iqlzoz_jH3c",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"U2",
+	"title":"Pride (In the name of love)",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=LHcP4MWABGY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"U2",
+	"title":"New Year's Day",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=jeYCyCaK_5k",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"U2",
+	"title":"With Or Without You",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ujNeHIo7oTE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"U2",
+	"title":"I Still Haven't Found What I'm Looking For",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=e3-5YC_oHjE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"U2",
+	"title":"One",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ftjEcrrf7r0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"U2",
+	"title":"Vertigo",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=98W9QuMq-2k",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Portishead",
+	"title":"Glory Box",
+	"lang":"en",
+	"year": 1993,
+	"youtube":"https://www.youtube.com/watch?v=4qQyUi4zfDs",
+	"playlist":["pop","90s"]
+	},
+	{
+	"type":"song",
+	"author":"Radiohead",
+	"title":"No Surprises",
+	"lang":"en",
+	"year": 1997,
+	"youtube":"https://www.youtube.com/watch?v=u5CVsCnxyXg",
+	"playlist":["pop"]
+	},
+	{
+	"type":"song",
+	"author":"Camélia Jordana",
+	"title":"Colonel chagrin",
+	"lang":"fr",
+	"year":  2014,
+	"youtube":"https://www.youtube.com/watch?v=Gj2ZPrT7a-E",
+	"playlist":["variete"]
+	},
+	{
+	"type":"song",
+	"author":"Grace Jones",
+	"title":"I've Seen That Face Before",
+	"lang":"en",
+	"year": 1981,
+	"youtube":"https://www.youtube.com/watch?v=nIN3IE3DHqc",
+	"playlist":["80s"]
+	},
+	{
+	"type":"song",
+	"author":"Robin Thicke",
+	"title":"Blurred Lines",
+	"lang":"en",
+	"year":2013,
+	"youtube":"https://www.youtube.com/watch?v=yyDUC1LUXSU",
+	"playlist":["dance","pop"]
+	},
+	{
+	"type":"song",
+	"author":"Michael Jackson",
+	"title":"Man in the Mirror",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Z9NYDgbKsBE",
+	"playlist":["pop","80s"]
+	},
+	{
+	"type":"song",
+	"author":"Michael Jackson",
+	"title":"Smooth Criminal",
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=h_D3VFfhvs4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Anastacia",
+	"title":"I'm Outta Love",
+	"lang":"en",
+	"year":2000,
+	"youtube":"https://www.youtube.com/watch?v=TnOy6HEf7HU",
+	"playlist":["pop","dance"]
+	},
+	{
+	"type":"song",
+	"author":"Indochine",
+	"title":"Canary Bay",
+	"lang":"fr",
+	"year": 1985,
+	"youtube":"https://www.youtube.com/watch?v=z3K-pBlZFWc",
+	"playlist":["pop","80s"]
+	},
+	{
+	"type":"song",
+	"author":"Dave",
+	"title":"Sugar Baby Love",
+	"lang":"fr",
+	"year": 1975,
+	"youtube":"https://www.youtube.com/watch?v=JHvv_LqbUh4",
+	"playlist":["variete","70s"]
+	},
+	{
+	"type":"song",
+	"author":"Dave",
+	"title":"Est-ce par hasard ?",
+	"lang":"fr",
+	"year": 1979,
+	"youtube":"https://www.youtube.com/watch?v=Huqt3FUaADw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Dave",
+	"title":"Vanina",
+	"lang":"fr",
+	"year": 1975,
+	"youtube":"https://www.youtube.com/watch?v=9sMFNS6MMFw",
+	"playlist":["variete","70s"]
+	},
+	{
+	"type":"song",
+	"author":"Dave",
+	"title":"Du côte de chez Swann",
+	"lang":"fr",
+	"year":1975,
+	"youtube":"https://www.youtube.com/watch?v=WZ5vwFk2b2E",
+	"playlist":["variete","70s"]
+	},
+	{
+	"type":"song",
+	"author":"U2",
+	"title":"Where The Streets Have No Name",
+	"lang":"en",
+	"year": 1987,
+	"youtube":"https://www.youtube.com/watch?v=5jjIpvmfxlY",
+	"playlist":["pop","rock"]
+	},
+	{
+	"type":"song",
+	"author":"Adamo",
+	"title":"C'est ma vie",
+	"lang":"fr",
+	"year": 1975,
+	"youtube":"https://www.youtube.com/watch?v=qz8pMTzU1KQ",
+	"playlist":["variete"]
+	},
+	{
+	"type":"song",
 	"author":"Billy Joel",
 	"title":"My Life",
 	"lang":"en",
@@ -19,7 +566,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":["Isabelle Adjani","Serge Gainsbourg"]
+	"author":["Isabelle Adjani","Serge Gainsbourg"],
 	"title":"Pull marine",
 	"lang":"fr",
 	"year":1984,
@@ -1100,7 +1647,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Bernard Lavilliers, Catherine Ringer",
+	"author":["Bernard Lavilliers","Catherine Ringer"],
 	"title":"IDEES NOIRES avec Catherine Ringer",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=ubL_hVPm6Oc",
@@ -1297,6 +1844,15 @@ var data = [
 	{
 	"type":"song",
 	"author":"Serge Reggiani",
+	"title":"Le monsieur qui passe",
+	"lang":"fr",
+	"year":1973,
+	"youtube":"https://www.youtube.com/watch?v=2Ek_8M2fJ1s",
+	"playlist":["variete"]
+	},
+	{
+	"type":"song",
+	"author":"Serge Reggiani",
 	"title":"Il suffirait de presque rien",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=kKsxiwgKShA",
@@ -1336,9 +1892,9 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":""Serge Reggiani",
+	"author":"Serge Reggiani",
 	"title":"Le petit garçon",
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=tLP0vQfCaJw",
 	"playlist":[""]
 	},

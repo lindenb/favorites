@@ -4,5 +4,28 @@ body {
 
 .wrapper {
   display: grid;
-  grid-template-columns: 200px 200px 200px;
+  grid-template-columns:25% 25% 25% 25%;
+}
+
+img {
+  object-fit: cover;
+  width: 90px;
+  height: 90px;
+}
+
+.post-container {
+    margin: 1px 1px 1px 1px;  
+    border: 1px solid #333;
+    overflow: auto;
+}
+.post-thumb {
+    float: left
+}
+.post-thumb img {
+    display: block
+}
+.post-content {
+}
+.post-title {
+    font-weight: bold;
 }
