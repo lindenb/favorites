@@ -1,6 +1,51 @@
 var data = [
 	{
 	"type":"song",
+	"author":"Minuit",
+	"title":"Flash",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=atIN9cd1144",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Kavinsky",
+	"title":"Nightcall",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=MV_3Dpw-BRY",
+	"playlist":["pop","electronic"]
+	},
+	{
+	"type":"song",
+	"author":"Ismael Lô",
+	"title":"Tajabone",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=YUWyUE6kqoU",
+	"playlist":["movie","africa"]
+	},
+	{
+	"type":"song",
+	"author":"David Bowie",
+	"title":"This Is Not America",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=nsMUxdZGgWI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Space Oddity",
+	"title":"Space Oddity",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ACLkNNBwBAY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"La FM qui s'est spécialisée funky",
 	"title":"La FM qui s'est spécialisée funky",
 	"year":null,
@@ -1937,6 +1982,24 @@ var data = [
 	"title":"Heart Of Glass",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=WGU_4-5RaxU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Blondie",
+	"title":"Call me",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=StKVS0eI85I",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Blondie",
+	"title":"Atomic",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=O_WLw_0DFQQ",
 	"playlist":[""]
 	},
 	{
