@@ -1,6 +1,467 @@
 var data = [
 	{
 	"type":"song",
+	"author":"Hans Zimmer",
+	"title":"The Last of Mohicans",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=E_ey8xCbUD8",
+	"playlist":["movie"]
+	},
+	{
+	"type":"song",
+	"title":"Interstellar Main Theme",
+	"author":"Hans Zimmer",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=UDVtMYqUAyw",
+	"playlist":["movie"]
+	},
+	{
+	"type":"song",
+	"author":"Max Richter",
+	"title":"On The Nature Of Daylight (Arrival SoundtrackMax)",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=a6RnT8uxOiw",
+	"playlist":["movie"]
+	},
+	{
+	"type":"song",
+	"author":"Madonna",
+	"title":"Live To Tell",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=IzAO9A9GjgI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Madonna",
+	"title":"Like A Prayer",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=79fzeNUqQbQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Madonna",
+	"title":"Papa Don't Preach",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=G333Is7VPOg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Madonna",
+	"title":"Material Girl",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=6p-lDYPR2P8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Cyndi Lauper",
+	"title":"True Colors",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=LPn0KFlbqX8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hans Zimmer",
+	"title":"No Time For Caution",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=m3zvVGJrTP8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Laura",
+	"title":"Laura",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=zO_E9Bv9h4I",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Que je t'aime",
+	"title":"Que je t'aime",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=9kHx7id6q4w",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Noir c'est noir",
+	"title":"Noir c'est noir",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=F1pw8keepJA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Je te promets",
+	"title":"Je te promets",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Fv6i329xxQE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Johnny Hallyday",
+	"title":"Requiem pour un fou",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=i6Gh6OZde7Y",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Johnny Hallyday Ma gueule",
+	"title":"Johnny Hallyday Ma gueule",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=W6VMLisShZM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"J'ai oublié de vivre",
+	"title":"J'ai oublié de vivre",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=rPkvFcdQBMA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Johnny Hallyday",
+	"title":"Le chanteur abandonné",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=rgv_ryuDfqI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Gabrielle",
+	"title":"Gabrielle",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Exdc_tpbsz0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Joue pas de rock'n'roll pour moi",
+	"title":"Joue pas de rock'n'roll pour moi",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=dtDTQQyFazA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Oh ! ma jolie Sarah",
+	"title":"Oh ! ma jolie Sarah",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=nD7T-B08WuQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Elle m'oublie",
+	"title":"Elle m'oublie",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=59492Zj-ob4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Quelque chose de Tennessee",
+	"title":"Quelque chose de Tennessee",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=NF7CL9e5gkM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"J'oublierai ton nom",
+	"title":"J'oublierai ton nom",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=FQFAfpih2ec",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Roger Waters",
+	"title":"Mother",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=9lCFaSL9aSE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Mike Oldfield",
+	"title":"Tubular Bells Pt I",
+	"year":1973,
+	"lang":null,
+	"duration": "26m01s",
+	"youtube":"https://www.youtube.com/watch?v=BfWJqKIxyGc",
+	"playlist":["instrumental","movie"]
+	},
+	{
+	"type":"song",
+	"author":"Mike Oldfield",
+	"title":"Tubular Bells Pt II",
+	"year":1973,
+	"lang":null,
+	"duration:"23m17s",
+	"youtube":"https://www.youtube.com/watch?v=oehz0YN18jo",
+	"playlist":["instrumental","movie"]
+	},
+	{
+	"type":"song",
+	"author":"Fleetwood Mac",
+	"title":"Don't Stop",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=0hGhl7ki3HM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Fleetwood Mac",
+	"title":"Go Your Own Way",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=DubafeFeJ7Y",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Gnarls Barkley",
+	"title":"Crazy",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=-N4jf6rtyuw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"INXS",
+	"title":"Original Sin",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=PTULqzrhBWA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"INXS",
+	"title":"Need You Tonight",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=w-rv2BQa2OU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"INXS",
+	"title":"Never Tear Us Apart",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=_VU9DjQpvMQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"INXS",
+	"title":"Disappear",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=qKAa20ukR-s",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"INXS",
+	"title":"Suicide Blonde",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Ma4TOv2f_WY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"INXS",
+	"title":"Devil Inside",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=hv_zJrO_ptk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Queen",
+	"title":"A Kind of Magic",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=0p_1QSUsbsM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Queen",
+	"title":"We Will Rock You",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=-tJYN-eG1zk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Queen",
+	"title":"Don't Stop Me Now",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=HgzGwKwLmgM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Queen",
+	"title":"I Want It All",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=hFDcoX7s6rE",
+	"playlist":[""]
+	},
+{
+	"type":"song",
+	"author":"Queen",
+	"title":"Another One Bites the Dust",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=rY0WxgSXdEE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Queen",
+	"title":"Somebody To Love",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=kijpcUv-b8M",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Queen",
+	"title":"Breakthru",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=CEjU9KVABao",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Queen",
+	"title":"I Want To Break Free",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=f4Mc-NYPHaQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Queen",
+	"title":"Killer Queen",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=2ZBtPf7FOoM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Queen",
+	"title":"Under Pressure",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=a01QQZyl-_I",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Queen",
+	"title":"Crazy Little Thing Called Love",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=zO6D_BAuYCI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Queen",
+	"title":"Who Wants To Live Forever",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=_Jtpf8N5IDE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Kiss",
+	"title":"I Was Made For Lovin' You",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ZhIsAZO5gl0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Queen Princes Of The Universe HQ",
+	"title":"Queen Princes Of The Universe HQ",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=CIKVwzZGWhw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Queen",
+	"title":"One Vision",
+	"year":1985,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=-OGd4gplxQM",
+	"playlist":["movie","rock","80s"]
+	},
+	{
+	"type":"song",
+	"author":"Queen – Bohemian Rhapsody",
+	"title":"Queen – Bohemian Rhapsody",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Minuit",
 	"title":"Flash",
 	"year":null,
