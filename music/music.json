@@ -1,6 +1,267 @@
 var data = [
 	{
 	"type":"song",
+	"author":"Etienne Daho",
+	"title":"Sur mon cou",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=r0kIq4qeWpU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bee Gees",
+	"title":"More Than A Woman",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=717TcuN_-oo",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bee Gees",
+	"title":"Too Much Heaven",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=nREV8bQJ1MA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bee Gees",
+	"title":"Tragedy",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=WFd-Yk73U_o",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bee Gees",
+	"title":"Night Fever",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=-ihs-vT9T3Q",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bee Gees",
+	"title":"You Should Be Dancing",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=_JoZS6LgqYI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bee Gees",
+	"title":"Stayin' Alive",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=fNFzfwLM72c",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"a-ha",
+	"title":"Hunting High and Low",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=s6VaeFCxta8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"a-ha",
+	"title":"The Sun Always Shines on T.V.",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=a3ir9HC9vYg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Bronski Beat","Jimmy Sommerville"],
+	"title":"Smalltown Boy",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=88sARuFu-tc",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Talking Heads",
+	"title":"Psycho Killer",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=CKti7QixnJI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Brigitte",
+	"title":"Battez Vous",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=NDchKlVQZ4A",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Brigitte",
+	"title":"Clip: Ma Benz",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=qVZwg5Lk8BA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Duran Duran",
+	"title":"A View To A Kill",
+	"year":1985,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Fp4CR2HcHLQ",
+	"playlist":["movie","80s"]
+	},
+	{
+	"type":"song",
+	"author":"Alexandre Desplat",
+	"title":"TThe Truth About Ruth",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=RoTUX6ZKke0",
+	"playlist":["movie"]
+	},
+	{
+	"type":"song",
+	"title":"Bookends (old friends)",
+	"author":["Paul Simon","Art Garfunkel"],
+	"year":1968,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=sovVYInjHjw",
+	"playlist":["60s"]
+	},
+	{
+	"type":"song",
+	"author":"Don McLean",
+	"title":"American Pie",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ngDJIjbAvz4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Paul Simon","Art Garfunkel"],
+	"title":"Mrs. Robinson",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=9C1BCAgu2I8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Paul Simon","Art Garfunkel"],
+	"title":"Cecilia",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=a5_QV97eYqM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Paul Simon","Art Garfunkel"],
+	"title":"El Condor Pasa",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=i6d3yVq1Xtw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Paul Simon","Art Garfunkel"],
+	"title":"Scarborough Fair/Canticle",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=-Jj4s9I-53g",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Paul Simon","Art Garfunkel"],
+	"title":"America",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Eo2ZsAOlvEM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Paul Simon","Art Garfunkel"],
+	"title":"Simon & Garfunkel ~ Homeward Bound",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=R4EnErMCKrI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Paul Simon","Art Garfunkel"],
+	"title":"The Boxer",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=l3LFML_pxlY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Paul Simon","Art Garfunkel"],
+	"title":"Bridge Over Troubled Water",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=4G-YQA_bsOU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Paul Simon","Art Garfunkel"],
+	"title":"I Am A Rock",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=JKlSVNxLB-A",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Paul Simon","Art Garfunkel"],
+	"title":"The Sound of Silence",
+	"year":1964,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=nkUOACGtGfA",
+	"playlist":["60s"]
+	},
+	{
+	"type":"song",
+	"author":"Trust",
+	"title":"Antisocial",
+	"year":1980,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=WfD8Dnh2xho",
+	"playlist":["metal","rock","80s"]
+	},
+	{
+	"type":"song",
+	"author":"Dionne Warwick",
+	"title":"Walk on By",
+	"year":null,
+	"lang":"1964",
+	"youtube":"https://www.youtube.com/watch?v=vsGsCvJWEo8",
+	"playlist":["60s"]
+	},
+	{
+	"type":"song",
 	"author":"Hans Zimmer",
 	"title":"The Last of Mohicans",
 	"year":null,
