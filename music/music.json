@@ -1,6 +1,42 @@
 var data = [
 	{
 	"type":"song",
+	"author":"Alain Chamfort",
+	"title":"La fièvre dans le sang",
+	"year":1986,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=6_sbCn_l0FI",
+	"playlist":["variete","80s"]
+	},
+	{
+	"type":"song",
+	"author":"Alain Chamfort",
+	"title":"Traces de toi",
+	"year":1986,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=m7HdoP_05LM",
+	"playlist":["variete","80s"]
+	},
+	{
+	"type":"song",
+	"author":"Alain Chamfort",
+	"title":"Manureva",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=m21KGxquiq0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Chamfort",
+	"title":"L'ennemi dans la glace",
+	"year":1993,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=Y0lofNLiZZw",
+	"playlist":["variete"]
+	},
+	{
+	"type":"song",
 	"author":"Etienne Daho",
 	"title":"Sur mon cou",
 	"year":null,
