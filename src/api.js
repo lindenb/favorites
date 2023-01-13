@@ -139,9 +139,35 @@ class Track {
 		}
 	}
 
+function mkElement(t,s) {
+	var E = document.createElement(t);
+	if(s!=null && s.length>0) E.appendChild(document.createTextNode(s));
+	return E;
+	}
 
+function makeTable(songs) {
+	var main = mkElement("div");
+	var table = mkElement("table");
+	main.appendChild(table);
+	var thead = mkElement("thead");
+	table.appendChild(thead);
+	var tr = mkElement("tr");
+	thead.appendChild(tr);
+	var th = mkElement("th","Artist")
+	tr.appendChild(th);
+	th = mkElement("th","Title")
+	tr.appendChild(th);
+	th = mkElement("th","Year")
+	tr.appendChild(th);
 
-
+	var tbody = document.createElement("tbody");
+	table.appendChild(tbody);
+	for(var i=0;i< songs.length; i++) {
+		tr = document.createElement("tr");
+		tbody.appendChild(tr);
+		}
+	return main;
+	}
 
 function reloadData() {
 	var N1 = document.getElementById("main");
