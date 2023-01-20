@@ -1,6 +1,206 @@
 var data = [
 	{
 	"type":"song",
+	"author":"Adele",
+	"title":"Rolling in the Deep",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=rYEDA3JcQqw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Dido",
+	"title":"I'm No Angel",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=i5JyWpyYVx4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Dido",
+	"title":"My Life",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=NqC9QBm6v-k",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Dido",
+	"title":"Take My Hand",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=PvQdzhE7iqM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Dido",
+	"title":"Don't Leave Home",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=tLpsDamWdIM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"DIDO",
+	"title":"DO YOU HAVE A LITTLE TIME",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=97uuFyWpdfg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"DIDO",
+	"title":"THIS LAND IS MINE",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=kOoQfXfv5ak",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"DIDO",
+	"title":"SEE THE SUN",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=FAIAzIA2p-s",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"DIDO",
+	"title":"CLOSER",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=XZG9G3Ywjak",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Dido",
+	"title":"Sand In My Shoes",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=_lrVymj9xHY",
+	"playlist":[""]
+	},
+
+	{
+	"type":"song",
+	"author":"Dido",
+	"title":"Thank You",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=1TO48Cnl66w",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Dido",
+	"title":"White Flag",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=j-fWDrZSiZs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Dido",
+	"title":"Here with Me",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=PSu5nAQ7uZw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Dido",
+	"title":"Life for Rent",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=OFtNChII78k",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Dido",
+	"title":"Mary's In India",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=_PDXz8sDCGo",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Dido",
+	"title":"Stoned",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=qpSvTCw7HNQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"DIDO",
+	"title":"SEE YOU WHEN YOU'RE 40",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=G1nArsnAQhk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"DIDO",
+	"title":"WHO MAKES YOU FEEL",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=kg4m99unSj4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Dido",
+	"title":"Don't Think Of Me",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=kVPAKtD6-ZE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Dido",
+	"title":"All You Want",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Za4IKSmA5ZQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Dido",
+	"title":"Honestly Ok",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=mCcNGt_eliM",
+	"playlist":[""]
+	},
+
+	{
+	"type":"song",
+	"author":"Dido",
+	"title":"Hunter",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=1qmKk7fj9Ug",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Nirvana",
 	"title":"Smells Like Teen Spirit",
 	"year":null,
@@ -2904,16 +3104,16 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Dans un vieux rock'n'roll",
+	"author":"William Sheller",
 	"title":"Dans un vieux rock'n'roll",
-	"year":null,
+	"year": 1976,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=PyCZnKfpL5k",
-	"playlist":[""]
+	"playlist":["variete"]
 	},
 	{
 	"type":"song",
-	"author":"Oh ! J'cours tout seul",
+	"author":"William Sheller",
 	"title":"Oh ! J'cours tout seul",
 	"year":null,
 	"lang":"en",
