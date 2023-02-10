@@ -3,6 +3,510 @@
 var data = [
 	{
 	"type":"song",
+	"author":["Paul Simon","Art Garfunkel"],
+	"title":"Cecilia",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Ftgk_tkU-eY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Paul Simon","Art Garfunkel"],
+	"title":"Bookends",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=9iLreg8-RJo",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Paul Simon","Art Garfunkel"],
+	"title":"America",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=lGdPQ3OA5pI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Paul Simon","Art Garfunkel"],
+	"title":"Bridge Over Troubled Water",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Ho1SPgmps3k",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Paul Simon","Art Garfunkel"],
+	"title":"Homeward Bound",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=VufDTNVng_o",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Paul Simon","Art Garfunkel"],
+	"title":"Scarborough Fair / Canticle",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=EF28rAhzD-8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Paul Simon","Art Garfunkel"],
+	"title":"I Am a Rock",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=3G1YPoklKgo",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Paul Simon","Art Garfunkel"],
+	"title":"The Sounds of Silence",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=91HkvzUiFhs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Paul Simon","Art Garfunkel"],
+	"title":"The Boxer",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=KTm5BJs2Mj0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Paul Simon","Art Garfunkel"],
+	"title":"Mrs. Robinson",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ma6ManVDCHA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Nat King Cole",
+	"title":"Unforgettable",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=iF7kOq0peAU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Nat King Cole",
+	"title":"Nature Boy",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=6j2OQlrdADQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Pauline Croze",
+	"title":"Larmes",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=XLmg2ChGaDw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Pauline Croze",
+	"title":"Mise à nu",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=GGvfh3XT1Os",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Pauline Croze",
+	"title":"Mal assis",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=bHipiOZtXk8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Pauline Croze",
+	"title":"T'es Beau",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=tgM5GrhK1l8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"a-ha",
+	"title":"Hunting High and Low",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=s6VaeFCxta8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alanis Morissette",
+	"title":"Thank U",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=OOgpT5rEKIU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alanis Morissette",
+	"title":"Ironic",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Jne9t8sHpUc",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alanis Morissette",
+	"title":"You Oughta Know",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=NPcyTyilmYY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alanis Morissette",
+	"title":"Hand In My Pocket",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=CUjIY_XxF1g",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alanis Morissette",
+	"title":"You Learn",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=GFW-WfuX2Dk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"James Brown",
+	"title":"Sex Machine",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=6KjMn-OOVHg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"James Brown",
+	"title":"It's A Man's Man's Man's World",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=H77fRz1rybs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"James Brown",
+	"title":"I Got You",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=iSLwVaebsJg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Putting the Damage On",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=SZ2mvMBcXjE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"In the Springtime of His Voodoo",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=IyfszhySGIo",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Doughnut Song",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=dbJrXJREeNo",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Talula",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=zmT0OfQk3Lw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Little Amsterdam",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=z9QyVj6cZ2k",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Way Down",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=uswNfyDo_sc",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Hey Jupiter",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=0_W-vJ3hXhA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Muhammad My Friend",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Ur28B7ls71k",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Caught a Lite Sneeze",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=wL71FOgp1a4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Mr. Zebra",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=kiVJsl6gUFw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Professional Widow",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=5ImEt52CxVY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Father Lucifer",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=6KCXEp379og",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Blood Roses",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=rUNXnHcTj10",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Cornflake Girl",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Gv-G6rAxX6w",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Crucify",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=9ipCKIxdHTs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"God",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=cN3rzi7dZVQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Winter",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=_PDlGUdDF8Y",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Silent All These Years",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=HSYr0etDzRM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Past the Mission",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=AdIgXD1-93U",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Pretty Good Year",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=xr8auZq-Xn8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Spark",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=jVMwDd8V_kY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Titiyo",
+	"title":"Come Along",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=yLsVGwNWOA4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Richard Gotainer",
+	"title":"Le Sampa",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=GUN9FQif2qs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Richard Gotainer",
+	"title":"Le Mambo du Décalco",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=gqOZNAb8upg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Richard Gotainer",
+	"title":"Femme à Lunettes",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=TZd92pGW74o",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Richard Gotainer",
+	"title":"Chipie",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=gyiN22itwSU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Richard Gotainer",
+	"title":"Primitif",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Wdg9vnnEgHQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Richard Gotainer "Le Youki"",
+	"title":"Richard Gotainer "Le Youki"",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=H0t66XZPq_Y",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Richard Gotainer", "Bernie Bonvoisin"],
+	"title":"Le Combat de Rock",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=c_sFSg5ACb0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"John Barry",
+	"title":"You Only Live Twice",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=YDD3Qi23BX0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"John Barry",
+	"title":"Theme from the Persuaders",
+	"year": 1971,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=SbA7q3AVYyQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Michel Polnareff",
 	"title":"Lna Ho",
 	"year":null,
@@ -880,6 +1384,15 @@ var data = [
 	{
 	"type":"song",
 	"author":"Serge Gainsbourg",
+	"title":"L'eau à la bouche",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Stz8SQ_xeNk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Serge Gainsbourg",
 	"title":"Mon légionnaire",
 	"year":null,
 	"lang":"en",
@@ -1088,6 +1601,24 @@ var data = [
 	{
 	"type":"song",
 	"author":"Serge Gainsbourg",
+	"title":"Comic Strip",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=kKEk2FblRec",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Serge Gainsbourg",
+	"title":"My Lady Héroïne",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=I4tKlZq8u80",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Serge Gainsbourg",
 	"title":"Initials B.B.",
 	"year":null,
 	"lang":"en",
@@ -1101,6 +1632,15 @@ var data = [
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=51pK2k_Sa4o",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Serge Gainsbourg",
+	"title":"Ce mortel ennui",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=TyMqgv5Djf0",
 	"playlist":[""]
 	},
 	{
@@ -2042,11 +2582,20 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"En rouge et noir",
+	"author":"Jeanne Mas",
 	"title":"En rouge et noir",
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=JbUEHr94kNA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Eros RAMAZZOTTI",
+	"title":"Una storia importante",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=mqjg5AY3SIE",
 	"playlist":[""]
 	},
 	{
@@ -2060,7 +2609,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Mort Shuman, Le lac majeur, 1972",
+	"author":"Mort Shuman",
 	"title":"Mort Shuman, Le lac majeur, 1972",
 	"year":1972,
 	"lang":"en",
@@ -2069,7 +2618,70 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Brooklyn By The Sea",
+	"author":"Mort Shuman",
+	"title":"Dansons",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=G-6Ykz-5Q1U",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Mort Shuman",
+	"title":"Imagine",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=OcK2tDIAIHQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Mort Shuman",
+	"title":"Le Nègre Blanc",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=zn5RtjFaAIA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Mort Shuman",
+	"title":"Ma chanson italienne",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ZcpkvlrjX6s",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Mort Shuman",
+	"title":"Sorrow",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=U5FXKUaCdB0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Mort Shuman",
+	"title":"Voilà comment tu m'as laissé",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=7B7lnKbhsys",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Mort Shuman",
+	"title":"Un été de porcelaine",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=64GLj8yz6R0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Mort Shuman",
 	"title":"Brooklyn By The Sea",
 	"year":null,
 	"lang":"en",
@@ -2078,9 +2690,9 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Mort Shuman Papa tango Charlie 1973",
-	"title":"Mort Shuman Papa tango Charlie 1973",
-	"year":null,
+	"author":"Mort Shuman",
+	"title":"Allo Papa tango Charlie",
+	"year":1973,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=QjINcPhZknM",
 	"playlist":[""]
@@ -4568,7 +5180,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Space Oddity",
+	"author":"David Bowie",
 	"title":"Space Oddity",
 	"year":null,
 	"lang":"en",
@@ -4577,7 +5189,16 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"La FM qui s'est spécialisée funky",
+	"author":"Michel Jonasz",
+	"title":"Les vacances au bord de la mer",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=kJS3mVrH318",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Michel Jonasz",
 	"title":"La FM qui s'est spécialisée funky",
 	"year":null,
 	"lang":"en",
@@ -4586,7 +5207,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"La boîte de jazz",
+	"author":"Michel Jonasz",
 	"title":"La boîte de jazz",
 	"year":null,
 	"lang":"en",
@@ -4595,7 +5216,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Joueurs de blues",
+	"author":"Michel Jonasz",
 	"title":"Joueurs de blues",
 	"year":null,
 	"lang":"en",
@@ -4604,7 +5225,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Super nana",
+	"author":"Michel Jonasz",
 	"title":"Super nana",
 	"year":null,
 	"lang":"en",
@@ -4613,7 +5234,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Je voulais te dire que je t'attends",
+	"author":"Michel Jonasz",
 	"title":"Je voulais te dire que je t'attends",
 	"year":null,
 	"lang":"en",
@@ -4622,8 +5243,8 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Dites",
-	"title":"moi",
+	"author":"Michel Jonasz",
+	"title":"Dites moi",
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=PAVUPZady6Y",
@@ -4631,11 +5252,20 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Lucille",
-	"title":"Michel Jonasz",
+	"title":"Lucille",
+	"author":"Michel Jonasz",
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=UwApGNIIpRA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Michel Jonasz",
+	"title":"En v'la du slow en v'la",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=OkOyW__RMaU",
 	"playlist":[""]
 	},
 	{
@@ -4830,6 +5460,132 @@ var data = [
 	{
 	"type":"song",
 	"author":"William Sheller",
+	"title":"Revenir Bientôt",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=t8oRH0oEOCU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"Petit comme un caillou",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=S46Vu7YkMFA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"Moondown",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=StgwMlLkpMI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"Fier et fou de vous",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Fm8VuUgCRmc",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"Les mots qui viennent tout bas",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=p_oqqgQM0D0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"La maison de Mara",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=MTKw4eWQvrY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"Les Machines Absurdes",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ARQwEdER4qI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"Enygma Song",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ADzFgGwsea8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"Athis",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=r19C-IdFnRA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"To You",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=cKdxg5ybjNY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"Clandestine",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=PFpY_zW-7Os",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Loulou",
+	"title":"Loulou",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=cRixjGA17Gc",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"Elvira",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=XZ6L5PpWv3o",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"Basket Ball",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=5HhYWymhA8E",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
 	"title":"Darjeeling",
 	"year":null,
 	"lang":"en",
@@ -4843,6 +5599,15 @@ var data = [
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=8fOo2rmowVU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"Un endroit pour vivre",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=06NBBXqAX1A",
 	"playlist":[""]
 	},
 	{
@@ -5662,6 +6427,123 @@ var data = [
 	},
 	{
 	"type":"song",
+	"author":"Bénabar",
+	"title":"Bon anniversaire",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=zi-NtO84oX8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bénabar",
+	"title":"Je suis de celles",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=jwcmsz3xibg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bénabar",
+	"title":"La valse",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=SrxqfQKESDc",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bénabar",
+	"title":"Le chien",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=sYR3MMHROFE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bénabar",
+	"title":"Les ricochets",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=5kuKfbVJFbQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bénabar",
+	"title":"Le 115",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Au4iTciMLFo",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bénabar",
+	"title":"Tout va bien",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=3ohiy8zwpbk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bénabar",
+	"title":"Ali et Felix",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=NwfEav38U1k",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bénabar",
+	"title":"Adolescente",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=rFhrrSNUdMA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bénabar",
+	"title":"Coup du lapin",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=gyjumF6e7VA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bénabar",
+	"title":"Saturne",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Zg5UiyJEPFY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bénabar",
+	"title":"La p'tite monnaie",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=BoTSc905SSE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bénabar",
+	"title":"Dramelet",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=zjzITxh8JuA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Vangelis",
 	"title":"Pulstar",
 	"lang":null,
@@ -6309,6 +7191,24 @@ var data = [
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=wp43OdtAAkM",
 	"playlist":["pop"]
+	},
+	{
+	"type":"song",
+	"author":"Kate Bush",
+	"title":"Babooshka",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=6xckBwPdo1c",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Kate Bush",
+	"title":"Wuthering Heights",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=-1pMMIe4hb4",
+	"playlist":[""]
 	},
 	{
 	"type":"song",
@@ -7060,7 +7960,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Une autre histoire",
+	"author":"Gerad Blanc",
 	"title":"Une autre histoire",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=zcG4rTyhPNI",
@@ -7111,6 +8011,15 @@ var data = [
 	{
 	"type":"song",
 	"author":"Etienne Daho",
+	"title":"Sortir ce soir",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=v-T8PSmFckI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Etienne Daho",
 	"title":"Des heures hindoues",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=I66DaObuSEU",
@@ -7126,10 +8035,46 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"The Communards",
+	"author":["The Communards","Jimmy Somerville"],
 	"title":"Don't Leave Me This Way",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=1RHBAd5YUR8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["The Communards","Jimmy Somerville"],
+	"title":"You Are My World",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=W7JnlfaEU5U",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["The Communards","Jimmy Somerville"],
+	"title":"Disenchanted",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=UhdIZJgjkBc",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["The Communards","Jimmy Somerville"],
+	"title":"So Cold The Night",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=8xxrhCZCpL4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["The Communards","Jimmy Somerville"],
+	"title":"Never Can Say Goodbye",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Hvlv5qrhDUM",
 	"playlist":[""]
 	},
 	{
@@ -7239,7 +8184,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Le Premier jour du reste de ta vie",
+	"author":Etienne Daho",
 	"title":"Le Premier jour du reste de ta vie",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=AlwgC9yqNcw",
@@ -7566,10 +8511,190 @@ var data = [
 	},
 	{
 	"type":"song",
+	"author":"Charles Aznavour",
+	"title":"Trousse Chemise",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=LOFEesO6JN4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Culture Club",
 	"title":"Karma Chameleon",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=JmcA9LIIXWw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Charles Aznavour",
+	"title":"Les Comediens",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=0wNpgY0y5lQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Charles Aznavour",
+	"title":"La Mamma",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ADYDZMc1GbU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Charles Aznavour",
+	"title":"Les Deux Guitares",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=k25aiXr67Ug",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Charles Aznavour",
+	"title":"Desormais",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=1mEHirbtLms",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Charles Aznavour",
+	"title":"Tu T'laisses Aller",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=UWvB85t_Zk0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Serge Gainsbourg",
+	"title":"Black Trombone",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=oIHf0DF0K_o",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Serge Gainsbourg",
+	"title":"parce que",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=AXTxuamLLVE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Charles Aznavour",
+	"title":"Parce que",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=_TiVrhoA9Cg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Charles Aznavour",
+	"title":"Le temps",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=O0NRTe7LoxU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Charles Aznavour",
+	"title":"Les Plaisirs Demodes",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=JJ9OeoLH_5Q",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Charles Aznavour",
+	"title":"She",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=e1uqfO2-oJA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Charles Aznavour",
+	"title":"Mourir d'aimer",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=RoMPyKGHWhQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Charles Aznavour",
+	"title":"For me formidable",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Nz-dCGNcfNM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Charles Aznavour",
+	"title":"Je m'voyais déjà",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=rjHq8BGcLwU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Charles Aznavour",
+	"title":"Mes emmerdes",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=T56jqBc_d_s",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Charles Aznavour",
+	"title":"Non je n'ai rien oublié",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=vNUV-70MZL8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Charles Aznavour",
+	"title":"Comme ils disent",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=BURp0SNj_Vo",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Charles Aznavour",
+	"title":"Hier encore",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=dbxyKR1P8vA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Charles Aznavour",
+	"title":"La bohème",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=fVfnEyLOkrM",
 	"playlist":[""]
 	},
 	{
@@ -7590,7 +8715,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Et si tu n'existais pas",
+	"author":"Joe Dassin",
 	"title":"Et si tu n'existais pas",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=Ueba8LaflnE",
@@ -7602,6 +8727,87 @@ var data = [
 	"title":"Il est cinq heures, Paris s'éveille",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=J8Wi6wr4bGs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Marie-Paule Belle",
+	"title":"La Parisienne",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=MOTO_6vQLYc",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Peter Gabriel",
+	"title":"Big Time",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=m53vOXtnGHU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Peter Gabriel",
+	"title":"Mercy Street",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=DqZWSZBSLCI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Peter Gabriel",
+	"title":"In Your Eyes",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=8N6G0RVeFBQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Peter Gabriel",
+	"title":"Kiss That Frog",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=CSmRpXkQ7Rs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Peter Gabriel",
+	"title":"Steam",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=lvGszYpf3aw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Peter Gabriel",
+	"title":"Shaking The Tree",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=1bzicuTBjX8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Peter Gabriel",
+	"title":"Digging In the Dirt",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=73iIDGT2Yr4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Peter Gabriel",
+	"title":"Solsbury Hill",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=_OO2PuGz-H8",
 	"playlist":[""]
 	},
 	{
@@ -7667,14 +8873,6 @@ var data = [
 	"title":"Dolce Vita",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=EXmABxvHTG4",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"Bronski Beat Smalltown Boy",
-	"title":"Bronski Beat Smalltown Boy",
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=zOkOK8afLHI",
 	"playlist":[""]
 	},
 	{
@@ -8563,6 +9761,15 @@ var data = [
 	"lang": "fr",
 	"youtube": "https://www.youtube.com/watch?v=ogb2dJEVds8",
 	"playlist" : ["80s","France","Calme"]
+	},
+	{
+	"type":"song",
+	"author":"Marie Laforêt",
+	"title":"Viens, viens",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Z48Wt-YM9ZQ",
+	"playlist":[""]
 	},
         {
         "type" : "song",
