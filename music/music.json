@@ -3,6 +3,762 @@
 var data = [
 	{
 	"type":"song",
+	"author":"Serge Gainsbourg",
+	"title":"L'alcool",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=8GOE15GUrlo",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Serge Gainsbourg",
+	"title":"Les amours perdues",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=hYR3HXHFLAQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alessi Brothers",
+	"title":"Oh Lori",
+	"year":1976,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=12-QdRTBmVM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"Ailleurs",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=zVEogeRVaSk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"Sergei",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=FN-Shyl6TTo",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"La tête brulée",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=fzGEsxY_EDo",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"William Sheller",
+	"title":"Un archet sur mes veines",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=Ewe510cBDQk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Eminem",
+	"title":"Lose Yourself",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=xFYQQPAOz7Y",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Cesaria Evora",
+	"title":"Sodade",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=GQLzdckY09Q",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bernard Lavilliers",
+	"title":"Betty",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=-uUNtb9UkZI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bernard Lavilliers",
+	"title":"Pigalle la blanche",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=JnAWKwqDU8Y",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bernard Lavilliers",
+	"title":"Traffic",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=X4ZZjLJ44O4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"La Femme",
+	"title":"Sphynx",
+	"year":2016,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=XOic6pVAN30",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Ennio Morricone",
+	"title":"The Good, The Bad and The Ugly",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ZylbA374VRw",
+	"playlist":["movie"]
+	},
+	{
+	"type":"song",
+	"author":"François de Roubaix",
+	"title":"la Scoumoune",
+	"year":null,
+	"lang":null,
+	"youtube":"https://www.youtube.com/watch?v=EkFxho4pXlg",
+	"playlist":["70s","movie"]
+	},
+	{
+	"type":"song",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"Un automne à Tanger",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=q7v_LbjHklU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"Chambre 2023",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=iRqlPrwkbVw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"Buenas Noches, Jo",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=hDuSaTp2RHs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"Un vendredi 13 à 5h",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=xAds9wgRJE4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"Femme de Loth",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=qCiYTUSei18",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"Nyctalopus Airlines",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=3efY3cje03c",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"Whiskeuses Images Again",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=fMPutSiLyvE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"Stalag tilt",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=KsKo4Dz9VQM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"Je t'en remets au vent",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=G47B-zpP-F4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"La fille du coupeur de joints",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=0euyi-S1SEs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"Alligators 427",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=wk-dfKW2dlI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"Enfermé dans les cabinets",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=llVXSxQR-QU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"Exil sur planète fantôme",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=6PIMy-W869g",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"Une fille au rhésus négatif",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=GiXYgjtb4gw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"Cabaret Sainte-Lilith",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=1Zp-04L4t5E",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"Dernières balises",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=E_e8cvppac0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"Solexine et ganja",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=KHsW4IMNCVs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"title":"Exit to Chatagoune",
+	"author":"Hubert-Félix Thiéfaine",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=dqCcZtyYeUU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"Les dingues et les paumés",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=tpc2eaoeq1I",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"Lorelei sébasto cha",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=mGS7cQnv_Hk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"Narcisse 81",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=NKBA7mIULQ8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"Mathématiques souterraines",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=GZyqjDSEMoA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Julien Clerc",
+	"title":"Laissons entrer le soleil",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=hHuNZdsoDvA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Claude François",
+	"title":"Comme d'habitude",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=FRW67d-IZZE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"Soleil cherche futur",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=DWgxjh6MPHI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bill Withers",
+	"title":"Ain't No Sunshine",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Nuanwn3v-2I",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"SYMPATHY",
+	"title":"RARE BIRD 1969",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=9vN6-1Zeg2w",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Philadelphia Soundtrack",
+	"title":"9 - Philadelphia",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=yq4yE_j3Vuk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Gabriels",
+	"title":"Blame",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Fp5ylC542NI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Claude Nougaro",
+	"title":"Nougayork",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=337V5SR1h8Q",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Clou",
+	"title":"Cesse cesse",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=4Lerq0cDWgU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"GEORGES DELERUE",
+	"title":"STELLAIRE",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=O6FjEpzibQo",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Heny Michel Colomnbier",
+	"title":"Psyche Rock",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=gUSTOmAu25E",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"KALIKA",
+	"title":"L'été est mort",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=AVKE41TbPMU",
+	"playlist":["funny"]
+	},
+	{
+	"type":"song",
+	"author":"BERURIER NOIR",
+	"title":"Salut à toi",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=1NrkSs5wHFw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Les Cowboys Fringants",
+	"title":"Plus Rien",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=1WFc7u8qWuo",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Max Richter",
+	"title":"On the Nature of Daylight",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=YrwRd_27fhw",
+	"playlist":["movie","classical"]
+	},
+	{
+	"type":"song",
+	"author":"Gossip",
+	"title":"Heavy Cross",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=5mQVljB7JGw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Evanescence",
+	"title":"Wake me up Inside",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=wXcdYBh3hgg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Happy Together",
+	"title":"The Turtles",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=9ZEURntrQOg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Depeche Mode",
+	"title":"Strangelove",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=JIrm0dHbCDU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Babx",
+	"title":"Gaston Miron",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=BMX8Ap5xw4s",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Louise Attaque",
+	"title":"Ton invitation",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ApWnXUavKOc",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"VÉRONIQUE SANSON",
+	"title":"AMOUREUSE",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=SW6TUXGGTRY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Yves Simon",
+	"title":"Qu'est-ce que sera demain ?",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=9UbUq0uN968",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Beaumont's Lament",
+	"title":"Jackie Brown",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=-90pqmP48gg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bill Withers",
+	"title":"Lovely Day",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=bEeaS6fuUoA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Clarika",
+	"title":"Ne Me Demande Pas",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=PRCRV4JwIds",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Herbie Hancock",
+	"title":"Rockit",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=GHhD4PD75zY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Dave Brubeck",
+	"title":"Take Five",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=vmDDOFXSgAs",
+	"playlist":["jazz"]
+	},
+	{
+	"type":"song",
+	"author":"Giorgio Moroder",
+	"title":"Chase",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ViN2bRGrBx8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Depeche Mode",
+	"title":"Enjoy The Silence",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=aGSKrC7dGcY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Golden Brown",
+	"title":"The Stranglers",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=AWAsI3U2EaE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Beck",
+	"title":"Loser",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=YgSPaXgAdzE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Les Rita Mitsouko",
+	"title":"C'est comme ça",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=MGrCRA9CX78",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"David McWilliams",
+	"title":"Days Of Pearly Spencer",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=4VDS8uArR0A",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"TELEPHONE",
+	"title":"Argent trop cher",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=AZcypfABSzw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"TELEPHONE",
+	"title":"Ça c'est vraiment toi",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=YP-P6tBexhk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"TELEPHONE",
+	"title":"Cendrillon",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=_tHbSMQeCdk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"The Ink Spots",
+	"title":"I Don't Want to Set the World on Fire",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=TmIwm5RElRs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Patti Smith",
+	"title":"Because the Night",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=c_BcivBprM0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Kansas",
+	"title":"Dust in the Wind",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=9fNrJMkTWEE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"The Beattles",
+	"title":"The Fool On The Hill",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=wsRatIMUSu8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"The Rolling Stones",
+	"title":"Paint It, Black",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=O4irXQhgMqg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Julio Iglesias",
+	"title":"Pauvres diables",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=86Dtc6DLW88",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Richard Desjardins",
+	"title":"Tu m'aimes-tu",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=XILnL_zezQg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Johnny Hallyday","Carmel"],
+	"title":"J'oublierai ton nom",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=BL6E8QSWfaM",
+	"playlist":["variete","80s"]
+	},
+	{
+	"type":"song",
+	"author":"Francis Cabrel",
+	"title":"Encore et encore",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=gYQ05GF-clk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Rone",
+	"title":"Opening",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=DHgE0Kn7zqE",
+	"playlist":["soundtrack","techno"]
+	},
+	{
+	"type":"song",
 	"author":["Paul Simon","Art Garfunkel"],
 	"title":"Cecilia",
 	"year":null,
@@ -1513,7 +2269,7 @@ var data = [
 	"author":"Serge Gainsbourg",
 	"title":"L'ami Caouette",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=RcIRM57UPJo",
 	"playlist":[""]
 	},
@@ -1927,7 +2683,7 @@ var data = [
 	"author":"Jacques Brel",
 	"title":"Vesoul",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=tVKWiseNGUU",
 	"playlist":[""]
 	},
@@ -3748,7 +4504,7 @@ var data = [
 	{
 	"type":"song",
 	"author":"Supertramp",
-	"title":"Take the Long Way Home Roger Hodgson",
+	"title":"Take the Long Way Home",
 	"year":1979,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=LPRrHyXchEY",
@@ -4029,7 +4785,7 @@ var data = [
 	"author":"Jane Birkin",
 	"title":"Quoi",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=kAKz44pDAcA",
 	"playlist":[""]
 	},
@@ -4098,7 +4854,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Walk Of Life",
+	"author":"Dire Straits",
 	"title":"Walk Of Life",
 	"year":1985,
 	"lang":"en",
@@ -4107,7 +4863,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"So Far Away",
+	"author":"Dire Straits",
 	"title":"So Far Away",
 	"year":1985,
 	"lang":"en",
@@ -4125,12 +4881,12 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Brothers In Arms",
+	"author":"Dire Straits",
 	"title":"Brothers In Arms",
 	"year":1985,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=9ykZc5E6UEE",
-	"playlist":[""]
+	"playlist":["pop","80s"]
 	},
 	{
 	"type":"song",
@@ -4139,25 +4895,25 @@ var data = [
 	"year":1982,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=1TTAXENxbM0",
-	"playlist":[""]
+	"playlist":["pop","80s"]
 	},
 	{
 	"type":"song",
-	"author":"Private Investigations",
+	"author":"Dire Straits",
 	"title":"Private Investigations",
 	"year":1982,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=LiDWF8mMSek",
-	"playlist":[""]
+	"playlist":["pop","80s"]
 	},
 	{
 	"type":"song",
-	"author":"Industrial Disease",
+	"author":"Dire Straits",
 	"title":"Industrial Disease",
 	"year":1982,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=CiT0mUDCRMU",
-	"playlist":[""]
+	"playlist":["pop","80s"]
 	},
 	{
 	"type":"song",
@@ -4656,15 +5412,6 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":["Paul Simon","Art Garfunkel"],
-	"title":"The Sound of Silence",
-	"year":1964,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=nkUOACGtGfA",
-	"playlist":["60s"]
-	},
-	{
-	"type":"song",
 	"author":"Trust",
 	"title":"Antisocial",
 	"year":1980,
@@ -4820,10 +5567,10 @@ var data = [
 	"type":"song",
 	"author":Johnny Hallyday",
 	"title":"J'ai oublié de vivre",
-	"year":null,
+	"year":1977,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=rPkvFcdQBMA",
-	"playlist":[""]
+	"playlist":["variete","70s"]
 	},
 	{
 	"type":"song",
@@ -4847,8 +5594,8 @@ var data = [
 	"type":"song",
 	"author":"Johnny Hallyday",
 	"title":"Joue pas de rock'n'roll pour moi",
-	"year":null,
-	"lang":"en",
+	"year":1976,
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=dtDTQQyFazA",
 	"playlist":[""]
 	},
@@ -4857,8 +5604,17 @@ var data = [
 	"author":"Johnny Hallyday",
 	"title":"Oh ! ma jolie Sarah",
 	"year":null,
-	"lang":"en",
+	"lang":"1971",
 	"youtube":"https://www.youtube.com/watch?v=nD7T-B08WuQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Johnny Hallyday",
+	"title":"Retiens la nuit",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=pZd6Z2rWyb4",
 	"playlist":[""]
 	},
 	{
@@ -5135,7 +5891,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Queen – Bohemian Rhapsody",
+	"author":"Queen",
 	"title":"Queen – Bohemian Rhapsody",
 	"year":null,
 	"lang":"en",
@@ -6270,7 +7026,16 @@ var data = [
 	{
 	"type":"song",
 	"author":"The Doors",
-	"title":"The Doors The End",
+	"title":"Break on Through",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=6429spkAxLY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"The Doors",
+	"title":"The End",
 	"lang":"en",
 	"year":1967,
 	"duration":"11m45s",
@@ -6623,7 +7388,7 @@ var data = [
 	{
 	"type":"song",
 	"author":"Pink Floyd",
-	"title":"High Hopes (Division Bell)",
+	"title":"High Hopes)",
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=7jMlFXouPk8",
@@ -7819,9 +8584,45 @@ var data = [
 	{
 	"type":"song",
 	"author":"Julien Clerc",
+	"title":"Le coeur volcan",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=uRNUl6gOKTo",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Julien Clerc",
+	"title":"Respire",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=s1evefF0ugY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Julien Clerc",
+	"title":"Danse s'y",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=l-RlvSkpz4E",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Julien Clerc",
 	"title":"Ma préférence",
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=vUGzmbh_o0w",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Julien Clerc",
+	"title":"Ballade pour un fou",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=PRCRaE9ulOI",
 	"playlist":[""]
 	},
 	{
@@ -9143,8 +9944,8 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Kalki Koechlin: The Printing Machine | Unblushed",
-	"title":"Kalki Koechlin: The Printing Machine | Unblushed",
+	"author":"Kalki Koechlin",
+	"title":"The Printing Machine",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=JF0_dGYeSEk",
 	"playlist":[""]
@@ -9186,6 +9987,7 @@ var data = [
 	"author":"Christophe",
 	"title":"Les mots bleus",
 	"lang":"fr",
+	"year":null,
 	"youtube":"https://www.youtube.com/watch?v=OqZY0Kztm3Q",
 	"playlist":["variete","70s"]
 	},
