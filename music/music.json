@@ -3,6 +3,168 @@
 var data = [
 	{
 	"type":"song",
+	"author":"Christine and the Queens",
+	"title":"Nuit 17 à 52",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=JEQqzs2GYV0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Christine and the Queens","Chritophe"],
+	"title":"Paradis Perdus",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=PPjazi4mQSQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Christine and the Queens",
+	"title":"je ne tiens pas debout",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=rs40yxHjTxQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Christine and the Queens",
+	"title":"Saint Claude",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=ZzFYmz2lfT4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Beth Ditto",
+	"title":"Fire",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=IPbiklLnDQo",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"AIR",
+	"title":"Playground Love",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=hFuu5wPFv1M",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Sanseverino",
+	"title":"Les embouteillages",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=nuQTYt1ZuV4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Sanseverino",
+	"title":"Les films de guerre",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=I_TP9oYUcDY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Pierre Vassiliu",
+	"title":"Amour, amitié",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=A59nKHVUW5o",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hans Zimmer",
+	"title":"Interstellar. No Time For Caution",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=QPuC7q-GYOc",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Jil Caplan",
+	"title":"Tout c'qui nous sépare",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=tOur8lxjx00",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Jil Caplan",
+	"title":"Entre les tombes",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=nLPSjmP_PEs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Stephan Eicher",
+	"title":"Des Hauts, Des Bas",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Q-rMzANlb44",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Stephan Eicher",
+	"title":"Tu Ne Me Dois Rien",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=rko9vgHUUl4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Gilbert Becaud",
+	"title":"Nathalie",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=zuISJycFBo8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Gilbert Becaud",
+	"title":"Et maintenant",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=tndIf9t_5eA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Klaus Nomi",
+	"title":"Simple Man",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=BI3NvpApuWQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Kim Carnes",
+	"title":"Bette Davis Eyes",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=qAqXDZoa624",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Serge Gainsbourg",
 	"title":"L'alcool",
 	"year":null,
@@ -71,6 +233,15 @@ var data = [
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=xFYQQPAOz7Y",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Noir Désir",
+	"title":"Le Vent Nous Portera",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=NrgcRvBJYBE",
 	"playlist":[""]
 	},
 	{
@@ -372,15 +543,6 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"SYMPATHY",
-	"title":"RARE BIRD 1969",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=9vN6-1Zeg2w",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
 	"author":"Philadelphia Soundtrack",
 	"title":"9 - Philadelphia",
 	"year":null,
@@ -579,15 +741,6 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Dave Brubeck",
-	"title":"Take Five",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=vmDDOFXSgAs",
-	"playlist":["jazz"]
-	},
-	{
-	"type":"song",
 	"author":"Giorgio Moroder",
 	"title":"Chase",
 	"year":null,
@@ -696,15 +849,6 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"The Beattles",
-	"title":"The Fool On The Hill",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=wsRatIMUSu8",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
 	"author":"The Rolling Stones",
 	"title":"Paint It, Black",
 	"year":null,
@@ -747,15 +891,6 @@ var data = [
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=gYQ05GF-clk",
 	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"Rone",
-	"title":"Opening",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=DHgE0Kn7zqE",
-	"playlist":["soundtrack","techno"]
 	},
 	{
 	"type":"song",
@@ -899,15 +1034,6 @@ var data = [
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=tgM5GrhK1l8",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"a-ha",
-	"title":"Hunting High and Low",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=s6VaeFCxta8",
 	"playlist":[""]
 	},
 	{
@@ -1227,8 +1353,8 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Richard Gotainer "Le Youki"",
-	"title":"Richard Gotainer "Le Youki"",
+	"author":"Richard Gotainer",
+	"title":"Le Youki",
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=H0t66XZPq_Y",
@@ -1589,15 +1715,6 @@ var data = [
 	{
 	"type":"song",
 	"author":"Niagara",
-	"title":"Tchiki Boum",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=dyF8dpKPPuI",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"Niagara",
 	"title":"Assez",
 	"year":null,
 	"lang":"en",
@@ -1661,15 +1778,6 @@ var data = [
 	{
 	"type":"song",
 	"author":"George Michael",
-	"title":"Freedom! ’90",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=diYAc7gB-0A",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"George Michael",
 	"title":"Praying For Time",
 	"year":null,
 	"lang":"en",
@@ -1712,7 +1820,15 @@ var data = [
 	"youtube":"https://www.youtube.com/watch?v=HfP42cR2JDc",
 	"playlist":[""]
 	},
-
+	{
+	"type":"song",
+	"author":"Jean-Jacques Goldman",
+	"title":"Famille",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=69F9DvD9E3U",
+	"playlist":[""]
+	},
 	{
 	"type":"song",
 	"author":"Jean-Jacques Goldman",
@@ -1745,7 +1861,7 @@ var data = [
 	"author":"Jean-Jacques Goldman",
 	"title":"Reprendre c'est voler",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=S15YH5hgnME",
 	"playlist":[""]
 	},
@@ -1754,8 +1870,17 @@ var data = [
 	"author":"Jean-Jacques Goldman",
 	"title":"Filles faciles",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=dlcn3-n5BIs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Jean-Jacques Goldman",
+	"title":"Parler d'ma vie",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=gwj4GlD176M",
 	"playlist":[""]
 	},
 	{
@@ -1772,7 +1897,7 @@ var data = [
 	"author":"Jean-Jacques Goldman",
 	"title":"Envole-Moi",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=My41opLFT7M",
 	"playlist":[""]
 	},
@@ -1801,15 +1926,6 @@ var data = [
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=BjvfIJstWeg",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"Léo Ferré",
-	"title":"Avec le temps",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=Bj3aTZePVQw",
 	"playlist":[""]
 	},
 	{
@@ -2109,11 +2225,19 @@ var data = [
 	"youtube":"https://www.youtube.com/watch?v=2s4slliAtQU",
 	"playlist":[""]
 	},
-	
+	{
+	"type":"song",
+	"author":"Leonard Cohen",
+	"title":"The partisan",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=TU2xKDcXn1g",
+	"playlist":[""]
+	},
 	{
 	"type":"song",
 	"author":"Yves Montand",
-	"title":""Le chant des partisans"",
+	"title":"Le chant des partisans",
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=8NEJMetXm80",
@@ -2440,7 +2564,7 @@ var data = [
 	"author":"Jacques Brel",
 	"title":"Zangra",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=b5cPA5vuCLo",
 	"playlist":[""]
 	},
@@ -2449,7 +2573,7 @@ var data = [
 	"author":"Jacques Brel",
 	"title":"Jaurès",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=DXfHxN7x5vY",
 	"playlist":[""]
 	},
@@ -2458,7 +2582,7 @@ var data = [
 	"author":"Jacques Brel",
 	"title":"Fernand",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=_gOovTu2-ac",
 	"playlist":[""]
 	},
@@ -2467,7 +2591,7 @@ var data = [
 	"author":"Jacques Brel",
 	"title":"La Fanette",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=4D7v39ZoyYs",
 	"playlist":[""]
 	},
@@ -2476,7 +2600,7 @@ var data = [
 	"author":"Jacques Brel",
 	"title":"Mathilde",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=qmNGqiJYZs4",
 	"playlist":[""]
 	},
@@ -2485,8 +2609,17 @@ var data = [
 	"author":"Alain Souchon",
 	"title":"Le baiser",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=P5weqdVaChQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Souchon",
+	"title":"Allô maman bobo",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=AgdUnj9iyvc",
 	"playlist":[""]
 	},
 	{
@@ -2494,8 +2627,17 @@ var data = [
 	"author":"Jacques Brel",
 	"title":"Le dernier repas",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=MMxIZquLbrM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Souchon",
+	"title":"S'asseoir par terre",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=AhYcVVJ74PY",
 	"playlist":[""]
 	},
 	{
@@ -2503,7 +2645,7 @@ var data = [
 	"author":"Jacques Brel",
 	"title":"Jojo",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=MI3uHOC-e-4",
 	"playlist":[""]
 	},
@@ -2521,8 +2663,17 @@ var data = [
 	"author":"Jacques Brel",
 	"title":"Le prochain amour",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=oE-gr3S13Pk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"George Brassens",
+	"title":"Les passantes",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=5gdyOgAWDjM",
 	"playlist":[""]
 	},
 	{
@@ -2530,7 +2681,7 @@ var data = [
 	"author":"Jacques Brel",
 	"title":"On n'oublie rien",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=fNYTzetHF8Q",
 	"playlist":[""]
 	},
@@ -2897,15 +3048,6 @@ var data = [
 	{
 	"type":"song",
 	"author":"The Beatles",
-	"title":"Something",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=UelDrZ1aFeY",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"The Beatles",
 	"title":"Michelle",
 	"year":null,
 	"lang":"en",
@@ -2955,15 +3097,6 @@ var data = [
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=wsRatIMUSu8",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"The Beatles",
-	"title":"For No One",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=hgJ7dmr_ysU",
 	"playlist":[""]
 	},
 	{
@@ -3491,15 +3624,6 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Daniel Balavoine",
-	"title":"Le chanteur",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=HXdP15Ubu6M",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
 	"author":"La porte est close",
 	"title":"La porte est close",
 	"year":null,
@@ -3532,15 +3656,6 @@ var data = [
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=6bTAgC-1Brs",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"Daniel Balavoine",
-	"title":"Tous les cris les S.O.S.",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=urWV2OjAmUQ",
 	"playlist":[""]
 	},
 	{
@@ -3640,15 +3755,6 @@ var data = [
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=4DuUejBkMqE",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"La vie ne m'apprend rien",
-	"title":"La vie ne m'apprend rien",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=ZWXeZQcYsho",
 	"playlist":[""]
 	},
 	{
@@ -3872,15 +3978,6 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Kansas",
-	"title":"Dust in the Wind",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=9fNrJMkTWEE",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
 	"author":"Pink Floyd",
 	"title":"Breathe",
 	"year":null,
@@ -3947,7 +4044,7 @@ var data = [
 	"author":["Elton John","France Gall"],
 	"title":"Donner Pour Donner",
 	"year":null,
-	"lang":["en","fr"]
+	"lang":["en","fr"],
 	"youtube":"https://www.youtube.com/watch?v=li3IIPaVz7Q",
 	"playlist":[""]
 	},
@@ -4086,15 +4183,6 @@ var data = [
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=TK0Vdb1RUCk",
 	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"Michel Berger",
-	"title":"Les Princes Des Villes",
-	"year":null,
-	"lang":"fr",
-	"youtube":"https://www.youtube.com/watch?v=0z0lY83p5ZI",
-	"playlist":["variete","80s"]
 	},
 	{
 	"type":"song",
@@ -4320,15 +4408,6 @@ var data = [
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=2ZUX3j6WLiQ",
 	"playlist":["pop","70s"]
-	},
-	{
-	"type":"song",
-	"author":"Indochine",
-	"title":"L'aventurier",
-	"year":null,
-	"lang":"fr",
-	"youtube":"https://www.youtube.com/watch?v=M7X6oYg6iro",
-	"playlist":[""]
 	},
 	{
 	"type":"song",
@@ -4800,7 +4879,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Once Upon A Time In The West",
+	"author":"Dire Straits",
 	"title":"Once Upon A Time In The West",
 	"year":null,
 	"lang":"en",
@@ -4809,7 +4888,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Sultans Of Swing",
+	"author":"Dire Straits",
 	"title":"Sultans Of Swing",
 	"year":null,
 	"lang":"en",
@@ -4827,7 +4906,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Heavy Fuel",
+	"author":"Dire Straits",
 	"title":"Heavy Fuel",
 	"year":1991,
 	"lang":"en",
@@ -4836,7 +4915,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"On Every Street",
+	"author":"Dire Straits",
 	"title":"On Every Street",
 	"year":1991,
 	"lang":"en",
@@ -4845,7 +4924,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Your Latest Trick",
+	"author":"Dire Straits",
 	"title":"Your Latest Trick",
 	"year":1985,
 	"lang":"en",
@@ -4872,7 +4951,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Money For Nothing",
+	"author":"Dire Straits",
 	"title":"Money For Nothing",
 	"year":1985,
 	"lang":"en",
@@ -5007,7 +5086,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Louise Chedid",
+	"author":"Louis Chedid",
 	"title":"Anne, ma sœur Anne",
 	"year":null,
 	"lang":"en",
@@ -5039,6 +5118,15 @@ var data = [
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=EFE3Gfq0oG0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Louise Attaque",
+	"title":"Les nuits parisiennes",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=7b4LjfJ3OVg",
 	"playlist":[""]
 	},
 	{
@@ -5120,7 +5208,7 @@ var data = [
 	"year": 1973,
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=ifuKxULCeuo",
-	"playlist":["variete"","70s"]
+	"playlist":["variete","70s"]
 	},
 	{
 	"type":"song",
@@ -5565,7 +5653,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":Johnny Hallyday",
+	"author":"Johnny Hallyday",
 	"title":"J'ai oublié de vivre",
 	"year":1977,
 	"lang":"en",
@@ -5669,7 +5757,7 @@ var data = [
 	"title":"Tubular Bells Pt II",
 	"year":1973,
 	"lang":null,
-	"duration:"23m17s",
+	"duration":"23m17s",
 	"youtube":"https://www.youtube.com/watch?v=oehz0YN18jo",
 	"playlist":["instrumental","movie"]
 	},
@@ -5906,15 +5994,6 @@ var data = [
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=atIN9cd1144",
 	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"Kavinsky",
-	"title":"Nightcall",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=MV_3Dpw-BRY",
-	"playlist":["pop","electronic"]
 	},
 	{
 	"type":"song",
@@ -6198,15 +6277,6 @@ var data = [
 	{
 	"type":"song",
 	"author":"Michel Polnareff",
-	"title":"Dans La Rue",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=l5xPsUtzy0s",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"Michel Polnareff",
 	"title":"Goodbye Marylou",
 	"year":null,
 	"lang":"en",
@@ -6409,15 +6479,6 @@ var data = [
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=jL7gN53fbiU",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"William Sheller",
-	"title":"Les Machines Absurdes",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=ARQwEdER4qI",
 	"playlist":[""]
 	},
 	{
@@ -6856,7 +6917,7 @@ var data = [
 	"type":"song",
 	"author":"Jean-Jacques Goldman",
 	"title":"Il suffira d'un signe",
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=Vav-2sgJ4MI",
 	"playlist":[""]
 	},
@@ -7740,6 +7801,15 @@ var data = [
 	},
 	{
 	"type":"song",
+	"author":"Moby",
+	"title":"Porcelain",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=13EifDb4GYs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Jeanne Moreau",
 	"title":"India Song",
 	"lang":"fr",
@@ -7773,15 +7843,6 @@ var data = [
 	"lang":"it",
 	"youtube":"https://www.youtube.com/watch?v=G7EVwcT141I",
 	"playlist":["70s","variete"]
-	},
-	{
-	"type":"song",
-	"author":"Clou",
-	"title":"Cesse cesse",
-	"lang":"fr",
-	"year":2020,
-	"youtube":"https://www.youtube.com/watch?v=4Lerq0cDWgU",
-	"playlist":["variete"]
 	},
 	{
 	"type":"song",
@@ -7993,19 +8054,20 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Dalida, Alain Delon",
-	"title":"Paroles, paroles",
-	"lang":"fr",
-	"youtube":"https://www.youtube.com/watch?v=LYAvhujK4nA",
-	"playlist":["70s","variete"]
-	},
-	{
-	"type":"song",
 	"author":"Talk Talk",
 	"title":"It's My Life",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=cFH5JgyZK1I",
 	"playlist":["80s"]
+	},
+	{
+	"type":"song",
+	"title":"Alligators 427 d' H",
+	"author":["Hubert-Felix Thiéfaine","Matmatah"],
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=S4VMdMrsI_Q",
+	"playlist":[""]
 	},
 	{
 	"type":"song",
@@ -8029,14 +8091,6 @@ var data = [
 	"title":"S.O.S d'un terrien en détresse",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=JogioTloRB4",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"Léo Ferré",
-	"title":"Avec le temps",
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=ZH7dG0qyzyg",
 	"playlist":[""]
 	},
 	{
@@ -8083,7 +8137,7 @@ var data = [
 	"type":"song",
 	"author":"Daniel Balavoine",
 	"title":"Le chanteur",
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=HXdP15Ubu6M",
 	"playlist":[""]
 	},
@@ -8559,14 +8613,6 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Lionel Richie",
-	"title":"All Night Long",
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=nqAvFx3NxUM",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
 	"author":"Kim Wilde",
 	"title":"Cambodia",
 	"lang":"en",
@@ -8614,15 +8660,6 @@ var data = [
 	"title":"Ma préférence",
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=vUGzmbh_o0w",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"Julien Clerc",
-	"title":"Ballade pour un fou",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=PRCRaE9ulOI",
 	"playlist":[""]
 	},
 	{
@@ -8946,6 +8983,15 @@ var data = [
 	{
 	"type":"song",
 	"author":"Alain Souchon",
+	"title":"Le dégout",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=SZ7EiDKNWg8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Souchon",
 	"title":"La ballade de Jim",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=Eg9YmQqTg3s",
@@ -8985,7 +9031,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":Etienne Daho",
+	"author":"Etienne Daho",
 	"title":"Le Premier jour du reste de ta vie",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=AlwgC9yqNcw",
@@ -9011,7 +9057,7 @@ var data = [
 	"type":"song",
 	"author":"Alain Souchon",
 	"title":"Les cadors",
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=cePV7P86SdY",
 	"playlist":[""]
 	},
@@ -9035,7 +9081,7 @@ var data = [
 	"type":"song",
 	"author":"Alain Souchon",
 	"title":"Jamais content",
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=VbGR-PNdeOE",
 	"playlist":[""]
 	},
@@ -9043,7 +9089,7 @@ var data = [
 	"type":"song",
 	"author":"Alain Souchon",
 	"title":"Bidon",
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=rhovrqeMT9I",
 	"playlist":[""]
 	},
@@ -9051,7 +9097,7 @@ var data = [
 	"type":"song",
 	"author":"Alain Souchon",
 	"title":"Poulailler's Song",
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=bMGqcGtSgho",
 	"playlist":[""]
 	},
@@ -9082,14 +9128,23 @@ var data = [
 	{
 	"type":"song",
 	"author":"Alain Souchon",
-	"title":"La vie ne vaut rien",
+	"title":"Papa Mambo",
+	"year":null,
 	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=LuqICVe3r10",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Souchon",
+	"title":"La vie ne vaut rien",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=nHR5H1b6_R0",
 	"playlist":[""]
 	},
 	{
 	"type":"song",
-	"author":"ALAIN SOUCHON",
+	"author":"Alain Souchon",
 	"title":"Rive Gauche",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=gZ6aOUoJvRg",
@@ -9098,8 +9153,17 @@ var data = [
 	{
 	"type":"song",
 	"author":"Alain Souchon",
-	"title":"On avance",
+	"title":"On s'aime pas",
+	"year":null,
 	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=uEMgR4Lc0pI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Alain Souchon",
+	"title":"On avance",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=pre8VCCdiX0",
 	"playlist":[""]
 	},
@@ -9375,15 +9439,6 @@ var data = [
 	{
 	"type":"song",
 	"author":"Serge Gainsbourg",
-	"title":"Black Trombone",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=oIHf0DF0K_o",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"Serge Gainsbourg",
 	"title":"parce que",
 	"year":null,
 	"lang":"en",
@@ -9487,15 +9542,6 @@ var data = [
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=dbxyKR1P8vA",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"Charles Aznavour",
-	"title":"La bohème",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=fVfnEyLOkrM",
 	"playlist":[""]
 	},
 	{
@@ -9823,14 +9869,6 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Vancouver",
-	"title":"Vancouver",
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=LW2fZrNqEAw",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
 	"author":"Eurythmics",
 	"title":"There Must Be An Angel",
 	"lang":"en",
@@ -9970,7 +10008,7 @@ var data = [
 	"type":"song",
 	"author":"Michel Delpech",
 	"title":"Quand j'étais chanteur",
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=9Z27xAaE_dU",
 	"playlist":[""]
 	},
@@ -9978,7 +10016,7 @@ var data = [
 	"type":"song",
 	"author":"Charles Aznavour",
 	"title":"La bohème",
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=fVfnEyLOkrM",
 	"playlist":[""]
 	},
@@ -10091,7 +10129,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Michel Sardou"",
+	"author":"Michel Sardou",
 	"title":"La java de Broadway",
 	"year":null,
 	"lang":"en",
@@ -10180,7 +10218,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Je suis malade",
+	"author":"Serge Lama",
 	"title":"Je suis malade",
 	"year":null,
 	"lang":"en",
@@ -10189,7 +10227,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"D'aventures en aventures",
+	"author":"Serge Lama",
 	"title":"D'aventures en aventures",
 	"year":null,
 	"lang":"en",
@@ -10198,7 +10236,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Femme femme femme",
+	"author":"Serge Lama",
 	"title":"Femme femme femme",
 	"year":null,
 	"lang":"en",
@@ -10221,14 +10259,6 @@ var data = [
 	"year":null,
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=Y052xCD-mNU",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"Michel Polnareff",
-	"title":"Le Bal Des Lazes",
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=tPxajzP-2jQ",
 	"playlist":[""]
 	},
 	{
@@ -10316,14 +10346,6 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Véronique Sanson",
-	"title":"Chanson sur ma drôle de vie",
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=NAogfwwqwGY",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
 	"author":"France Gall",
 	"title":"Si maman si",
 	"lang":"fr",
@@ -10392,7 +10414,7 @@ var data = [
 	"author":"Etienne Daho",
 	"title":"Week end à Rome",
 	"lang":"fr",
-	"youtube":"https://www.youtube.com/watch?v=Ft2U58G5Szw&list=RDEMaRzAJOU-lMPqj2687jJOTA&index=17",
+	"youtube":"https://www.youtube.com/watch?v=Ft2U58G5Szw",
 	"playlist":["80s","pop"]
 	},
 	{
@@ -10408,7 +10430,7 @@ var data = [
 	"author":"France Gall",
 	"title":"Hong-Kong Star",
 	"lang":"fr",
-	"youtube":"https://www.youtube.com/watch?v=L0EIZ2z5azU&list=RDEMaRzAJOU-lMPqj2687jJOTA&index=13",
+	"youtube":"https://www.youtube.com/watch?v=L0EIZ2z5azU",
 	"playlist":["variete","80s"]
 	},
 	{
@@ -10416,7 +10438,7 @@ var data = [
 	"author":"France Gall",
 	"title":"Résiste",
 	"lang":"fr",
-	"youtube":"https://www.youtube.com/watch?v=I5mlAZkibgw&list=RDEMaRzAJOU-lMPqj2687jJOTA&index=12",
+	"youtube":"https://www.youtube.com/watch?v=I5mlAZkibgw",
 	"playlist":["80s","variete","pop"]
 	},
 	{
@@ -10424,7 +10446,7 @@ var data = [
 	"author":"Michel Polnareff",
 	"title":"Lettre à france",
 	"lang":"fr",
-	"youtube":"https://www.youtube.com/watch?v=Fk2VBiMm9I4&list=RDEMaRzAJOU-lMPqj2687jJOTA&index=10",
+	"youtube":"https://www.youtube.com/watch?v=Fk2VBiMm9I4",
 	"playlist":["70s","variete"]
 	},
 	{
@@ -10514,14 +10536,6 @@ var data = [
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=3Z4hhmOtAMM",
 	"playlist":["80s","variete"]
-	},
-	{
-	"type":"song",
-	"author":"France Gall",
-	"title":"Débranche",
-	"lang":"fr",
-	"youtube":"https://www.youtube.com/watch?v=Xa6WZkfKlxA",
-	"playlist":""
 	},
 	{
 	"type":"song",
