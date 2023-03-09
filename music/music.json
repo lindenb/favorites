@@ -4479,6 +4479,7 @@ var data = [
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=4q1nzqMaHzU",
+    "copyrighted":true,
 	"playlist":[""]
 	},
 	{
@@ -6146,6 +6147,7 @@ var data = [
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=JzZjw-lVpYY",
+    "copyrighted":true,
 	"playlist":[""]
 	},
 	{
@@ -7303,6 +7305,7 @@ var data = [
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=Au4iTciMLFo",
+    "copyrighted":true,
 	"playlist":[""]
 	},
 	{
@@ -7734,6 +7737,7 @@ var data = [
 	"year":null,
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=AMIaLyhn59w",
+    "copyrighted":true,
 	"playlist":["variete","80s"]
 	},
 	{
@@ -8810,6 +8814,7 @@ var data = [
 	"title":"Heart Of Glass",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=WGU_4-5RaxU",
+    "copyrighted":true,
 	"playlist":[""]
 	},
 	{
