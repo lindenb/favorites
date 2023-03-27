@@ -3,6 +3,69 @@
 var data = [
 	{
 	"type":"song",
+	"author":"Damien Saez",
+	"title":"Jeune et con",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=vURYMEBiEdY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Damien Saez",
+	"title":"J'accuse",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=oqaiH8iBZ5g",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Musical Youth",
+	"title":"Pass The Dutchie",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=5HIKVSYaU6s",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":["Pete Yorn","Scarlett Johansson"],
+	"title":"Relator",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=vEMPbsqqdOA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"The Beattles",
+	"title":"Got To Get You Into My Life",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=r95-7zfgtLw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hair",
+	"title":"Hair/Let the Sunshine In",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=T8yssvCh3ac",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Hair",
+	"title":"Hair/Aquarius",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ISYwosO04fg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Christine and the Queens",
 	"title":"Nuit 17 à 52",
 	"year":null,
@@ -2284,7 +2347,7 @@ var data = [
 	"author":"Edith Piaf",
 	"title":"Mon légionnaire",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=Qu0cJanmwbQ",
 	"playlist":[""]
 	},
@@ -2293,7 +2356,7 @@ var data = [
 	"author":"Edith Piaf",
 	"title":"Padam, padam",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=xXqLj7X1WDU",
 	"playlist":[""]
 	},
@@ -2302,7 +2365,7 @@ var data = [
 	"author":"Edith Piaf",
 	"title":"Hymne à l'amour",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=sgBldNsK-xw",
 	"playlist":[""]
 	},
@@ -2320,7 +2383,7 @@ var data = [
 	"author":"Edith Piaf",
 	"title":"Sous le ciel de paris",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=SC06NyI6KKU",
 	"playlist":[""]
 	},
@@ -2329,7 +2392,7 @@ var data = [
 	"author":"Edith Piaf",
 	"title":"La foule",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=Fgn8gZHJZzA",
 	"playlist":[""]
 	},
@@ -2338,7 +2401,7 @@ var data = [
 	"author":"Edith Piaf",
 	"title":"La Vie En Rose",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=kFzViYkZAz4",
 	"playlist":[""]
 	},
@@ -2348,7 +2411,7 @@ var data = [
 	"author":"YVES MONTAND",
 	"title":"Sous le ciel de Paris",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=L_1Z_WcF9Y4",
 	"playlist":[""]
 	},
@@ -3624,7 +3687,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"La porte est close",
+	"author":"Daniel Balavoine",
 	"title":"La porte est close",
 	"year":null,
 	"lang":"en",
@@ -3633,7 +3696,16 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Lady Marlène",
+	"author":"The Beatles",
+	"title":"Lady Madonna",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=uLRiGX3L-kw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Daniel Balavoine",
 	"title":"Lady Marlène",
 	"year":null,
 	"lang":"en",
@@ -3642,7 +3714,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"De vous à elle en passant par moi",
+	"author":"Daniel Balavoine",
 	"title":"De vous à elle en passant par moi",
 	"year":null,
 	"lang":"en",
@@ -4425,6 +4497,15 @@ var data = [
 	"year":null,
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=g7LiBrEXhGg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Pink Floyd",
+	"title":"One Of These Days",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=48PJGVf4xqk",
 	"playlist":[""]
 	},
 	{
@@ -5326,6 +5407,15 @@ var data = [
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=fNFzfwLM72c",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Roxy Music",
+	"title":"Avalon",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=bpA_5a0miWk",
 	"playlist":[""]
 	},
 	{
@@ -6816,6 +6906,15 @@ var data = [
 	},
 	{
 	"type":"song",
+	"author":"Roxy Music",
+	"title":"More Than This",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=kOnde5c7OG8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Billy Joel",
 	"title":"Pressure",
 	"lang":"en",
@@ -7891,6 +7990,15 @@ var data = [
 	"year": 1980,
 	"youtube":"https://www.youtube.com/watch?v=YF_ESqYuhSQ",
 	"playlist":["pop"]
+	},
+	{
+	"type":"song",
+	"author":"The Beatles",
+	"title":"When I'm Sixty Four",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=HCTunqv1Xt4",
+	"playlist":[""]
 	},
 	{
 	"type":"song",
