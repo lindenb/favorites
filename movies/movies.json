@@ -1,6 +1,734 @@
 [
 	{
 	"type":"movie",
+	"title":"Witness",
+	"image": "https://m.media-amazon.com/images/M/MV5BZWQzYmM5OGYtMDJlOC00M2RlLThhYzgtNjZiOWYxNjlhMDJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+	"synopsis":"When a young Amish boy is sole witness to a murder while visiting Philadelphia with his mother, police detective John Book tries to protect the boy until an attempt on Book&apos;s life forces him into hiding in Amish country.",
+	"date":"1985-02-08",
+	"duration":"PT1H52M",
+	"genre":["Drama","Romance","Thriller"],
+	"director":["Peter Weir"],
+	"actors":["Harrison Ford","Kelly McGillis","Lukas Haas"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Solaris",
+	"image": "https://m.media-amazon.com/images/M/MV5BNzlkNGE0MmMtMzU4YS00ZDU1LWFhMTktZDRjMGU5MjI1MzRlXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+	"synopsis":"A troubled psychologist is sent to investigate the crew of an isolated research station orbiting a bizarre planet.",
+	"date":"2002-11-27",
+	"duration":"PT1H39M",
+	"genre":["Drama","Mystery","Romance"],
+	"director":["Steven Soderbergh"],
+	"actors":["George Clooney","Natascha McElhone","Ulrich Tukur"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Superman",
+	"image": "https://m.media-amazon.com/images/M/MV5BMzA0YWMwMTUtMTVhNC00NjRkLWE2ZTgtOWEzNjJhYzNiMTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+	"synopsis":"An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home&apos;s first and greatest superhero.",
+	"date":"1978-12-15",
+	"duration":"PT2H23M",
+	"genre":["Action","Adventure","Sci-Fi"],
+	"director":["Richard Donner"],
+	"actors":["Christopher Reeve","Margot Kidder","Gene Hackman"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"The Full Monty",
+	"image": "https://m.media-amazon.com/images/M/MV5BY2NjMGQzZmItMTMwYS00MDA2LWFmZmYtNjA4MTQ2ODNjYzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+	"synopsis":"Six unemployed steel workers form a male striptease act. The women cheer them on to go for &quot;the full monty&quot; - total nudity.",
+	"date":"1997-09-19",
+	"duration":"PT1H31M",
+	"genre":["Comedy","Drama"],
+	"director":["Peter Cattaneo"],
+	"actors":["Robert Carlyle","Tom Wilkinson","Mark Addy"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Four Lions",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTczNDQxNzI0NF5BMl5BanBnXkFtZTcwNDM0NzEwNA@@._V1_.jpg",
+	"synopsis":"Four incompetent British terrorists set out to train for and commit an act of terror.",
+	"date":"2010-05-07",
+	"duration":"PT1H37M",
+	"genre":["Comedy","Crime","Drama"],
+	"director":["Christopher Morris"],
+	"actors":["Will Adamsdale","Riz Ahmed","Adeel Akhtar"],
+	"youtube":"",
+	"note":5.0
+	},
+	{
+	"type":"movie",
+	"title":"Spider-Man: Into the Spider-Verse",
+	"image": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_.jpg",
+	"synopsis":"Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+	"date":"2018-12-14",
+	"duration":"PT1H57M",
+	"genre":["Animation","Action","Adventure"],
+	"director":["Bob Persichetti","Peter Ramsey","Rodney Rothman"],
+	"actors":["Shameik Moore","Jake Johnson","Hailee Steinfeld"],
+	"youtube":"",
+	"note":4.5
+	},
+	{
+	"type":"movie",
+	"title":"Ad Astra",
+	"image": "https://m.media-amazon.com/images/M/MV5BZTllZTdlOGEtZTBmMi00MGQ5LWFjN2MtOGEyZTliNGY1MzFiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+	"synopsis":"Astronaut Roy McBride undertakes a mission across an unforgiving solar system to uncover the truth about his missing father and his doomed expedition that now, 30 years later, threatens the universe.",
+	"date":"2019-09-20",
+	"duration":"PT2H3M",
+	"genre":["Adventure","Drama","Mystery"],
+	"director":["James Gray"],
+	"actors":["Brad Pitt","Tommy Lee Jones","Ruth Negga"],
+	"youtube":"",
+	"note":2.0
+	},
+	{
+	"type":"movie",
+	"title":"The Lost City of Z",
+	"image": "https://m.media-amazon.com/images/M/MV5BNjAyN2QxOTItOGQ0YS00NmQxLWIxMjEtMDdkZmY0NDU5OWUzXkEyXkFqcGdeQXVyMTk1MDM0OTc@._V1_.jpg",
+	"synopsis":"A true-life drama, centering on British explorer Major Percival Fawcett, who disappeared whilst searching for a mysterious city in the Amazon in the 1920s.",
+	"date":"2017-04-21",
+	"duration":"PT2H21M",
+	"genre":["Adventure","Biography","Drama"],
+	"director":["James Gray"],
+	"actors":["Charlie Hunnam","Robert Pattinson","Sienna Miller"],
+	"youtube":"",
+	"note":2.0
+	},
+	{
+	"type":"movie",
+	"title":"Tenet",
+	"image": "https://m.media-amazon.com/images/M/MV5BMzU3YWYwNTQtZTdiMC00NjY5LTlmMTMtZDFlYTEyODBjMTk5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+	"synopsis":"Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+	"date":"2020-09-03",
+	"duration":"PT2H30M",
+	"genre":["Action","Sci-Fi","Thriller"],
+	"director":["Christopher Nolan"],
+	"actors":["John David Washington","Robert Pattinson","Elizabeth Debicki"],
+	"youtube":"",
+	"note":2.0
+	},
+	{
+	"type":"movie",
+	"title":"The Batman",
+	"image": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_.jpg",
+	"synopsis":"When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city&apos;s hidden corruption and question his family&apos;s involvement.",
+	"date":"2022-03-04",
+	"duration":"PT2H56M",
+	"genre":["Action","Crime","Drama"],
+	"director":["Matt Reeves"],
+	"actors":["Robert Pattinson","Zoë Kravitz","Jeffrey Wright"],
+	"youtube":"",
+	"note":3.0
+	},
+	{
+	"type":"movie",
+	"title":"Looper",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTg5NTA3NTg4NF5BMl5BanBnXkFtZTcwNTA0NDYzOA@@._V1_.jpg",
+	"synopsis":"In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits - someone like Joe - who one day learns the mob wants to &apos;close the loop&apos; by sending back Joe&apos;s future self for assassin...",
+	"date":"2012-09-28",
+	"duration":"PT1H59M",
+	"genre":["Action","Drama","Sci-Fi"],
+	"director":["Rian Johnson"],
+	"actors":["Joseph Gordon-Levitt","Bruce Willis","Emily Blunt"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Source Code",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTY0MTc3MzMzNV5BMl5BanBnXkFtZTcwNDE4MjE0NA@@._V1_.jpg",
+	"synopsis":"A soldier wakes up in someone else&apos;s body and discovers he&apos;s part of an experimental government program to find the bomber of a commuter train within 8 minutes.",
+	"date":"2011-04-01",
+	"duration":"PT1H33M",
+	"genre":["Action","Drama","Mystery"],
+	"director":["Duncan Jones"],
+	"actors":["Jake Gyllenhaal","Michelle Monaghan","Vera Farmiga"],
+	"youtube":"",
+	"note":3.0
+	},
+	{
+	"type":"movie",
+	"title":"Memento",
+	"image": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+	"synopsis":"A man with short-term memory loss attempts to track down his wife&apos;s murderer.",
+	"date":"2001-05-25",
+	"duration":"PT1H53M",
+	"genre":["Mystery","Thriller"],
+	"director":["Christopher Nolan"],
+	"actors":["Guy Pearce","Carrie-Anne Moss","Joe Pantoliano"],
+	"youtube":"",
+	"note":5
+	},
+	{
+	"type":"movie",
+	"title":"The Father",
+	"image": "https://m.media-amazon.com/images/M/MV5BZGJhNWRiOWQtMjI4OS00ZjcxLTgwMTAtMzQ2ODkxY2JkOTVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+	"synopsis":"A man refuses all assistance from his daughter as he ages. As he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
+	"date":"2021-02-26",
+	"duration":"PT1H37M",
+	"genre":["Drama","Mystery"],
+	"director":["Florian Zeller"],
+	"actors":["Anthony Hopkins","Olivia Colman","Mark Gatiss"],
+	"youtube":"",
+	"note":2.0
+	},
+	{
+	"type":"movie",
+	"title":"Empire of Light",
+	"image": "https://m.media-amazon.com/images/M/MV5BYjM5NzUxOWMtZjhkNC00M2ZmLTk2NzItOTQ1YWI3MGQ1YjBiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+	"synopsis":"A drama about the power of human connection during turbulent times, set in an English coastal town in the early 1980s.",
+	"date":"2022-12-09",
+	"duration":"PT1H55M",
+	"genre":["Drama","Romance"],
+	"director":["Sam Mendes"],
+	"actors":["Olivia Colman","Micheal Ward","Colin Firth"],
+	"youtube":"",
+	"note":2.0
+	},
+	{
+	"type":"movie",
+	"title":"Mon crime",
+	"image": "https://m.media-amazon.com/images/M/MV5BMzA3NDlkMTQtNjNhMS00NTk2LWI0YWYtOTY4YjBjZWRjN2ViXkEyXkFqcGdeQXVyMDA5MDg4Nw@@._V1_.jpg",
+	"synopsis":"Madeleine Verdier, a penniless actress is accused of the murder of a famous producer. With the help of her best friend she proves that, she is acquitted for self-defense. Then begins a life of glory and success, until truth comes ...",
+	"date":"2023-03-08",
+	"duration":"PT1H42M",
+	"genre":["Comedy","Crime","Drama"],
+	"director":["François Ozon"],
+	"actors":["Nadia Tereszkiewicz","Rebecca Marder","Isabelle Huppert"],
+	"youtube":"",
+	"note":2.5
+	},
+	{
+	"type":"movie",
+	"title":"Les goûts et les couleurs",
+	"image": "https://m.media-amazon.com/images/M/MV5BYjQzYzM3M2UtNTMzYS00NzNiLTkwZmMtMmY2ZTRkNGI4ODEwXkEyXkFqcGdeQXVyNDg4MDI2NzU@._V1_.jpg",
+	"synopsis":"Marcia a young singer, recorded an album with Daredjane, a rock icon of 70&apos;s who accidentally dies, before the album release. Marcia faces difficulties in getting approval from Daredjane&apos;s right-holder Anthony, unless love gets in...",
+	"date":"2022-06-22",
+	"duration":"PT1H50M",
+	"genre":["Comedy"],
+	"director":["Michel Leclerc"],
+	"actors":["Rebecca Marder","Félix Moati","Judith Chemla"],
+	"youtube":"",
+	"note":2.5
+	},
+	{
+	"type":"movie",
+	"title":"Swimming Pool",
+	"image": "https://m.media-amazon.com/images/M/MV5BZGNjMmUzNjQtMjJjYy00ZWYyLTlhNDAtNDk2Y2QxZWQ0Y2NiXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg",
+	"synopsis":"A British mystery author visits her publisher&apos;s home in the South of France, where her interaction with his unusual daughter sets off some touchy dynamics.",
+	"date":"2003-08-01",
+	"duration":"PT1H42M",
+	"genre":["Crime","Drama","Mystery"],
+	"director":["François Ozon"],
+	"actors":["Charlotte Rampling","Charles Dance","Ludivine Sagnier"],
+	"youtube":"",
+	"note":4
+	},
+	{
+	"type":"movie",
+	"title":"L'auberge espagnole",
+	"image": "https://m.media-amazon.com/images/M/MV5BYzZkMWY5M2ItOTA1Yi00MWQ0LWE4OTgtNWY1YmE0NjQyOTdlXkEyXkFqcGdeQXVyMjc4MjcxNzI@._V1_.jpg",
+	"synopsis":"A strait-laced French student moves into an apartment in Barcelona with a cast of six other characters from all over Europe. Together, they speak the international language of love and friendship.",
+	"date":"2003-06-20",
+	"duration":"PT2H2M",
+	"genre":["Comedy","Drama","Romance"],
+	"director":["Cédric Klapisch"],
+	"actors":["Romain Duris","Judith Godrèche","Kelly Reilly"],
+	"youtube":"",
+	"note":5
+	},
+	{
+	"type":"movie",
+	"title":"Le nom des gens",
+	"image": "https://m.media-amazon.com/images/M/MV5BNDRkODNlYjItYjA0NS00YWNkLWJkOWQtNWQxMjBlZTYwMGZhXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+	"synopsis":"A young, extroverted left-wing activist who sleeps with her political opponents to convert them to her cause is successful until she meets her match.",
+	"date":"2010-11-24",
+	"duration":"PT1H40M",
+	"genre":["Comedy","Drama","Romance"],
+	"director":["Michel Leclerc"],
+	"actors":["Sara Forestier","Jacques Gamblin","Zinedine Soualem"],
+	"youtube":"",
+	"note":5.0
+	},
+	{
+	"type":"movie",
+	"title":"La Tulipe Noire",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTRmMzMwNjItMGQyYi00NmQ0LTlhMDAtNGZiOGE4ZTI3ZTM3XkEyXkFqcGdeQXVyMjc1NDA2OA@@._V1_.jpg",
+	"synopsis":"In 1789, when the Revolution went on, a bandit named &quot;Black Tulip&quot; held the surroundings of village Roussillon in fear. The poor people respected him as Robin Hood, who declare himself a revolutioner but Count Guillaume de Saint P...",
+	"date":"1964-02-28",
+	"duration":"PT1H55M",
+	"genre":["Action","Adventure","Comedy"],
+	"director":["Christian-Jaque"],
+	"actors":["Alain Delon","Virna Lisi","Dawn Addams"],
+	"youtube":"",
+	"note":3.0
+	},
+	{
+	"type":"movie",
+	"title":"Point Limite",
+	"image": "https://m.media-amazon.com/images/M/MV5BODk5ZTc0MjctMWMzMC00Zjk1LWI2OWMtZDI5MmJhZTViOGRlXkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_.jpg",
+	"synopsis":"Cold War tensions climb to a fever pitch when a U.S. bomber is accidentally ordered to drop a nuclear warhead on Moscow.",
+	"date":"2000-04-09",
+	"duration":"PT1H26M",
+	"genre":["Drama","Thriller"],
+	"director":["Stephen Frears","Martin Pasetta"],
+	"actors":["Walter Cronkite","Richard Dreyfuss","Noah Wyle"],
+	"youtube":"",
+	"note":3.5
+	},
+	{
+	"type":"movie",
+	"title":"La jetée",
+	"image": "https://m.media-amazon.com/images/M/MV5BODgyNzEyMzEtZjUyOC00YzNiLWE2YTAtNDQ1MzQ0NmY5YjA2XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+	"synopsis":"The story of a man forced to explore his memories in the wake of World War III&apos;s devastation, told through still images.",
+	"date":"1962-02-16",
+	"duration":"PT28M",
+	"genre":["Short","Drama","Romance"],
+	"director":["Chris Marker"],
+	"actors":["Étienne Becker","Jean Négroni","Hélène Chatelain"],
+	"youtube":"",
+	"note":5.0
+	},
+	{
+	"type":"movie",
+	"title":"L'arnaqueur",
+	"image": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+	"synopsis":"Two grifters team up to pull off the ultimate con.",
+	"date":"1973-12-25",
+	"duration":"PT2H9M",
+	"genre":["Comedy","Crime","Drama"],
+	"director":["George Roy Hill"],
+	"actors":["Paul Newman","Robert Redford","Robert Shaw"],
+	"youtube":"",
+	"note":3.0
+	},
+	{
+	"type":"movie",
+	"title":"Les sept samurais",
+	"image": "https://m.media-amazon.com/images/M/MV5BNWQ3OTM4ZGItMWEwZi00MjI5LWI3YzgtNTYwNWRkNmIzMGI5XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
+	"synopsis":"Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him.",
+	"date":"1956-11-19",
+	"duration":"PT3H27M",
+	"genre":["Action","Drama"],
+	"director":["Akira Kurosawa"],
+	"actors":["Toshirô Mifune","Takashi Shimura","Keiko Tsushima"],
+	"youtube":"",
+	"note":5.0
+	},
+	{
+	"type":"movie",
+	"title":"The Magnificent Seven",
+	"image": "https://m.media-amazon.com/images/M/MV5BMzYyNzU0MTM1OF5BMl5BanBnXkFtZTcwMzE1ODE1NA@@._V1_.jpg",
+	"synopsis":"Seven gunfighters are hired by Mexican peasants to liberate their village from oppressive bandits.",
+	"date":"1960-10-12",
+	"duration":"PT2H8M",
+	"genre":["Action","Adventure","Drama"],
+	"director":["John Sturges"],
+	"actors":["Yul Brynner","Steve McQueen","Charles Bronson"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Psycho",
+	"image": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+	"synopsis":"A Phoenix secretary embezzles $40,000 from her employer&apos;s client, goes on the run and checks into a remote motel run by a young man under the domination of his mother.",
+	"date":"1960-09-08",
+	"duration":"PT1H49M",
+	"genre":["Horror","Mystery","Thriller"],
+	"director":["Alfred Hitchcock"],
+	"actors":["Anthony Perkins","Janet Leigh","Vera Miles"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Cat People",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTNhY2MyNmYtNzczZi00YWEyLWJlYTgtYzZiMzM1NDE0ZjYxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+	"synopsis":"A young woman&apos;s sexual awakening brings horror when she discovers her urges transform her into a monstrous black leopard.",
+	"date":"1982-04-02",
+	"duration":"PT1H58M",
+	"genre":["Fantasy","Horror","Thriller"],
+	"director":["Paul Schrader"],
+	"actors":["Nastassja Kinski","Malcolm McDowell","John Heard"],
+	"youtube":"",
+	"note":3.0
+	},
+	{
+	"type":"movie",
+	"title":"The Dead Zone",
+	"image": "https://m.media-amazon.com/images/M/MV5BMDk2ZGVkY2UtZGE0MS00NTY1LThiZjYtYjQxMTAwMjM5M2VlXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg",
+	"synopsis":"A man awakens from a coma to discover he has a psychic ability.",
+	"date":"1983-10-21",
+	"duration":"PT1H43M",
+	"genre":["Drama","Horror","Sci-Fi"],
+	"director":["David Cronenberg"],
+	"actors":["Christopher Walken","Brooke Adams","Tom Skerritt"],
+	"youtube":"",
+	"note":3.0
+	},
+	{
+	"type":"movie",
+	"title":"Little Big Man",
+	"image": "https://m.media-amazon.com/images/M/MV5BMWQwNTZjNTgtMGQyMS00ZTI3LWFkNzEtYzIxM2EwZGYxMDU4XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+	"synopsis":"Jack Crabb, looking back from extreme old age, tells of his life being raised by Native Americans and fighting with General Custer.",
+	"date":"1970-12-23",
+	"duration":"PT2H19M",
+	"genre":["Adventure","Comedy","Drama"],
+	"director":["Arthur Penn"],
+	"actors":["Dustin Hoffman","Faye Dunaway","Chief Dan George"],
+	"youtube":"",
+	"note":5.0
+	},
+	{
+	"type":"movie",
+	"title":"The Last Emperor",
+	"image": "https://m.media-amazon.com/images/M/MV5BZTk0NDU4YmItOTk0ZS00ODc2LTkwNGItNWI5MDJkNTJiYWMxXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+	"synopsis":"Dramatization of China&apos;s last emperor, Puyi.",
+	"date":"1988-04-15",
+	"duration":"PT2H43M",
+	"genre":["Biography","Drama","History"],
+	"director":["Bernardo Bertolucci"],
+	"actors":["John Lone","Joan Chen","Peter O&apos;Toole"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Argo",
+	"image": "https://m.media-amazon.com/images/M/MV5BNzljNjY3MDYtYzc0Ni00YjU0LWIyNDUtNTE0ZDRiMGExMjZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+	"synopsis":"Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1979.",
+	"date":"2012-10-12",
+	"duration":"PT2H",
+	"genre":["Biography","Drama","Thriller"],
+	"director":["Ben Affleck"],
+	"actors":["Ben Affleck","Bryan Cranston","John Goodman"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"The Graduate",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTQ0ODc4MDk4Nl5BMl5BanBnXkFtZTcwMTEzNzgzNA@@._V1_.jpg",
+	"synopsis":"A disillusioned college graduate finds himself torn between his older lover and her daughter.",
+	"date":"1967-12-21",
+	"duration":"PT1H46M",
+	"genre":["Comedy","Drama","Romance"],
+	"director":["Mike Nichols"],
+	"actors":["Dustin Hoffman","Anne Bancroft","Katharine Ross"],
+	"youtube":"",
+	"note":3.5
+	},
+	{
+	"type":"movie",
+	"title":"Tootsie",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTY4MGJjMTktNGM4Ni00ODliLWJlYjQtNjc4NmY2NjQ3NzEzXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+	"synopsis":"Michael Dorsey, an unsuccessful actor, disguises himself as a woman in order to get a role on a trashy hospital soap.",
+	"date":"1982-12-17",
+	"duration":"PT1H56M",
+	"genre":["Comedy","Drama","Romance"],
+	"director":["Sydney Pollack"],
+	"actors":["Dustin Hoffman","Jessica Lange","Teri Garr"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"The King's Speech",
+	"image": "https://m.media-amazon.com/images/M/MV5BMzU5MjEwMTg2Nl5BMl5BanBnXkFtZTcwNzM3MTYxNA@@._V1_.jpg",
+	"synopsis":"The story of King George VI, his impromptu ascension to the throne of the British Empire in 1936, and the speech therapist who helped the unsure monarch overcome his stammer.",
+	"date":"2010-12-25",
+	"duration":"PT1H58M",
+	"genre":["Biography","Drama","History"],
+	"director":["Tom Hooper"],
+	"actors":["Colin Firth","Geoffrey Rush","Helena Bonham Carter"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Amadeus",
+	"image": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+	"synopsis":"The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was deeply jealous of Mozart&apos;s talent and claimed to have murdered him.",
+	"date":"1984-09-19",
+	"duration":"PT2H40M",
+	"genre":["Biography","Drama","Music"],
+	"director":["Milos Forman"],
+	"actors":["F. Murray Abraham","Tom Hulce","Elizabeth Berridge"],
+	"youtube":"",
+	"note":5.0
+	},
+	{
+	"type":"movie",
+	"title":"Parasite",
+	"image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+	"synopsis":"Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+	"date":"2019-11-08",
+	"duration":"PT2H12M",
+	"genre":["Drama","Thriller"],
+	"director":["Bong Joon Ho"],
+	"actors":["Song Kang-ho","Lee Sun-kyun","Cho Yeo-jeong"],
+	"youtube":"",
+	"note":5.0
+	},
+	{
+	"type":"movie",
+	"title":"No Country for Old Men",
+	"image": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_.jpg",
+	"synopsis":"Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+	"date":"2007-11-21",
+	"duration":"PT2H2M",
+	"genre":["Crime","Drama","Thriller"],
+	"director":["Ethan Coen","Joel Coen"],
+	"actors":["Tommy Lee Jones","Javier Bardem","Josh Brolin"],
+	"youtube":"",
+	"note":5.0
+	},
+	{
+	"type":"movie",
+	"title":"The Fugitive",
+	"image": "https://m.media-amazon.com/images/M/MV5BYmFmOGZjYTItYjY1ZS00OWRiLTk0NDgtMjQ5MzBkYWE2YWE0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+	"synopsis":"Dr. Richard Kimble, unjustly accused of murdering his wife, must find the real killer while being the target of a nationwide manhunt led by a seasoned U.S. Marshal.",
+	"date":"1993-08-06",
+	"duration":"PT2H10M",
+	"genre":["Action","Crime","Drama"],
+	"director":["Andrew Davis"],
+	"actors":["Harrison Ford","Tommy Lee Jones","Sela Ward"],
+	"youtube":"",
+	"note":5.0
+	},
+	{
+	"type":"movie",
+	"title":"Guy",
+	"image": "https://m.media-amazon.com/images/M/MV5BYTE2MjZhNzQtYzY0Yy00YzcwLTg0MmEtYTRiODA0NmY5MDZhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+	"synopsis":"Gauthier, a young journalist, learns through his mother that he&apos;s the illegitimate son of Guy Jamet, an aging French pop singer who was famous from the &apos;60s to the &apos;90s. As the old-time crooner embarks on a tour to promote his new...",
+	"date":"2018-08-29",
+	"duration":"PT1H41M",
+	"genre":["Comedy","Drama","Music"],
+	"director":["Alex Lutz"],
+	"actors":["Alex Lutz","Tom Dingler","Pascale Arbillot"],
+	"youtube":"",
+	"note":5.0
+	},
+	{
+	"type":"movie",
+	"title":"Guardians of the Galaxy",
+	"image": "https://m.media-amazon.com/images/M/MV5BZTkwZjU3MTctMGExMi00YjU5LTgwMDMtOWNkZDRlZjQ4NmZhXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+	"synopsis":"A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+	"date":"2014-08-01",
+	"duration":"PT2H1M",
+	"genre":["Action","Adventure","Comedy"],
+	"director":["James Gunn"],
+	"actors":["Chris Pratt","Vin Diesel","Bradley Cooper"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Cliffhanger",
+	"image": "https://m.media-amazon.com/images/M/MV5BYWNlYTI0MDctNDdjNS00MmUzLWE4MzYtZTNjOTNjYWJjZmM5XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+	"synopsis":"A botched mid-air heist results in suitcases full of cash being searched for by various groups throughout the Rocky Mountains.",
+	"date":"1993-05-28",
+	"duration":"PT1H53M",
+	"genre":["Action","Adventure","Thriller"],
+	"director":["Renny Harlin"],
+	"actors":["Sylvester Stallone","John Lithgow","Michael Rooker"],
+	"youtube":"",
+	"note":3.0
+	},
+	{
+	"type":"movie",
+	"title":"Footloose",
+	"image": "https://m.media-amazon.com/images/M/MV5BYTE2NjQ1MjQtOTdmNi00NjJmLWJlYTItNmFhYzBmMWM4NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+	"synopsis":"A city teenager moves to a small town where rock music and dancing have been banned, and his rebellious spirit shakes up the populace.",
+	"date":"1984-02-17",
+	"duration":"PT1H47M",
+	"genre":["Drama","Music","Romance"],
+	"director":["Herbert Ross"],
+	"actors":["Kevin Bacon","Lori Singer","John Lithgow"],
+	"youtube":"",
+	"note":2.0
+	},
+	{
+	"type":"movie",
+	"title":"X: First Class",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1_.jpg",
+	"synopsis":"In the 1960s, superpowered humans Charles Xavier and Erik Lensherr work together to find others like them, but Erik&apos;s vengeful pursuit of an ambitious mutant who ruined his life causes a schism to divide them.",
+	"date":"2011-06-03",
+	"duration":"PT2H11M",
+	"genre":["Action","Sci-Fi"],
+	"director":["Matthew Vaughn"],
+	"actors":["James McAvoy","Michael Fassbender","Jennifer Lawrence"],
+	"youtube":"",
+	"note":3.0
+	},
+	{
+	"type":"movie",
+	"title":"Juno",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTIwMDgwODc5Nl5BMl5BanBnXkFtZTYwMjQzMDM4._V1_.jpg",
+	"synopsis":"Faced with an unplanned pregnancy, an offbeat young woman makes a selfless decision regarding the unborn child.",
+	"date":"2007-12-25",
+	"duration":"PT1H36M",
+	"genre":["Comedy","Drama"],
+	"director":["Jason Reitman"],
+	"actors":["Elliot Page","Michael Cera","Jennifer Garner"],
+	"youtube":"",
+	"note":3.0
+	},
+	{
+	"type":"movie",
+	"title":"Scott Pilgrim vs. the World",
+	"image": "https://m.media-amazon.com/images/M/MV5BNWI5ODc4MTAtN2U2NC00ZDk3LWE3NjAtNjIyODE2YTlhYjYwXkEyXkFqcGdeQXVyOTA3ODI3NDA@._V1_.jpg",
+	"synopsis":"In a magically realistic version of Toronto, a young man must defeat his new girlfriend&apos;s seven evil exes one by one in order to win her heart.",
+	"date":"2010-08-13",
+	"duration":"PT1H52M",
+	"genre":["Action","Comedy","Fantasy"],
+	"director":["Edgar Wright"],
+	"actors":["Michael Cera","Mary Elizabeth Winstead","Kieran Culkin"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"El secreto de sus ojos",
+	"image": "https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+	"synopsis":"A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.",
+	"date":"2010-05-21",
+	"duration":"PT2H9M",
+	"genre":["Drama","Mystery","Romance"],
+	"director":["Juan José Campanella"],
+	"actors":["Ricardo Darín","Soledad Villamil","Pablo Rago"],
+	"youtube":"",
+	"note":5.0
+	},
+	{
+	"type":"movie",
+	"title":"Shutter Island",
+	"image": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+	"synopsis":"In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.",
+	"date":"2010-02-19",
+	"duration":"PT2H18M",
+	"genre":["Mystery","Thriller"],
+	"director":["Martin Scorsese"],
+	"actors":["Leonardo DiCaprio","Emily Mortimer","Mark Ruffalo"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"V for Vendetta",
+	"image": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_.jpg",
+	"synopsis":"In a future British dystopian society, a shadowy freedom fighter, known only by the alias of &quot;V&quot;, plots to overthrow the tyrannical government - with the help of a young woman.",
+	"date":"2006-03-17",
+	"duration":"PT2H12M",
+	"genre":["Action","Drama","Sci-Fi"],
+	"director":["James McTeigue"],
+	"actors":["Hugo Weaving","Natalie Portman","Rupert Graves"],
+	"youtube":"",
+	"note":4.5
+	},
+	{
+	"type":"movie",
+	"title":"Black Swan",
+	"image": "https://m.media-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_.jpg",
+	"synopsis":"A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky&apos;s &quot;Swan Lake&quot;.",
+	"date":"2010-12-17",
+	"duration":"PT1H48M",
+	"genre":["Drama","Thriller"],
+	"director":["Darren Aronofsky"],
+	"actors":["Natalie Portman","Mila Kunis","Vincent Cassel"],
+	"youtube":"",
+	"note":3.5
+	},
+	{
+	"type":"movie",
+	"title":"Little Miss Sunshine",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTgzNTgzODU0NV5BMl5BanBnXkFtZTcwMjEyMjMzMQ@@._V1_.jpg",
+	"synopsis":"A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus.",
+	"date":"2006-08-18",
+	"duration":"PT1H41M",
+	"genre":["Comedy","Drama"],
+	"director":["Jonathan Dayton","Valerie Faris"],
+	"actors":["Steve Carell","Toni Collette","Greg Kinnear"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Her",
+	"image": "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_.jpg",
+	"synopsis":"In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+	"date":"2014-01-10",
+	"duration":"PT2H6M",
+	"genre":["Drama","Romance","Sci-Fi"],
+	"director":["Spike Jonze"],
+	"actors":["Joaquin Phoenix","Amy Adams","Scarlett Johansson"],
+	"youtube":"",
+	"note":-1.0
+	},
+	{
+	"type":"movie",
+	"title":"Lost in Translation",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTUxMzk0NDg1MV5BMl5BanBnXkFtZTgwNDg0NjkxMDI@._V1_.jpg",
+	"synopsis":"A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.",
+	"date":"2003-10-03",
+	"duration":"PT1H42M",
+	"genre":["Comedy","Drama"],
+	"director":["Sofia Coppola"],
+	"actors":["Bill Murray","Scarlett Johansson","Giovanni Ribisi"],
+	"youtube":"",
+	"note":-1.0
+	},
+	{
+	"type":"movie",
+	"title":"Groundhog Day",
+	"image": "https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+	"synopsis":"A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day, and the day keeps repeating until he gets it right.",
+	"date":"1993-02-12",
+	"duration":"PT1H41M",
+	"genre":["Comedy","Drama","Fantasy"],
+	"director":["Harold Ramis"],
+	"actors":["Bill Murray","Andie MacDowell","Chris Elliott"],
+	"youtube":"",
+	"note":-1.0
+	},
+	{
+	"type":"movie",
+	"title":"WarGames",
+	"image": "https://m.media-amazon.com/images/M/MV5BZDA4M2UwMzUtZDkxMy00YjYwLTliZGEtNGMwYzI0NTgwMjA3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+	"synopsis":"A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III.",
+	"date":"1983-06-03",
+	"duration":"PT1H54M",
+	"genre":["Action","Drama","Sci-Fi"],
+	"director":["John Badham"],
+	"actors":["Matthew Broderick","Ally Sheedy","John Wood"],
+	"youtube":"",
+	"note":-1.0
+	},
+	{
+	"type":"movie",
+	"title":"Excalibur",
+	"image": "https://m.media-amazon.com/images/M/MV5BNmI4MDU0NDUtZTNmZC00YTYwLTk3NzgtMGFmYjg3N2VjODczXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+	"synopsis":"Merlin the magician helps Arthur Pendragon unite the Britons around the Round Table of Camelot, even as dark forces conspire to tear it apart.",
+	"date":"1981-04-10",
+	"duration":"PT2H20M",
+	"genre":["Adventure","Drama","Fantasy"],
+	"director":["John Boorman"],
+	"actors":["Nigel Terry","Helen Mirren","Nicholas Clay"],
+	"youtube":"",
+	"note":-1.0
+	},
+	{
+	"type":"movie",
 	"title":"12 Angry Men",
 	"image": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
 	"synopsis":"The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
@@ -248,7 +976,7 @@
 	},
 	{
 	"type":"movie",
-	"title":"Verdens verste menneske",
+	"title":"Julie en 12 chapitres",
 	"image": "https://m.media-amazon.com/images/M/MV5BOGZlODBlMzgtYzdmMC00ZDk0LWI0ZWQtOGJmNTcyNDYzY2EwXkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_.jpg",
 	"synopsis":"The chronicles of four years in the life of Julie, a young woman who navigates the troubled waters of her love life and struggles to find her career path, leading her to take a realistic look at who she really is.",
 	"date":"2021-10-13",
@@ -257,7 +985,7 @@
 	"director":["Joachim Trier"],
 	"actors":["Renate Reinsve","Anders Danielsen Lie","Herbert Nordrum"],
 	"youtube":"",
-	"note":-1.0
+	"note":5.0
 	},
 	{
 	"type":"movie",
@@ -538,9 +1266,10 @@
 	"genre":["Action","Crime","Drama"],
 	"director":["Christopher Nolan"],
 	"actors":["Christian Bale","Heath Ledger","Aaron Eckhart"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
-{
+	{
 	"type":"movie",
 	"title":"The Usual Suspects",
 	"image": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
@@ -550,8 +1279,9 @@
 	"genre":["Crime","Drama","Mystery"],
 	"director":["Bryan Singer"],
 	"actors":["Kevin Spacey","Gabriel Byrne","Chazz Palminteri"],
-	"youtube":""
-},
+	"youtube":"",
+	"note":5
+	},
 {
 	"type":"movie",
 	"title":"Baby Driver",
@@ -562,7 +1292,8 @@
 	"genre":["Action","Crime","Drama"],
 	"director":["Edgar Wright"],
 	"actors":["Ansel Elgort","Jon Bernthal","Jon Hamm"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -574,7 +1305,8 @@
 	"genre":["Action","Crime","Drama"],
 	"director":["Michael Mann"],
 	"actors":["Tom Cruise","Jamie Foxx","Jada Pinkett Smith"],
-	"youtube":""
+	"youtube":"",
+	"note":3.0
 },
 {
 	"type":"movie",
@@ -586,7 +1318,8 @@
 	"genre":["Drama","Romance","Sci-Fi"],
 	"director":["Michel Gondry"],
 	"actors":["Jim Carrey","Kate Winslet","Tom Wilkinson"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -598,7 +1331,8 @@
 	"genre":["Drama","Romance"],
 	"director":["James Cameron"],
 	"actors":["Leonardo DiCaprio","Kate Winslet","Billy Zane"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -610,7 +1344,8 @@
 	"genre":["Action","Drama","Sci-Fi"],
 	"director":["Alfonso Cuarón"],
 	"actors":["Julianne Moore","Clive Owen","Chiwetel Ejiofor"],
-	"youtube":""
+	"youtube":"",
+	"note":3.5
 },
 {
 	"type":"movie",
@@ -622,7 +1357,8 @@
 	"genre":["Adventure","Biography","Drama"],
 	"director":["Philip Kaufman"],
 	"actors":["Sam Shepard","Scott Glenn","Ed Harris"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -634,7 +1370,8 @@
 	"genre":["Adventure","Drama","Mystery"],
 	"director":["James Cameron"],
 	"actors":["Ed Harris","Mary Elizabeth Mastrantonio","Michael Biehn"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -646,7 +1383,8 @@
 	"genre":["Drama","Sci-Fi","Thriller"],
 	"director":["Alfonso Cuarón"],
 	"actors":["Sandra Bullock","George Clooney","Ed Harris"],
-	"youtube":""
+	"youtube":"",
+	"note":3.5
 },
 {
 	"type":"movie",
@@ -658,7 +1396,8 @@
 	"genre":["Comedy","Drama"],
 	"director":["Peter Weir"],
 	"actors":["Jim Carrey","Ed Harris","Laura Linney"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -670,7 +1409,8 @@
 	"genre":["Action","Crime","Drama"],
 	"director":["Clint Eastwood"],
 	"actors":["Clint Eastwood","Gene Hackman","Ed Harris"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -682,7 +1422,8 @@
 	"genre":["Drama","Romance"],
 	"director":["Clint Eastwood"],
 	"actors":["Clint Eastwood","Meryl Streep","Annie Corley"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -694,7 +1435,8 @@
 	"genre":["Drama"],
 	"director":["Frank Darabont"],
 	"actors":["Tim Robbins","Morgan Freeman","Bob Gunton"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -706,7 +1448,8 @@
 	"genre":["Drama","Sport"],
 	"director":["Clint Eastwood"],
 	"actors":["Hilary Swank","Clint Eastwood","Morgan Freeman"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -718,7 +1461,8 @@
 	"genre":["Action","Thriller"],
 	"director":["John McTiernan"],
 	"actors":["Bruce Willis","Alan Rickman","Bonnie Bedelia"],
-	"youtube":""
+	"youtube":"",
+	"note":3.0
 },
 {
 	"type":"movie",
@@ -730,7 +1474,8 @@
 	"genre":["Action","Comedy","Crime"],
 	"director":["Robert Schwentke"],
 	"actors":["Bruce Willis","Helen Mirren","Morgan Freeman"],
-	"youtube":""
+	"youtube":"",
+	"note":3.0
 },
 {
 	"type":"movie",
@@ -742,7 +1487,8 @@
 	"genre":["Drama","Mystery","Thriller"],
 	"director":["David Fincher"],
 	"actors":["Ben Affleck","Rosamund Pike","Neil Patrick Harris"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -754,7 +1500,8 @@
 	"genre":["Crime","Drama","Mystery"],
 	"director":["David Fincher"],
 	"actors":["Morgan Freeman","Brad Pitt","Kevin Spacey"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -766,7 +1513,8 @@
 	"genre":["Action","Adventure","Drama"],
 	"director":["Kevin Reynolds"],
 	"actors":["Kevin Costner","Morgan Freeman","Mary Elizabeth Mastrantonio"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -778,7 +1526,8 @@
 	"genre":["Adventure","Drama","Western"],
 	"director":["Kevin Costner"],
 	"actors":["Kevin Costner","Mary McDonnell","Graham Greene"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -790,7 +1539,8 @@
 	"genre":["Drama","Romance","Sci-Fi"],
 	"director":["Yorgos Lanthimos"],
 	"actors":["Colin Farrell","Rachel Weisz","Jessica Barden"],
-	"youtube":""
+	"youtube":"",
+	"note":3.5
 },
 {
 	"type":"movie",
@@ -802,7 +1552,8 @@
 	"genre":["Comedy","Crime","Drama"],
 	"director":["Martin McDonagh"],
 	"actors":["Colin Farrell","Brendan Gleeson","Ciarán Hinds"],
-	"youtube":""
+	"youtube":"",
+	"note":3.5
 },
 {
 	"type":"movie",
@@ -814,7 +1565,8 @@
 	"genre":["Action","Crime","Mystery"],
 	"director":["Steven Spielberg"],
 	"actors":["Tom Cruise","Colin Farrell","Samantha Morton"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -826,7 +1578,8 @@
 	"genre":["Action","Adventure","Thriller"],
 	"director":["Brad Bird"],
 	"actors":["Tom Cruise","Jeremy Renner","Simon Pegg"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -838,7 +1591,8 @@
 	"genre":["Action","Adventure","Sci-Fi"],
 	"director":["Joseph Kosinski"],
 	"actors":["Tom Cruise","Morgan Freeman","Andrea Riseborough"],
-	"youtube":""
+	"youtube":"",
+	"note":3.5
 },
 {
 	"type":"movie",
@@ -850,7 +1604,8 @@
 	"genre":["Action","Adventure","Sci-Fi"],
 	"director":["Doug Liman"],
 	"actors":["Tom Cruise","Emily Blunt","Bill Paxton"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -862,7 +1617,8 @@
 	"genre":["Action","Mystery","Thriller"],
 	"director":["Christopher McQuarrie"],
 	"actors":["Tom Cruise","Rosamund Pike","Richard Jenkins"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -874,7 +1630,8 @@
 	"genre":["Crime","Drama","Mystery"],
 	"director":["Niels Arden Oplev"],
 	"actors":["Michael Nyqvist","Noomi Rapace","Ewa Fröling"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -886,7 +1643,8 @@
 	"genre":["Action","Drama"],
 	"director":["Nicolas Winding Refn"],
 	"actors":["Ryan Gosling","Carey Mulligan","Bryan Cranston"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -898,7 +1656,8 @@
 	"genre":["Comedy","Crime","Drama"],
 	"director":["Christopher Morris"],
 	"actors":["Will Adamsdale","Riz Ahmed","Adeel Akhtar"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -910,7 +1669,8 @@
 	"genre":["Comedy","Crime","Drama"],
 	"director":["Ethan Coen","Joel Coen"],
 	"actors":["Brad Pitt","Frances McDormand","George Clooney"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -922,7 +1682,8 @@
 	"genre":["Comedy","Drama","Fantasy"],
 	"director":["Nicolas Bedos"],
 	"actors":["Daniel Auteuil","Guillaume Canet","Doria Tillier"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -934,7 +1695,8 @@
 	"genre":["Comedy","Drama"],
 	"director":["Yvan Attal"],
 	"actors":["Daniel Auteuil","Camélia Jordana","Yasin Houicha"],
-	"youtube":""
+	"youtube":"",
+	"note":3.0
 },
 {
 	"type":"movie",
@@ -946,7 +1708,8 @@
 	"genre":["Comedy","Drama"],
 	"director":["Thomas Lilti"],
 	"actors":["Vincent Lacoste","William Lebghil","Michel Lerousseau"],
-	"youtube":""
+	"youtube":"",
+	"note":3.0
 },
 {
 	"type":"movie",
@@ -958,11 +1721,12 @@
 	"genre":["Action","Adventure","Fantasy"],
 	"director":["Russell Mulcahy"],
 	"actors":["Christopher Lambert","Sean Connery","Clancy Brown"],
-	"youtube":""
+	"youtube":"",
+	"note":3.0
 },
 {
 	"type":"movie",
-	"title":"Der Name der Rose",
+	"title":"Le nom de la rose",
 	"image": "https://m.media-amazon.com/images/M/MV5BZjEyZTdhNDMtMWFkMS00ZmRjLWEyNmEtZDU3MWFkNDEzMDYwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
 	"synopsis":"An intellectually nonconformist friar investigates a series of mysterious deaths in an isolated abbey.",
 	"date":"1986-09-24",
@@ -970,7 +1734,8 @@
 	"genre":["Drama","Mystery","Thriller"],
 	"director":["Jean-Jacques Annaud"],
 	"actors":["Sean Connery","Christian Slater","Helmut Qualtinger"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -982,7 +1747,8 @@
 	"genre":["Action","Drama","Thriller"],
 	"director":["Tony Scott"],
 	"actors":["Gene Hackman","Denzel Washington","Matt Craven"],
-	"youtube":""
+	"youtube":"",
+	"note":3.0
 },
 {
 	"type":"movie",
@@ -994,7 +1760,8 @@
 	"genre":["Drama","Thriller"],
 	"director":["Steven Soderbergh"],
 	"actors":["Matt Damon","Kate Winslet","Jude Law"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -1006,7 +1773,8 @@
 	"genre":["Drama","Sci-Fi"],
 	"director":["Terry Gilliam"],
 	"actors":["Jonathan Pryce","Kim Greist","Robert De Niro"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -1018,7 +1786,8 @@
 	"genre":["Mystery","Sci-Fi","Thriller"],
 	"director":["Terry Gilliam"],
 	"actors":["Bruce Willis","Madeleine Stowe","Brad Pitt"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -1030,7 +1799,8 @@
 	"genre":["Drama","Mystery","Thriller"],
 	"director":["M. Night Shyamalan"],
 	"actors":["Bruce Willis","Haley Joel Osment","Toni Collette"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -1042,7 +1812,8 @@
 	"genre":["Adventure","Sci-Fi"],
 	"director":["Stanley Kubrick"],
 	"actors":["Keir Dullea","Gary Lockwood","William Sylvester"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -1054,11 +1825,12 @@
 	"genre":["Action","Sci-Fi"],
 	"director":["James Cameron"],
 	"actors":["Arnold Schwarzenegger","Linda Hamilton","Michael Biehn"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
-	"title":"L&apos;as des as",
+	"title":"L'as des as",
 	"image": "https://m.media-amazon.com/images/M/MV5BYTU3NjlkZGYtY2Y2MC00ZTA5LTg4YTktNmRhZDk5YjZmZWY3XkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_.jpg",
 	"synopsis":"In 1936, a French boxer on his way to the Berlin Olympic Games befriends a local Jewish boy and decides to save him from the Nazis.",
 	"date":"1982-10-27",
@@ -1066,7 +1838,8 @@
 	"genre":["Adventure","Comedy","Sport"],
 	"director":["Gérard Oury"],
 	"actors":["Jean-Paul Belmondo","Marie-France Pisier","Frank Hoffmann"],
-	"youtube":""
+	"youtube":"",
+	"note":3.0
 },
 {
 	"type":"movie",
@@ -1078,7 +1851,8 @@
 	"genre":["Drama","Romance","War"],
 	"director":["Michael Curtiz"],
 	"actors":["Humphrey Bogart","Ingrid Bergman","Paul Henreid"],
-	"youtube":""
+	"youtube":"",
+	"note":3.5
 },
 {
 	"type":"movie",
@@ -1090,7 +1864,8 @@
 	"genre":["Action","Adventure","History"],
 	"director":["Richard Fleischer"],
 	"actors":["Kirk Douglas","Tony Curtis","Ernest Borgnine"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -1102,7 +1877,8 @@
 	"genre":["Action","Adventure","Comedy"],
 	"director":["Robert Siodmak"],
 	"actors":["Burt Lancaster","Nick Cravat","Eva Bartok"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -1114,7 +1890,8 @@
 	"genre":["Adventure","Drama","History"],
 	"director":["John Sturges"],
 	"actors":["Steve McQueen","James Garner","Richard Attenborough"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -1126,11 +1903,12 @@
 	"genre":["Comedy","Drama","Romance"],
 	"director":["Jacques Audiard"],
 	"actors":["Lucie Zhang","Makita Samba","Noémie Merlant"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
-	"title":"L&apos;innocent",
+	"title":"L'innocent",
 	"image": "https://m.media-amazon.com/images/M/MV5BN2RjYmJkOGEtYmE5ZC00OTU0LTk3NWQtOWRjYmZmZDUxY2FkXkEyXkFqcGdeQXVyODY0MDQ3NTI@._V1_.jpg",
 	"synopsis":"When Abel learns that his mother is about to marry a man in prison, he freaks out. With the help of his best friend, he will do whatever it takes to protect her. But meeting his new stepfather may well offer him a new perspective.",
 	"date":"2022-10-12",
@@ -1138,7 +1916,8 @@
 	"genre":["Comedy","Crime","Romance"],
 	"director":["Louis Garrel"],
 	"actors":["Louis Garrel","Roschdy Zem","Noémie Merlant"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -1150,7 +1929,8 @@
 	"genre":["Drama","Music"],
 	"director":["Todd Field"],
 	"actors":["Cate Blanchett","Noémie Merlant","Nina Hoss"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -1162,7 +1942,8 @@
 	"genre":["Biography","Drama"],
 	"director":["Steven Soderbergh"],
 	"actors":["Julia Roberts","Albert Finney","David Brisbin"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -1174,7 +1955,8 @@
 	"genre":["Comedy","Drama","Romance"],
 	"director":["Roger Michell"],
 	"actors":["Hugh Grant","Julia Roberts","Richard McCabe"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -1186,7 +1968,8 @@
 	"genre":["Comedy","Drama","Romance"],
 	"director":["Mike Newell"],
 	"actors":["Hugh Grant","Andie MacDowell","James Fleet"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -1198,7 +1981,8 @@
 	"genre":["Adventure","Family","Sci-Fi"],
 	"director":["Steven Spielberg"],
 	"actors":["Henry Thomas","Drew Barrymore","Peter Coyote"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -1210,7 +1994,8 @@
 	"genre":["Action","Sci-Fi"],
 	"director":["Lana Wachowski","Lilly Wachowski"],
 	"actors":["Keanu Reeves","Laurence Fishburne","Carrie-Anne Moss"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -1222,7 +2007,8 @@
 	"genre":["Comedy","Fantasy","Horror"],
 	"director":["Joe Dante"],
 	"actors":["Zach Galligan","Phoebe Cates","Hoyt Axton"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -1234,7 +2020,8 @@
 	"genre":["Adventure","Comedy","Sci-Fi"],
 	"director":["Robert Zemeckis"],
 	"actors":["Michael J. Fox","Christopher Lloyd","Lea Thompson"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -1246,7 +2033,8 @@
 	"genre":["Action","Adventure","Comedy"],
 	"director":["Barry Sonnenfeld"],
 	"actors":["Tommy Lee Jones","Will Smith","Linda Fiorentino"],
-	"youtube":""
+	"youtube":"",
+	"note":3.0
 },
 {
 	"type":"movie",
@@ -1258,7 +2046,8 @@
 	"genre":["Action","Adventure","Comedy"],
 	"director":["Martin Campbell"],
 	"actors":["Antonio Banderas","Anthony Hopkins","Catherine Zeta-Jones"],
-	"youtube":""
+	"youtube":"",
+	"note":3.0
 },
 {
 	"type":"movie",
@@ -1270,7 +2059,8 @@
 	"genre":["Biography","Crime","Drama"],
 	"director":["Steven Spielberg"],
 	"actors":["Leonardo DiCaprio","Tom Hanks","Christopher Walken"],
-	"youtube":""
+	"youtube":"",
+	"note":3.0
 },
 {
 	"type":"movie",
@@ -1282,7 +2072,8 @@
 	"genre":["Action","Drama","Sci-Fi"],
 	"director":["Ridley Scott"],
 	"actors":["Harrison Ford","Rutger Hauer","Sean Young"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -1294,7 +2085,8 @@
 	"genre":["Adventure","Drama","Sci-Fi"],
 	"director":["Ridley Scott"],
 	"actors":["Matt Damon","Jessica Chastain","Kristen Wiig"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -1306,7 +2098,8 @@
 	"genre":["Action","Drama","History"],
 	"director":["Ridley Scott"],
 	"actors":["Matt Damon","Adam Driver","Jodie Comer"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -1318,7 +2111,8 @@
 	"genre":["Action","Adventure","Sci-Fi"],
 	"director":["J.J. Abrams"],
 	"actors":["Chris Pine","Zachary Quinto","Simon Pegg"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -1330,11 +2124,12 @@
 	"genre":["Crime","Drama","Mystery"],
 	"director":["Roman Polanski"],
 	"actors":["Ewan McGregor","Pierce Brosnan","Olivia Williams"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
-	"title":"Schindler&apos;s List",
+	"title":"Schindler's List",
 	"image": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
 	"synopsis":"In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
 	"date":"1994-02-04",
@@ -1342,7 +2137,8 @@
 	"genre":["Biography","Drama","History"],
 	"director":["Steven Spielberg"],
 	"actors":["Liam Neeson","Ralph Fiennes","Ben Kingsley"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -1354,7 +2150,8 @@
 	"genre":["Drama","Romance"],
 	"director":["Stephen Daldry"],
 	"actors":["Kate Winslet","Ralph Fiennes","Bruno Ganz"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -1366,7 +2163,8 @@
 	"genre":["Drama","Mystery"],
 	"director":["Orson Welles"],
 	"actors":["Orson Welles","Joseph Cotten","Dorothy Comingore"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -1378,7 +2176,8 @@
 	"genre":["Drama"],
 	"director":["Milos Forman"],
 	"actors":["Jack Nicholson","Louise Fletcher","Michael Berryman"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -1390,7 +2189,8 @@
 	"genre":["Comedy","Drama","Romance"],
 	"director":["James L. Brooks"],
 	"actors":["Jack Nicholson","Helen Hunt","Greg Kinnear"],
-	"youtube":""
+	"youtube":"",
+	"note":3.5
 },
 {
 	"type":"movie",
@@ -1402,7 +2202,8 @@
 	"genre":["Adventure","Drama","Romance"],
 	"director":["Robert Zemeckis"],
 	"actors":["Tom Hanks","Helen Hunt","Paul Sanchez"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -1414,7 +2215,8 @@
 	"genre":["Drama","Romance"],
 	"director":["Robert Zemeckis"],
 	"actors":["Tom Hanks","Robin Wright","Gary Sinise"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -1426,7 +2228,8 @@
 	"genre":["Comedy","Drama","Fantasy"],
 	"director":["Brian De Palma"],
 	"actors":["Paul Williams","William Finley","Jessica Harper"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -1438,7 +2241,8 @@
 	"genre":["Action","Comedy","Thriller"],
 	"director":["David Leitch"],
 	"actors":["Brad Pitt","Joey King","Aaron Taylor-Johnson"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -1450,7 +2254,8 @@
 	"genre":["Drama"],
 	"director":["Ryûsuke Hamaguchi"],
 	"actors":["Hidetoshi Nishijima","Tôko Miura","Reika Kirishima"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -1462,7 +2267,8 @@
 	"genre":["Biography","Drama","Music"],
 	"director":["Joann Sfar"],
 	"actors":["Eric Elmosnino","Lucy Gordon","Laetitia Casta"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -1474,7 +2280,8 @@
 	"genre":["Action","Adventure","Sci-Fi"],
 	"director":["Christopher Nolan"],
 	"actors":["Leonardo DiCaprio","Joseph Gordon-Levitt","Elliot Page"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -1486,7 +2293,8 @@
 	"genre":["Comedy","Drama","Fantasy"],
 	"director":["Spike Jonze"],
 	"actors":["John Cusack","Cameron Diaz","Catherine Keener"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -1498,7 +2306,8 @@
 	"genre":["Crime","Drama","Mystery"],
 	"director":["Henri Verneuil"],
 	"actors":["Yves Montand","Michel Albertini","Roland Amstutz"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -1510,7 +2319,8 @@
 	"genre":["Adventure","Drama","Sci-Fi"],
 	"director":["Christopher Nolan"],
 	"actors":["Matthew McConaughey","Anne Hathaway","Jessica Chastain"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -1522,7 +2332,8 @@
 	"genre":["Action","Adventure","Drama"],
 	"director":["Ang Lee"],
 	"actors":["Chow Yun-Fat","Michelle Yeoh","Ziyi Zhang"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -1534,7 +2345,8 @@
 	"genre":["Drama"],
 	"director":["Steven Spielberg"],
 	"actors":["Michelle Williams","Gabriel LaBelle","Paul Dano"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 },
 {
 	"type":"movie",
@@ -1546,7 +2358,8 @@
 	"genre":["Action","Adventure","Comedy"],
 	"director":["Daniel Kwan","Daniel Scheinert"],
 	"actors":["Michelle Yeoh","Stephanie Hsu","Jamie Lee Curtis"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -1558,11 +2371,12 @@
 	"genre":["Action","Adventure","Comedy"],
 	"director":["John Landis"],
 	"actors":["John Belushi","Dan Aykroyd","Cab Calloway"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
-	"title":"Das Leben der Anderen",
+	"title":"La vie des autres",
 	"image": "https://m.media-amazon.com/images/M/MV5BNmQyNmJjM2ItNTQzYi00ZjMxLWFjMDYtZjUyN2YwZDk5YWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
 	"synopsis":"In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
 	"date":"2007-03-30",
@@ -1570,7 +2384,8 @@
 	"genre":["Drama","Mystery","Thriller"],
 	"director":["Florian Henckel von Donnersmarck"],
 	"actors":["Ulrich Mühe","Martina Gedeck","Sebastian Koch"],
-	"youtube":""
+	"youtube":"",
+	"note":5.0
 },
 {
 	"type":"movie",
@@ -1582,6 +2397,7 @@
 	"genre":["Action","Adventure","Sci-Fi"],
 	"director":["Don Taylor"],
 	"actors":["Kirk Douglas","Martin Sheen","Katharine Ross"],
-	"youtube":""
+	"youtube":"",
+	"note":4.0
 }
 ]

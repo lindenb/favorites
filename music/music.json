@@ -3,6 +3,24 @@
 var data = [
 	{
 	"type":"song",
+	"author":"Emily Loizeau",
+	"title":"L'autre Bout Du Monde",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=SiOMjzNUPvs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Mansfield.TYA",
+	"title":"Pour oublier je dors",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=nh8LRnph0V4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Damien Saez",
 	"title":"Jeune et con",
 	"year":null,
