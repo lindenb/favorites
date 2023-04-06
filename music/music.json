@@ -93,7 +93,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":["Christine and the Queens","Chritophe"],
+	"author":["Christine and the Queens","Christophe"],
 	"title":"Paradis Perdus",
 	"year":null,
 	"lang":"fr",
@@ -1524,19 +1524,19 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Michel Polnareff : la michetonneuse",
-	"title":"Michel Polnareff : la michetonneuse",
+	"author":"Michel Polnareff",
+	"title":"la michetonneuse",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=OBaVIghqDMQ",
 	"playlist":[""]
 	},
 	{
 	"type":"song",
 	"author":"Michel Polnareff",
-	"title":"L´oiseau de nuit - LP 1966",
+	"title":"L´oiseau de nuit",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=bHeXHy-KPuk",
 	"playlist":[""]
 	},
@@ -1545,7 +1545,7 @@ var data = [
 	"author":"Michel Polnareff",
 	"title":"Gloria",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=e8Q26FjtOh4",
 	"playlist":[""]
 	},
@@ -1563,16 +1563,16 @@ var data = [
 	"title":"La mouche",
 	"author":"Michel Polnareff",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=VIkn0JULLRw",
 	"playlist":[""]
 	},
 	{
 	"type":"song",
 	"author":"Michel Polnareff",
-	"title":"Michel Polnareff : le roi des fourmis",
+	"title":"le roi des fourmis",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=rvrHc7MdFwo",
 	"playlist":[""]
 	},
@@ -1581,7 +1581,7 @@ var data = [
 	"author":"Michel Polnareff",
 	"title":"Tam Tam",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=Qa-9Xrmnqsk",
 	"playlist":[""]
 	},
@@ -1590,7 +1590,7 @@ var data = [
 	"title":"TOUT TOUT POUR MA CHERIE",
 	"author":"Michel Polnareff",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=1dmt5o0DjaU",
 	"playlist":[""]
 	},
@@ -1678,7 +1678,7 @@ var data = [
 	{
 	"type":"song",
 	"author":"Michel Polnareff",
-	"title":"Michel Polnareff ~ Le Bal Des Laze",
+	"title":"Le Bal Des Laze",
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=tPxajzP-2jQ",
@@ -3678,8 +3678,8 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Oxygene, Pt. 2",
 	"title":"Oxygene, Pt. 2",
+	"author":"Jean Michel Jarre",
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=KRWlw0M-rdw",
@@ -3744,16 +3744,16 @@ var data = [
 	"author":"Daniel Balavoine",
 	"title":"Aimer est plus fort que d'être aimé",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=6bTAgC-1Brs",
 	"playlist":[""]
 	},
 	{
 	"type":"song",
-	"author":"L'Aziza",
+	"author":"Daniel Balavoine",
 	"title":"L'Aziza",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=lHjJlSq3BhA",
 	"playlist":[""]
 	},
@@ -3762,7 +3762,7 @@ var data = [
 	"author":"Daniel Balavoine",
 	"title":"Sauver l'amour",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=Hijfh1vGvUE",
 	"playlist":[""]
 	},
@@ -3777,7 +3777,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Video série noire",
+	"author":"Daniel Balavoine",
 	"title":"Video série noire",
 	"year":null,
 	"lang":"en",
@@ -3786,7 +3786,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Partir avant les miens",
+	"author":"Daniel Balavoine",
 	"title":"Partir avant les miens",
 	"year":null,
 	"lang":"en",
@@ -3813,8 +3813,8 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Soulève",
-	"title":"moi",
+	"author":"Daniel Balavoine",
+	"title":"Soulève moi",
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=e5CYMjaMrmI",
@@ -3822,7 +3822,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Vendeurs de larmes",
+	"author":"Daniel Balavoine",
 	"title":"Vendeurs de larmes",
 	"year":null,
 	"lang":"en",
@@ -3843,13 +3843,13 @@ var data = [
 	"author":"Daniel Balavoine",
 	"title":"Je ne suis pas un héros",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=4DuUejBkMqE",
 	"playlist":[""]
 	},
 	{
 	"type":"song",
-	"author":"Me laisse pas m'en aller",
+	"author":"Daniel Balavoine",
 	"title":"Me laisse pas m'en aller",
 	"year":null,
 	"lang":"en",
@@ -3858,7 +3858,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Ces petits riens",
+	"author":"Daniel Balavoine",
 	"title":"Ces petits riens",
 	"year":null,
 	"lang":"en",
@@ -3867,7 +3867,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Rougeagèvre",
+	"author":"Daniel Balavoine",
 	"title":"Rougeagèvre",
 	"year":null,
 	"lang":"en",
@@ -4619,8 +4619,8 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Ain't Nobody But Me",
-	"title":"Supertramp",
+	"title":"Ain't Nobody But Me",
+	"author":"Supertramp",
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=bNMpe5XMbPA",
@@ -4799,8 +4799,8 @@ var data = [
 	},
 	{
 	"type":"Art Of Noise",
-	"author":"Yebo!",
-	"title":"Yebo!",
+	"author":"Yebo",
+	"title":"Yebo",
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=bIPBkDIV7_U",
@@ -4853,7 +4853,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Arte Of Noise",
+	"author":"Art Of Noise",
 	"title":"Love",
 	"year":null,
 	"lang":"en",
@@ -5141,8 +5141,8 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"björk : jóga",
-	"title":"björk : jóga",
+	"author":"Björk",
+	"title":"Jóga",
 	"year":1997,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=loB0kmz_0MM",
@@ -5646,7 +5646,7 @@ var data = [
 	{
 	"type":"song",
 	"author":"Max Richter",
-	"title":"On The Nature Of Daylight (Arrival SoundtrackMax)",
+	"title":"On The Nature Of Daylight",
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=a6RnT8uxOiw",
@@ -6070,8 +6070,8 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Queen Princes Of The Universe HQ",
-	"title":"Queen Princes Of The Universe HQ",
+	"author":"Queen",
+	"title":"Princes Of The Universe",
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=CIKVwzZGWhw",
@@ -6089,7 +6089,7 @@ var data = [
 	{
 	"type":"song",
 	"author":"Queen",
-	"title":"Queen – Bohemian Rhapsody",
+	"title":"Bohemian Rhapsody",
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
@@ -7296,7 +7296,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Tes parents",
+	"author":"Vincent Delerm",
 	"title":"Tes parents",
 	"lang":"en",
 	"year": 2002,
@@ -7305,7 +7305,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Le monologue shakespearien",
+	"author":"Vincent Delerm",
 	"title":"Le monologue shakespearien",
 	"lang":"en",
 	"year": 2002,
@@ -7314,7 +7314,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Cosmopolitan",
+	"author":"Vincent Delerm",
 	"title":"Cosmopolitan",
 	"lang":"en",
 	"year": 2002,
@@ -7323,7 +7323,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Deauville sans trintignant",
+	"author":"Vincent Delerm",
 	"title":"Deauville sans trintignant",
 	"lang":"en",
 	"year": 2002,
@@ -7332,7 +7332,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Les gens qui doutent",
+	"author":"Vincent Delerm",
 	"title":"Les gens qui doutent",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=VGSa4Ls1ub0",
@@ -7642,7 +7642,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"It's Not Unusual",
+	"author":"Tom Jones",
 	"title":"It's Not Unusual",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=k-HdGnzYdFQ",
@@ -7685,7 +7685,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Yves Simpn",
+	"author":"Yves Simon",
 	"title":"J'pense à elle tout le temps",
 	"lang":"fr",
 	"year": 1983,
@@ -7728,8 +7728,8 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"The Best of Edith Piaf Medley: Non, je ne regrette rien / La vie en rose / Hymne à l'amour /...",
-	"title":"The Best of Edith Piaf Medley: Non, je ne regrette rien / La vie en rose / Hymne à l'amour /...",
+	"author":"Edith Piaf",
+	"title":"Non, je ne regrette rien ",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=FuXJWb9iSI0",
 	"playlist":[""]
@@ -7744,7 +7744,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Here Comes The Sun",
+	"author":"The Beatles",
 	"title":"Here Comes The Sun",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=GKdl-GCsNJ0",
@@ -7760,7 +7760,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"She's Leaving Home",
+	"author":"The Beatles",
 	"title":"She's Leaving Home",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=VaBPY78D88g",
@@ -7768,8 +7768,8 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Hexagone",
-	"title":"Renaud",
+	"author":"Renaud",
+	"title":"Hexagone",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=eUbj8aUC_rQ",
 	"playlist":[""]
@@ -8257,7 +8257,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Toute première fois",
+	"author":"Jeanne Mas",
 	"title":"Toute première fois",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=nqjGhiLYkOw",
@@ -8456,7 +8456,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Ma gonzesse",
+	"author":"Renaud",
 	"title":"Ma gonzesse",
 	"year":null,
 	"lang":"en",
@@ -8928,9 +8928,9 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Gerad Blanc",
+	"author":"Gerard Blanc",
 	"title":"Une autre histoire",
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=zcG4rTyhPNI",
 	"playlist":[""]
 	},
@@ -9356,8 +9356,8 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Hubert",
-	"title":"Félix Thiéfaine - Je t'en remets au vent",
+	"author":"Hubert-Félix Thiéfaine",
+	"title":"Je t'en remets au vent",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=m-ozZp5SBOU",
 	"playlist":[""]
@@ -9372,7 +9372,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"L'amour avec toi",
+	"author":"Michel Polnareff",
 	"title":"L'amour avec toi",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=MqwVpFb1HUk",
@@ -9443,7 +9443,7 @@ var data = [
 	{
 	"type":"song",
 	"author":"Thiefaine",
-	"title":"La fille du coupeur de joint au zenith",
+	"title":"La fille du coupeur de joint",
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=jiKYhvpBgpw",
 	"playlist":[""]
@@ -9491,7 +9491,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"J'aime les filles",
+	"author":"Jacques Dutronc",
 	"title":"J'aime les filles",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=0J5K4O19WUc",
@@ -9499,8 +9499,8 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"a",
-	"title":"ha - Take On Me",
+	"author":"A-HA",
+	"title":"Take On Me",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=djV11Xbc914",
 	"playlist":[""]
@@ -9510,7 +9510,7 @@ var data = [
 	"author":"Charles Aznavour",
 	"title":"Trousse Chemise",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=LOFEesO6JN4",
 	"playlist":[""]
 	},
@@ -9701,7 +9701,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Il est cinq heures, Paris s'éveille",
+	"author":"Jacques Dutronc",
 	"title":"Il est cinq heures, Paris s'éveille",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=J8Wi6wr4bGs",
@@ -10121,9 +10121,9 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Le Témoin Magnifique",
+	"author":"Williamn Sheller",
 	"title":"Le Témoin Magnifique",
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=Bk0i6VQp0sI",
 	"playlist":[""]
 	},
@@ -10509,7 +10509,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Vancouver",
+	"author":"Veronique Sanson",
 	"title":"Vancouver",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=LW2fZrNqEAw",
@@ -10550,7 +10550,7 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"",
+	"author":"France Gall",
 	"title":"Musique",
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=xc0fAO9Ouzs",
