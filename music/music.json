@@ -1,6 +1,43 @@
 
 
+
 var data = [
+	{
+	"type":"song",
+	"author":"Leonard Cohen",
+	"title":"You Want It Darker",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=v0nmHymgM7Y",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Joe Dassin",
+	"title":"Salut",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=FkowbVrNHyc",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Justice",
+	"title":"Alakazam !",
+	"year":2016,
+	"lang":null,
+	"youtube":"https://www.youtube.com/watch?v=JKPW_7hb2ek",
+	"playlist":["techno","dance"]
+	},
+	{
+	"type":"song",
+	"author":["Michael Jackson","The Jackson Five"],
+	"title":"I Want You Back",
+	"year":1969,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=UvynvnxZJ3Q",
+	"playlist":["60s"]
+	},
 	{
 	"type":"song",
 	"author":"Emily Loizeau",
@@ -1385,6 +1422,15 @@ var data = [
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=yLsVGwNWOA4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Richard Gotainer",
+	"title":"Sur la route encore",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=fwwIrj7oyyE",
 	"playlist":[""]
 	},
 	{
@@ -3851,10 +3897,10 @@ var data = [
 	"type":"song",
 	"author":"Daniel Balavoine",
 	"title":"Me laisse pas m'en aller",
-	"year":null,
-	"lang":"en",
+	"year":1979,
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=FWJ5Kvp6n6Y",
-	"playlist":[""]
+	"playlist":["80s"]
 	},
 	{
 	"type":"song",
@@ -3937,7 +3983,7 @@ var data = [
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=M2WWftDV1oo",
-	"playlist":[""]
+	"playlist":["pop","80s"]
 	},
 	{
 	"type":"song",
@@ -4303,8 +4349,8 @@ var data = [
 	},
 	{
 	"type":"song",
-	"author":"Carl Douglas Kung",
-	"title":"Fu Fighting",
+	"author":"Carl Douglas",
+	"title":" Kung-Fu Fighting",
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=bmfudW7rbG0",
@@ -4549,7 +4595,7 @@ var data = [
 	"author":"Indochine",
 	"title":"Canary Bay",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=hMQv0yXvvpc",
 	"playlist":[""]
 	},
@@ -4558,7 +4604,7 @@ var data = [
 	"author":"Indochine",
 	"title":"Trois nuits par semaine",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=MesqtwX6sJw",
 	"playlist":[""]
 	},
@@ -4578,7 +4624,7 @@ var data = [
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=4q1nzqMaHzU",
-    "copyrighted":true,
+    	"copyrighted":true,
 	"playlist":[""]
 	},
 	{
@@ -5198,7 +5244,7 @@ var data = [
 	"author":"Louis Chedid",
 	"title":"La belle",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=6DC5Czf_Hs8",
 	"playlist":[""]
 	},
@@ -5207,7 +5253,7 @@ var data = [
 	"author":"Louis Chedid",
 	"title":"God Save the Swing",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=7vYJJ4IYB-E",
 	"playlist":[""]
 	},
@@ -5216,7 +5262,7 @@ var data = [
 	"author":"Louis Chedid",
 	"title":"T'as beau pas être beau",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=EFE3Gfq0oG0",
 	"playlist":[""]
 	},
@@ -5225,7 +5271,7 @@ var data = [
 	"author":"Louise Attaque",
 	"title":"Les nuits parisiennes",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=7b4LjfJ3OVg",
 	"playlist":[""]
 	},
@@ -5484,7 +5530,7 @@ var data = [
 	{
 	"type":"song",
 	"author":"Brigitte",
-	"title":"Clip: Ma Benz",
+	"title":"Ma Benz",
 	"year":null,
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=qVZwg5Lk8BA",
@@ -8912,9 +8958,18 @@ var data = [
 	},
 	{
 	"type":"song",
+	"author":"Jean",
+	"title":"Jacques Goldman - Je marche seul",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=5AS0wPLnAhY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Jean-Jacques Goldman",
 	"title":"Quand la musique est bonne",
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=-boDeijWuOY",
 	"playlist":[""]
 	},
@@ -10692,6 +10747,15 @@ var data = [
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=lgHGU8gqz9U",
 	"playlist":["80s","variete"]
+	},
+	{
+	"type":"song",
+	"author":"Patrick Bruel",
+	"title":"Casser la voix",
+	"year":1989,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=r-951A8fuoU",
+	"playlist":["France","80s"]
 	},
 	{
 	"type":"song",
