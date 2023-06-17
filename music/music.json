@@ -1,7 +1,104 @@
 
-
-
-var data = [
+[
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Cloud on My Tongue",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=gxe7afmGG7w",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Yes, Anastasia",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=JMhdLspttjE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Icicle",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=5jToT-q9Zww",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Virginia",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=a47OYnzA_-o",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Mrs. Jesus",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=HMs45AnmztI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"STRANGE",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=rNI5pdelQNQ",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tori Amos",
+	"title":"Wednesday",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=WRGOMyJeQrw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Amber Waves",
+	"title":"Tori Amos",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=XDc21domqJs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Chis Isaak",
+	"title":"Blue Hotel",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=pZbyQftBwOA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Chis Isaak",
+	"title":"Baby Did a Bad Bad Thing",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=1GCS3EtZNv8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Chis Isaak",
+	"title":"Wicked Game",
+	"year":1989,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=oadhHk2xs6c",
+	"playlist":[""]
+	},
 	{
 	"type":"song",
 	"author":"Leonard Cohen",
@@ -59,11 +156,20 @@ var data = [
 	{
 	"type":"song",
 	"author":"Damien Saez",
+	"title":"Fils de France",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=eGx1GyMsNiw",
+	"playlist":["politics"]
+	},
+	{
+	"type":"song",
+	"author":"Damien Saez",
 	"title":"Jeune et con",
 	"year":null,
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=vURYMEBiEdY",
-	"playlist":[""]
+	"playlist":["politics"]
 	},
 	{
 	"type":"song",
@@ -10815,4 +10921,4 @@ var data = [
         "playlist" : ["80s","slow","pop"]
         }
 
-];
+]

@@ -1,6 +1,58 @@
 [
 	{
 	"type":"movie",
+	"title":"Billy Elliot",
+	"image": "https://m.media-amazon.com/images/M/MV5BNGY3NWYwNzctNWU5Yi00ZjljLTgyNDgtZjNhZjRlNjc0ZTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+	"synopsis":"A talented young boy becomes torn between his unexpected love of dance and the disintegration of his family.",
+	"date":"2000-11-10",
+	"duration":"PT1H50M",
+	"genre":["Drama","Music"],
+	"director":["Stephen Daldry"],
+	"actors":["Jamie Bell","Julie Walters","Jean Heywood"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Licorice Pizza",
+	"image": "https://m.media-amazon.com/images/M/MV5BYjkwMzIxYzMtOTVkMS00NDQxLThkMjItNzgxN2RiNjdlNTliXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+	"synopsis":"The story of Alana Kane and Gary Valentine growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
+	"date":"2021-12-25",
+	"duration":"PT2H13M",
+	"genre":["Comedy","Drama","Romance"],
+	"director":["Paul Thomas Anderson"],
+	"actors":["Alana Haim","Cooper Hoffman","Sean Penn"],
+	"youtube":"",
+	"note":5.0
+	},
+	{
+	"type":"movie",
+	"title":"Dead Poets Society",
+	"image": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+	"synopsis":"Maverick teacher John Keating uses poetry to embolden his boarding school students to new heights of self-expression.",
+	"date":"1989-06-09",
+	"duration":"PT2H8M",
+	"genre":["Comedy","Drama"],
+	"director":["Peter Weir"],
+	"actors":["Robin Williams","Robert Sean Leonard","Ethan Hawke"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"The Karate Kid",
+	"image": "https://m.media-amazon.com/images/M/MV5BYjQ1NzRhYjYtMWY3My00ODA0LTk5ZDctYjQ4YjE0M2RhMGNiXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_.jpg",
+	"synopsis":"Work causes a single mother to move to China with her young son; in his new home, the boy embraces kung fu, taught to him by a master.",
+	"date":"2010-06-11",
+	"duration":"PT2H20M",
+	"genre":["Action","Drama","Family"],
+	"director":["Harald Zwart"],
+	"actors":["Jackie Chan","Jaden Smith","Taraji P. Henson"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
 	"title":"Jason and the Argonauts",
 	"image": "https://m.media-amazon.com/images/M/MV5BN2NiMWEwZmYtNGIzNi00NjllLTg0ZTUtODQ0MDgwMGZkZWE2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
 	"synopsis":"The legendary Greek hero leads a team of intrepid adventurers in a perilous quest for the legendary Golden Fleece.",
@@ -1457,7 +1509,7 @@
 	},
 	{
 	"type":"movie",
-	"title":"Le Dîner de Cons - Bande-annonce [OV] | IMDb",
+	"title":"Le Dîner de Cons",
 	"image": "",
 	"synopsis":"",
 	"date":"undefined",
