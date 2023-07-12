@@ -1,6 +1,45 @@
 [
 	{
 	"type":"movie",
+	"title":"4 mois, 3 semaines et 2 jours",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTk3NDY2MDg0MF5BMl5BanBnXkFtZTYwODcwODc4._V1_.jpg",
+	"synopsis":"A woman assists her friend in arranging an illegal abortion in 1980s Romania.",
+	"date":"2007-09-14",
+	"duration":"PT1H53M",
+	"genre":["Drama"],
+	"director":["Cristian Mungiu"],
+	"actors":["Anamaria Marinca","Laura Vasiliu","Vlad Ivanov"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Voyage au centre de la Terre",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTM1YjMzZGYtMjg0MS00MzM1LWJkMzctMjFhNTA4M2NjOGNlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+	"synopsis":"An Edinburgh professor and assorted colleagues follow an explorer&apos;s trail down an extinct Icelandic volcano to the earth&apos;s center.",
+	"date":"undefined",
+	"duration":"PT2H9M",
+	"genre":["Adventure","Family","Fantasy"],
+	"director":["Henry Levin"],
+	"actors":["James Mason","Pat Boone","Arlene Dahl"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"La mort aux trousses",
+	"image": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+	"synopsis":"A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.",
+	"date":"1959-12-18",
+	"duration":"PT2H16M",
+	"genre":["Action","Adventure","Mystery"],
+	"director":["Alfred Hitchcock"],
+	"actors":["Cary Grant","Eva Marie Saint","James Mason"],
+	"youtube":"",
+	"note":3.0
+	},
+	{
+	"type":"movie",
 	"title":"Billy Elliot",
 	"image": "https://m.media-amazon.com/images/M/MV5BNGY3NWYwNzctNWU5Yi00ZjljLTgyNDgtZjNhZjRlNjc0ZTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
 	"synopsis":"A talented young boy becomes torn between his unexpected love of dance and the disintegration of his family.",
@@ -1429,6 +1468,19 @@
 	"youtube":"",
 	"note":-1.0
 	},
+		{
+	"type":"movie",
+	"title":"Le salaire de la peur",
+	"image": "https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+	"synopsis":"In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.",
+	"date":"1955-02-16",
+	"duration":"PT2H11M",
+	"genre":["Adventure","Drama","Thriller"],
+	"director":["Henri-Georges Clouzot"],
+	"actors":["Yves Montand","Charles Vanel","Peter van Eyck"],
+	"youtube":"",
+	"note":3.5
+	},
 	{
 	"type":"movie",
 	"title":"En liberté!",
@@ -1465,6 +1517,19 @@
 	"genre":["Drama","Fantasy","Sci-Fi"],
 	"director":["Marc Caro","Jean-Pierre Jeunet"],
 	"actors":["Ron Perlman","Daniel Emilfork","Judith Vittet"],
+	"youtube":"",
+	"note":-1.0
+	},
+	{
+	"type":"movie",
+	"title":"Mon oncle d'Amérique",
+	"image": "https://m.media-amazon.com/images/M/MV5BOTM2MjNjZjYtMGQ5NC00YTRmLTliNDUtYzAwNDIxY2VlOTRhXkEyXkFqcGdeQXVyMTYzMTY1MjQ@._V1_.jpg",
+	"synopsis":"The intersecting stories of three people who face difficult choices in life-changing situations are used to illustrate the theories espoused by Henri Laborit about human behavior and the relationship between the self and society.",
+	"date":"1980-12-17",
+	"duration":"PT2H5M",
+	"genre":["Comedy","Drama","Romance"],
+	"director":["Alain Resnais"],
+	"actors":["Gérard Depardieu","Nicole Garcia","Roger Pierre"],
 	"youtube":"",
 	"note":-1.0
 	},

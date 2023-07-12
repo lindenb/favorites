@@ -2,6 +2,33 @@
 [
 	{
 	"type":"song",
+	"author":"Zaho de Sagazan",
+	"title":"Les dormantes",
+	"year":2023,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=xyS12RYoLYI",
+	"playlist":["pop"]
+	},
+	{
+	"type":"song",
+	"author":"Zaho de Sagazan",
+	"title":"La symphonie des éclairs",
+	"year":2023,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=c5j9NrWV9cI",
+	"playlist":["pop"]
+	},
+	{
+	"type":"song",
+	"author":"Zaho de Sagazan",
+	"title":"Tristesse",
+	"year":2023,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=jfJjsTZng6Y",
+	"playlist":["pop"]
+	},
+	{
+	"type":"song",
 	"author":"Tori Amos",
 	"title":"Cloud on My Tongue",
 	"year":null,
