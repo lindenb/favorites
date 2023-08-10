@@ -1,4 +1,4 @@
-<?xml version='1.0' ?>
+<?xml version='1.0'  encoding="iso-8859-1"?>
 <xsl:stylesheet
 	xmlns:xsl='http://www.w3.org/1999/XSL/Transform'
 	xmlns:x="http://www.ibm.com/xmlns/prod/2009/jsonx"
@@ -9,19 +9,26 @@
 
 
 <xsl:template match="/">
-<xsl:apply-templates/>
+<xsl:apply-templates select="x:array/x:object"/>
 </xsl:template>
 
 <xsl:template match="x:object[x:string[@name='type']='song']">
+<xsl:choose>
+	<xsl:when test="x:string[@name='author']">
+		<xsl:apply-templates select="x:string[@name='author']"/>
+	</xsl:when>
+	<xsl:otherwise>
+		<xsl:apply-templates select="x:array[@name='author']"/>
+	</xsl:otherwise>
+</xsl:choose>
+<xsl:text>	"</xsl:text>
 <xsl:apply-templates select="x:string[@name='title']"/>
-<xsl:text>	</xsl:text>
-<xsl:apply-templates select="*[@name='author']"/>
-<xsl:text>	</xsl:text>
-<xsl:apply-templates select="*[@name='youtube']"/>
-<xsl:text>	</xsl:text>
+<xsl:text>"	</xsl:text>
+<xsl:apply-templates select="x:string[@name='youtube']"/>
 <xsl:text>
 </xsl:text>
 </xsl:template>
+
 
 
 <xsl:template match="x:string">

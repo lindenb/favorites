@@ -2,6 +2,15 @@
 [
 	{
 	"type":"song",
+	"author":"François de Roubaix",
+	"title":"La Scoumoune",
+	"year":null,
+	"lang":null,
+	"youtube":"https://www.youtube.com/watch?v=XkIAue604EU",
+	"playlist":["70s","movie","theme","belomondo"]
+	},
+	{
+	"type":"song",
 	"author":"Zaho de Sagazan",
 	"title":"Les dormantes",
 	"year":2023,
@@ -34,6 +43,7 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=gxe7afmGG7w",
+	"exclude":["EF"],
 	"playlist":[""]
 	},
 	{
@@ -43,6 +53,7 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=JMhdLspttjE",
+	"exclude":["EF"],
 	"playlist":[""]
 	},
 	{
@@ -52,6 +63,7 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=5jToT-q9Zww",
+	"exclude":["EF"],
 	"playlist":[""]
 	},
 	{
@@ -61,6 +73,7 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=a47OYnzA_-o",
+	"exclude":["EF"],
 	"playlist":[""]
 	},
 	{
@@ -70,6 +83,7 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=HMs45AnmztI",
+	"exclude":["EF"],
 	"playlist":[""]
 	},
 	{
@@ -79,6 +93,7 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=rNI5pdelQNQ",
+	"exclude":["EF"],
 	"playlist":[""]
 	},
 	{
@@ -88,6 +103,7 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=WRGOMyJeQrw",
+	"exclude":["EF"],
 	"playlist":[""]
 	},
 	{
@@ -97,6 +113,7 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=XDc21domqJs",
+	"exclude":["EF"],
 	"playlist":[""]
 	},
 	{
@@ -4976,15 +4993,7 @@
 	"youtube":"https://www.youtube.com/watch?v=U3cB0_44Fcg",
 	"playlist":[""]
 	},
-	{
-	"type":"Art Of Noise",
-	"author":"Yebo",
-	"title":"Yebo",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=bIPBkDIV7_U",
-	"playlist":[""]
-	},
+	
 	{
 	"type":"song",
 	"author":"Art Of Noise",
@@ -6799,7 +6808,7 @@
 	},
 	{
 	"type":"song",
-	"author":"Sunday Bloody Sunday",
+	"author":"U2",
 	"title":"Sunday Bloody Sunday",
 	"year":null,
 	"lang":"en",
@@ -8371,7 +8380,7 @@
 	},
 	{
 	"type":"song",
-	"title":"Alligators 427 d' H",
+	"title":"Alligators 427",
 	"author":["Hubert-Felix Thiéfaine","Matmatah"],
 	"year":null,
 	"lang":"en",
@@ -9091,8 +9100,8 @@
 	},
 	{
 	"type":"song",
-	"author":"Jean",
-	"title":"Jacques Goldman - Je marche seul",
+	"author":"Jean-Jacques Goldman - ",
+	"title":"Je marche seul",
 	"year":null,
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=5AS0wPLnAhY",
@@ -10108,7 +10117,7 @@
 	},
 	{
 	"type":"song",
-	"author":"Hit the Road Jack",
+	"author":"Ray Charles",
 	"title":"Hit the Road Jack",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=SrnWp5O0DEs",
@@ -10946,6 +10955,14 @@
         "lang": "en",
         "youtube": "https://www.youtube.com/watch?v=Ve-rxwKuqtI",
         "playlist" : ["80s","slow","pop"]
-        }
-
+        },
+	{
+	"type":"song",
+	"title":"Yebo",
+	"author":"Art Of Noise",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=bIPBkDIV7_U",
+	"playlist":[""]
+	}
 ]

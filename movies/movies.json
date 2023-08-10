@@ -1,6 +1,58 @@
 [
 	{
 	"type":"movie",
+	"title":"The Straight Story",
+	"image": "https://m.media-amazon.com/images/M/MV5BM2UxYTMwMWUtOGM1OS00MDI4LWFhNTUtOTA4NWI2ZjEwNmMxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+	"synopsis":"An old man makes a long journey by lawnmower to mend his relationship with an ill brother.",
+	"date":"1999-11-03",
+	"duration":"PT1H52M",
+	"genre":["Biography","Drama"],
+	"director":["David Lynch"],
+	"actors":["Richard Farnsworth","Sissy Spacek","Jane Galloway Heitz"],
+	"youtube":"",
+	"note":3.5
+	},
+	{
+	"type":"movie",
+	"title":"Va, vis et deviens",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTcwODMzOTQ4NV5BMl5BanBnXkFtZTcwNjgyMzU1MQ@@._V1_.jpg",
+	"synopsis":"A Christian boy escapes to Israel from famine-stricken Ethiopia by pretending to be Jewish.",
+	"date":"2008-02-01",
+	"duration":"PT2H20M",
+	"genre":["Drama"],
+	"director":["Radu Mihaileanu"],
+	"actors":["Yaël Abecassis","Roschdy Zem","Moshe Agazai"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Dans la maison",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTY3OTQwMTg5Ml5BMl5BanBnXkFtZTcwNjQ4NzAyOQ@@._V1_.jpg",
+	"synopsis":"A high school French teacher is drawn into a precocious student&apos;s increasingly transgressive story about his relationship with a friend&apos;s family.",
+	"date":"2012-10-10",
+	"duration":"PT1H45M",
+	"genre":["Drama","Mystery","Thriller"],
+	"director":["François Ozon"],
+	"actors":["Fabrice Luchini","Vincent Schmitt","Ernst Umhauer"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Une nuit",
+	"image": "https://m.media-amazon.com/images/M/MV5BNjUxNjU3ZGYtNDE2MS00ZGJhLWJjNjMtNDExMGNhMmFhZWFjXkEyXkFqcGdeQXVyMDA5MDg4Nw@@._V1_.jpg",
+	"synopsis":"A woman pushes a man. They argue. Later, in the station corridors, the two strangers awkwardly make love in a photo booth. Finally, on the surface, they say goodbye.",
+	"date":"2023-07-05",
+	"duration":"PT1H31M",
+	"genre":["Drama","Romance"],
+	"director":["Alex Lutz"],
+	"actors":["Karin Viard","Alex Lutz","Jérôme Pouly"],
+	"youtube":"",
+	"note": 4.0
+	},
+	{
+	"type":"movie",
 	"title":"4 mois, 3 semaines et 2 jours",
 	"image": "https://m.media-amazon.com/images/M/MV5BMTk3NDY2MDg0MF5BMl5BanBnXkFtZTYwODcwODc4._V1_.jpg",
 	"synopsis":"A woman assists her friend in arranging an illegal abortion in 1980s Romania.",
