@@ -1,6 +1,98 @@
 [
 	{
 	"type":"movie",
+	"title":"Barbie",
+	"image": "https://m.media-amazon.com/images/M/MV5BOWIwZGY0OTYtZjUzYy00NzRmLTg5YzgtYWMzNWQ0MmZiY2MwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+	"synopsis":"Barbie suffers a crisis that leads her to question her world and her existence.",
+	"date":"2023-07-21",
+	"duration":"PT1H54M",
+	"genre":["Adventure","Comedy","Fantasy"],
+	"director":["Greta Gerwig"],
+	"actors":["Margot Robbie","Ryan Gosling","Issa Rae"],
+	"youtube":"",
+	"note":1.5
+	},
+	{
+	"type":"movie",
+	"title":"Oppenheimer",
+	"image": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+	"synopsis":"The story of American scientist, J. Robert Oppenheimer, and his role in the development of the atomic bomb.",
+	"date":"2023-07-21",
+	"duration":"PT3H",
+	"genre":["Biography","Drama","History"],
+	"director":["Christopher Nolan"],
+	"actors":["Cillian Murphy","Emily Blunt","Matt Damon"],
+	"youtube":"",
+	"note":2.0
+	},
+	{
+	"type":"movie",
+	"title":"Ma vie avec Liberace",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTg0OTY2OTM0OF5BMl5BanBnXkFtZTcwMTk4OTQ1OQ@@._V1_.jpg",
+	"synopsis":"A chronicle of the tempestuous six-year romance between megastar singer Liberace and his young lover Scott Thorson.",
+	"date":"2013-05-26",
+	"duration":"PT1H58M",
+	"genre":["Biography","Drama","Music"],
+	"director":["Steven Soderbergh"],
+	"actors":["Michael Douglas","Matt Damon","Scott Bakula"],
+	"youtube":"",
+	"note":3.5
+	},
+	{
+	"type":"movie",
+	"title":"Milk",
+	"image": "https://m.media-amazon.com/images/M/MV5BYTQ1MTk5YmYtZWUxNi00MDQxLTg0NzAtMmM4ZDkzY2E3YjQwXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+	"synopsis":"The story of Harvey Milk, and his struggles as an American gay activist who fought for gay rights and became California&apos;s first openly gay elected official.",
+	"date":"2009-01-30",
+	"duration":"PT2H8M",
+	"genre":["Biography","Drama","History"],
+	"director":["Gus Van Sant"],
+	"actors":["Sean Penn","Josh Brolin","Emile Hirsch"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Amour et turbulences",
+	"image": "https://m.media-amazon.com/images/M/MV5BOGNkYzBmOWYtNTM1NC00MWMxLWE1YzctMmIzZGRjMmFmOTI3XkEyXkFqcGdeQXVyMjQ1NjEyNzE@._V1_.jpg",
+	"synopsis":"Antoine is a lawyer living in New York. On his way back to France for the final round of a job interview, Antoine finds himself sitting right next to his ex-girlfriend Julie. With a seven-hour flight ahead of them, they are going ...",
+	"date":"2013-04-03",
+	"duration":"PT1H36M",
+	"genre":["Comedy","Romance"],
+	"director":["Alexandre Castagnetti"],
+	"actors":["Ludivine Sagnier","Nicolas Bedos","Jonathan Cohen"],
+	"youtube":"",
+	"note":3.0
+	},
+
+	{
+	"type":"movie",
+	"title":"The Age of Innocence",
+	"image": "https://m.media-amazon.com/images/M/MV5BMDhkN2FhYTktYWUwNy00NTE5LWJiYjYtMGNlODIyNDc5MWZhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+	"synopsis":"A tale of nineteenth-century New York high society in which a young lawyer falls in love with a woman separated from her husband, while he is engaged to the woman&apos;s cousin.",
+	"date":"1993-10-01",
+	"duration":"PT2H19M",
+	"genre":["Drama","Romance"],
+	"director":["Martin Scorsese"],
+	"actors":["Daniel Day-Lewis","Michelle Pfeiffer","Winona Ryder"],
+	"youtube":"",
+	"note":3.5
+	},
+	{
+	"type":"movie",
+	"title":"Heat",
+	"image": "https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+	"synopsis":"A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a clue at their latest heist.",
+	"date":"1995-12-15",
+	"duration":"PT2H50M",
+	"genre":["Action","Crime","Drama"],
+	"director":["Michael Mann"],
+	"actors":["Al Pacino","Robert De Niro","Val Kilmer"],
+	"youtube":"",
+	"note":3.0
+	},
+	{
+	"type":"movie",
 	"title":"The Straight Story",
 	"image": "https://m.media-amazon.com/images/M/MV5BM2UxYTMwMWUtOGM1OS00MDI4LWFhNTUtOTA4NWI2ZjEwNmMxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
 	"synopsis":"An old man makes a long journey by lawnmower to mend his relationship with an ill brother.",
@@ -23,7 +115,7 @@
 	"director":["Radu Mihaileanu"],
 	"actors":["Yaël Abecassis","Roschdy Zem","Moshe Agazai"],
 	"youtube":"",
-	"note":4.0
+	"note":4.5
 	},
 	{
 	"type":"movie",
@@ -49,7 +141,7 @@
 	"director":["Alex Lutz"],
 	"actors":["Karin Viard","Alex Lutz","Jérôme Pouly"],
 	"youtube":"",
-	"note": 4.0
+	"note": 4.5
 	},
 	{
 	"type":"movie",
