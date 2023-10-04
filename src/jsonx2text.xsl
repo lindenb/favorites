@@ -31,6 +31,28 @@
 
 
 
+<xsl:template match="x:object[x:string[@name='type']='movie']">
+<xsl:value-of select="x:string[@name='date']"/>
+<xsl:text>	</xsl:text>
+<xsl:value-of select="x:string[@name='title']"/>
+<xsl:text>	</xsl:text>
+<xsl:value-of select="x:string[@name='synopsis']"/>
+<xsl:text>	</xsl:text>
+<xsl:text>	</xsl:text>
+<xsl:for-each select="x:array[@name='actors']/x:string">
+<xsl:if test="position() &gt; 1">, </xsl:if>
+<xsl:value-of select="."/>
+</xsl:for-each>
+<xsl:text>	</xsl:text>
+<xsl:for-each select="x:array[@name='director']/x:string">
+<xsl:if test="position() &gt; 1">, </xsl:if>
+<xsl:value-of select="."/>
+</xsl:for-each>
+<xsl:text>
+</xsl:text>
+</xsl:template>
+
+
 <xsl:template match="x:string">
 <xsl:value-of select="normalize-space(.)"/>
 </xsl:template>

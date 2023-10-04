@@ -2,6 +2,15 @@
 [
 	{
 	"type":"song",
+	"author":"Roger Waters",
+	"title":"Vera / Bring The Boys Back Home (lockdown version)",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=7IVBsmkBirk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"François de Roubaix",
 	"title":"La Scoumoune",
 	"year":null,

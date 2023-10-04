@@ -1,6 +1,85 @@
 [
 	{
 	"type":"movie",
+	"title":"La voie royale",
+	"image": "https://m.media-amazon.com/images/M/MV5BZjA4OTNlZDEtMGExYi00NDMxLWJjZDMtNWJkYTQ2NjQwODRjXkEyXkFqcGdeQXVyMDA5MDg4Nw@@._V1_.jpg",
+	"synopsis":"Sophie excels at academics. She leaves the family farm to attend a scientific prep class, but when faced with new challenges, she discovers that her desire of attending the Polytechnique is a genuine struggle of social ascent.",
+	"date":"2023-08-09",
+	"duration":"PT1H47M",
+	"genre":["Drama"],
+	"director":["Frédéric Mermoud"],
+	"actors":["Suzanne Jouannet","Marie Colomb","Maud Wyler"],
+	"youtube":"",
+	"note":2.5
+	},
+	{
+	"type":"movie",
+	"title":"Dead Man Walking - La dernière Marche",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTM3NzA1MjM2N15BMl5BanBnXkFtZTcwMzY3MTMzNA@@._V1_.jpg",
+	"synopsis":"A nun, while comforting a convicted killer on death row, empathizes with both the killer and his victim&apos;s families.",
+	"date":"1996-02-02",
+	"duration":"PT2H2M",
+	"genre":["Crime","Drama"],
+	"director":["Tim Robbins"],
+	"actors":["Susan Sarandon","Sean Penn","Robert Prosky"],
+	"youtube":"",
+	"note":3.0
+	},
+	{
+	"type":"movie",
+	"title":"Ridicule",
+	"image": "https://m.media-amazon.com/images/M/MV5BMzJiMThkOWYtYTI0ZS00OWU4LTk5NWYtNDgzMzIwNjk0ZTk5XkEyXkFqcGdeQXVyMjc4MjcxNzI@._V1_.jpg",
+	"synopsis":"To get royal backing on a needed drainage project, a poor French lord must learn to play the delicate games of wit at court at Versailles.",
+	"date":"1996-11-22",
+	"duration":"PT1H42M",
+	"genre":["Comedy","Drama","History"],
+	"director":["Patrice Leconte"],
+	"actors":["Charles Berling","Jean Rochefort","Fanny Ardant"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Les algues vertes",
+	"image": "https://m.media-amazon.com/images/M/MV5BMGY3ZTI4MjAtN2QzMi00MWRlLWI2ZDAtNjkwMWZjNTMyMmQwXkEyXkFqcGdeQXVyMDA5MDg4Nw@@._V1_.jpg",
+	"synopsis":"Not less than 3 men and 40 animals were found dead on the Breton beaches. Inès Léraud is still a young journalist when, driven by an ecological conscience, she decides to go to Brittany to investigate this phenomenon",
+	"date":"2023-07-12",
+	"duration":"PT1H47M",
+	"genre":["Drama","Thriller"],
+	"director":["Pierre Jolivet"],
+	"actors":["Céline Sallette","Nina Meurisse","Julie Ferrier"],
+	"youtube":"",
+	"note":3.0
+	},
+	{
+	"type":"movie",
+	"title":"Girl with a Pearl Earring",
+	"image": "https://m.media-amazon.com/images/M/MV5BOTU3NTg5NDYtNWNkMC00ODZiLTljZjQtNjZhNjlhNjZiNDBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+	"synopsis":"A young peasant maid working in the house of painter Johannes Vermeer becomes his talented assistant and the model for one of his most famous works.",
+	"date":"2004-01-30",
+	"duration":"PT1H40M",
+	"genre":["Biography","Drama","Romance"],
+	"director":["Peter Webber"],
+	"actors":["Scarlett Johansson","Colin Firth","Tom Wilkinson"],
+	"youtube":"",
+	"note":4.0
+	},
+
+	{
+	"type":"movie",
+	"title":"The Death of Stalin",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTcxMDc1NjcyNl5BMl5BanBnXkFtZTgwNDU0NDYxMzI@._V1_.jpg",
+	"synopsis":"Moscow, 1953. After being in power for nearly 30 years, Soviet dictator Joseph Vissarionovich Stalin takes ill and quickly dies. Now the members of the Council of Ministers scramble for power.",
+	"date":"2018-03-09",
+	"duration":"PT1H47M",
+	"genre":["Comedy","Drama","History"],
+	"director":["Armando Iannucci"],
+	"actors":["Steve Buscemi","Simon Russell Beale","Jeffrey Tambor"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
 	"title":"Barbie",
 	"image": "https://m.media-amazon.com/images/M/MV5BOWIwZGY0OTYtZjUzYy00NzRmLTg5YzgtYWMzNWQ0MmZiY2MwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
 	"synopsis":"Barbie suffers a crisis that leads her to question her world and her existence.",
@@ -210,7 +289,7 @@
 	},
 	{
 	"type":"movie",
-	"title":"Dead Poets Society",
+	"title":"Dead Poets Society - Le cercle des poètes disparus.",
 	"image": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
 	"synopsis":"Maverick teacher John Keating uses poetry to embolden his boarding school students to new heights of self-expression.",
 	"date":"1989-06-09",
@@ -257,19 +336,6 @@
 	"genre":["Adventure","Drama","History"],
 	"director":["Roland Joffé"],
 	"actors":["Robert De Niro","Jeremy Irons","Ray McAnally"],
-	"youtube":"",
-	"note":2.5
-	},
-	{
-	"type":"movie",
-	"title":"Dungeons &amp; Dragons: Honor Among Thieves",
-	"image": "https://m.media-amazon.com/images/M/MV5BNmFkN2M2NzItOTY5YS00MmE2LTk3ZjctNTk2YzQ5ZmRiYzJjXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
-	"synopsis":"A charming thief and a band of unlikely adventurers embark on an epic quest to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
-	"date":"2023-03-31",
-	"duration":"PT2H14M",
-	"genre":["Action","Adventure","Comedy"],
-	"director":["John Francis Daley","Jonathan Goldstein"],
-	"actors":["Chris Pine","Michelle Rodriguez","Regé-Jean Page"],
 	"youtube":"",
 	"note":2.5
 	},
@@ -353,19 +419,6 @@
 	},
 	{
 	"type":"movie",
-	"title":"Martin Eden",
-	"image": "https://m.media-amazon.com/images/M/MV5BM2NlYzg4ZDYtYjAwMC00YmZmLWFhMzYtNTBhNDIwMTRlYTQ1XkEyXkFqcGdeQXVyMjI3NDAyNg@@._V1_.jpg",
-	"synopsis":"Martin Eden struggles to rise above his destitute, proletarian circumstances through an intense and passionate pursuit of self-education, hoping to achieve a place among the literary elite.",
-	"date":"2020-10-16",
-	"duration":"PT2H9M",
-	"genre":["Drama","Romance"],
-	"director":["Pietro Marcello"],
-	"actors":["Luca Marinelli","Jessica Cressy","Vincenzo Nemolato"],
-	"youtube":"",
-	"note":2.5
-	},
-	{
-	"type":"movie",
 	"title":"De grandes espérances",
 	"image": "https://m.media-amazon.com/images/M/MV5BN2Q1YmY1MzYtYmM0ZS00ZTI0LWExMTktYzBlMTI4ZjZjMDQ4XkEyXkFqcGdeQXVyMTYyMDQ1OTAz._V1_.jpg",
 	"synopsis":"Summer 2019. Just graduated, Madeleine goes to Corsica to prepare for further exams with Antoine, her lover with whom she shares very left-wing political convictions. On a small deserted road, an unexpected encounter will seal the...",
@@ -415,19 +468,6 @@
 	"actors":["Meryl Streep","Nicole Kidman","Julianne Moore"],
 	"youtube":"",
 	"note":4.0
-	},
-	{
-	"type":"movie",
-	"title":"Cold Mountain",
-	"image": "https://m.media-amazon.com/images/M/MV5BMTY3NTc5NzcyOF5BMl5BanBnXkFtZTcwMDM0NjQyMQ@@._V1_.jpg",
-	"synopsis":"In the waning days of the American Civil War, a wounded soldier embarks on a perilous journey back home to Cold Mountain, North Carolina to reunite with his sweetheart.",
-	"date":"2003-12-25",
-	"duration":"PT2H34M",
-	"genre":["Adventure","Drama","Romance"],
-	"director":["Anthony Minghella"],
-	"actors":["Jude Law","Nicole Kidman","Renée Zellweger"],
-	"youtube":"",
-	"note":2
 	},
 	{
 	"type":"movie",
@@ -600,19 +640,6 @@
 	},
 	{
 	"type":"movie",
-	"title":"Spider-Man: Into the Spider-Verse",
-	"image": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_.jpg",
-	"synopsis":"Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
-	"date":"2018-12-14",
-	"duration":"PT1H57M",
-	"genre":["Animation","Action","Adventure"],
-	"director":["Bob Persichetti","Peter Ramsey","Rodney Rothman"],
-	"actors":["Shameik Moore","Jake Johnson","Hailee Steinfeld"],
-	"youtube":"",
-	"note":4.5
-	},
-	{
-	"type":"movie",
 	"title":"Ad Astra",
 	"image": "https://m.media-amazon.com/images/M/MV5BZTllZTdlOGEtZTBmMi00MGQ5LWFjN2MtOGEyZTliNGY1MzFiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
 	"synopsis":"Astronaut Roy McBride undertakes a mission across an unforgiving solar system to uncover the truth about his missing father and his doomed expedition that now, 30 years later, threatens the universe.",
@@ -712,19 +739,6 @@
 	"genre":["Drama","Mystery"],
 	"director":["Florian Zeller"],
 	"actors":["Anthony Hopkins","Olivia Colman","Mark Gatiss"],
-	"youtube":"",
-	"note":2.0
-	},
-	{
-	"type":"movie",
-	"title":"Empire of Light",
-	"image": "https://m.media-amazon.com/images/M/MV5BYjM5NzUxOWMtZjhkNC00M2ZmLTk2NzItOTQ1YWI3MGQ1YjBiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
-	"synopsis":"A drama about the power of human connection during turbulent times, set in an English coastal town in the early 1980s.",
-	"date":"2022-12-09",
-	"duration":"PT1H55M",
-	"genre":["Drama","Romance"],
-	"director":["Sam Mendes"],
-	"actors":["Olivia Colman","Micheal Ward","Colin Firth"],
 	"youtube":"",
 	"note":2.0
 	},
@@ -1172,19 +1186,6 @@
 	},
 	{
 	"type":"movie",
-	"title":"Black Swan",
-	"image": "https://m.media-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_.jpg",
-	"synopsis":"A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky&apos;s &quot;Swan Lake&quot;.",
-	"date":"2010-12-17",
-	"duration":"PT1H48M",
-	"genre":["Drama","Thriller"],
-	"director":["Darren Aronofsky"],
-	"actors":["Natalie Portman","Mila Kunis","Vincent Cassel"],
-	"youtube":"",
-	"note":3.5
-	},
-	{
-	"type":"movie",
 	"title":"Little Miss Sunshine",
 	"image": "https://m.media-amazon.com/images/M/MV5BMTgzNTgzODU0NV5BMl5BanBnXkFtZTcwMjEyMjMzMQ@@._V1_.jpg",
 	"synopsis":"A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus.",
@@ -1341,19 +1342,6 @@
 	},
 	{
 	"type":"movie",
-	"title":"The Dead Zone",
-	"image": "https://m.media-amazon.com/images/M/MV5BMDk2ZGVkY2UtZGE0MS00NTY1LThiZjYtYjQxMTAwMjM5M2VlXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg",
-	"synopsis":"A man awakens from a coma to discover he has a psychic ability.",
-	"date":"1983-10-21",
-	"duration":"PT1H43M",
-	"genre":["Drama","Horror","Sci-Fi"],
-	"director":["David Cronenberg"],
-	"actors":["Christopher Walken","Brooke Adams","Tom Skerritt"],
-	"youtube":"",
-	"note":-1.0
-	},
-	{
-	"type":"movie",
 	"title":"Colossus: The Forbin Project",
 	"image": "https://m.media-amazon.com/images/M/MV5BMDdjNzg0OTYtYTAyYy00YzBhLTkxMGYtNTVlNjM3ODNjMzNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
 	"synopsis":"Thinking this will prevent war, the US government gives an impenetrable supercomputer total control over launching nuclear missiles. But what the computer does with the power is unimaginable to its creators.",
@@ -1402,7 +1390,7 @@
 	"director":["Bob Persichetti","Peter Ramsey","Rodney Rothman"],
 	"actors":["Shameik Moore","Jake Johnson","Hailee Steinfeld"],
 	"youtube":"",
-	"note":-1.0
+	"note":4.5
 	},
 	{
 	"type":"movie",
@@ -1909,19 +1897,6 @@
 },
 {
 	"type":"movie",
-	"title":"The Right Stuff",
-	"image": "https://m.media-amazon.com/images/M/MV5BOTUwMDA3MTYtZjhjMi00ODFmLTg5ZTAtYzgwN2NlODgzMmUwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-	"synopsis":"The U.S. space program&apos;s development from the breaking of the sound barrier to selection of the Mercury 7 astronauts, from a group of test pilots with a more seat-of-the-pants approach than the program&apos;s more cautious engineers pr...",
-	"date":"1984-02-17",
-	"duration":"PT3H13M",
-	"genre":["Adventure","Biography","Drama"],
-	"director":["Philip Kaufman"],
-	"actors":["Sam Shepard","Scott Glenn","Ed Harris"],
-	"youtube":"",
-	"note":4.0
-},
-{
-	"type":"movie",
 	"title":"The Abyss",
 	"image": "https://m.media-amazon.com/images/M/MV5BYmU4NmUxZjEtYjY0OC00ZDAwLTg0MGQtMDRkNDk5NWQ0OTQ5XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
 	"synopsis":"A civilian diving team is enlisted to search for a lost nuclear submarine and faces danger while encountering an alien aquatic species.",
@@ -2203,19 +2178,6 @@
 	"genre":["Action","Drama"],
 	"director":["Nicolas Winding Refn"],
 	"actors":["Ryan Gosling","Carey Mulligan","Bryan Cranston"],
-	"youtube":"",
-	"note":5.0
-},
-{
-	"type":"movie",
-	"title":"Four Lions",
-	"image": "https://m.media-amazon.com/images/M/MV5BMTczNDQxNzI0NF5BMl5BanBnXkFtZTcwNDM0NzEwNA@@._V1_.jpg",
-	"synopsis":"Four incompetent British terrorists set out to train for and commit an act of terror.",
-	"date":"2010-05-07",
-	"duration":"PT1H37M",
-	"genre":["Comedy","Crime","Drama"],
-	"director":["Christopher Morris"],
-	"actors":["Will Adamsdale","Riz Ahmed","Adeel Akhtar"],
 	"youtube":"",
 	"note":5.0
 },
