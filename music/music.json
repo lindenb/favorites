@@ -2,6 +2,15 @@
 [
 	{
 	"type":"song",
+	"author":"Gotye",
+	"title":"Somebody That I Used To Know",
+	"year":2011,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=8UVNT4wvIGY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Roger Waters",
 	"title":"Vera / Bring The Boys Back Home (lockdown version)",
 	"year":null,

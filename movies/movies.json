@@ -1,6 +1,136 @@
 [
 	{
 	"type":"movie",
+	"title":"Tout le monde aime Jeanne",
+	"image": "https://m.media-amazon.com/images/M/MV5BMjdkODA0YjMtMGE5My00M2FhLTkyNGQtNjFkODkzMDc0MzM3XkEyXkFqcGdeQXVyNzMxNjI4MjA@._V1_.jpg",
+	"synopsis":"Jeanne is headed to Lisbon with plans to clear her debt by putting her mother&apos;s apartment for sale. At the airport she bumps into Jean, a whimsical and somewhat intrusive former high school friend.",
+	"date":"2023-07-27",
+	"duration":"PT1H35M",
+	"genre":["Comedy","Drama","Romance"],
+	"director":["Céline Devaux"],
+	"actors":["Blanche Gardin","Laurent Lafitte","Maxence Tual"],
+	"youtube":"",
+	"note":3.5
+	},
+	{
+	"type":"movie",
+	"title":"L'audition",
+	"image": "https://m.media-amazon.com/images/M/MV5BMjRkNDgzNmItYzAwZC00ZWE4LTliZjUtM2MyNGU2ODBhYjhjXkEyXkFqcGdeQXVyNTQwMDA5NTg@._V1_.jpg",
+	"synopsis":"Anna Bronsky is a violin teacher at the Conservatoire. Against the advice of her colleagues, she imposes the admission of a pupil, in whom she sees a great talent. With a lot of involvement, she prepares Alexander for the end-of-y...",
+	"date":"2019-11-06",
+	"duration":"PT1H39M",
+	"genre":["Drama","Music"],
+	"director":["Ina Weisse"],
+	"actors":["Nina Hoss","Sophie Rois","Thorsten Merten"],
+	"youtube":"",
+	"note":3.5
+	},
+	{
+	"type":"movie",
+	"title":"Lara Jenkins",
+	"image": "https://m.media-amazon.com/images/M/MV5BOTAxYTk0MjctN2M4YS00ZDA0LWE1MDctNzhiMjA5NjA2MmUwXkEyXkFqcGdeQXVyMjUyNjM3ODE@._V1_.jpg",
+	"synopsis":"It&apos;s Lara&apos;s 60th birthday, and this very evening, her son will be giving his debut piano concert. Lara mapped out his musical career. But Lara is not welcome at his debut performance. Even if Lara engages, everything gets out of c...",
+	"date":"2019-11-07",
+	"duration":"PT1H38M",
+	"genre":["Drama","Music"],
+	"director":["Jan-Ole Gerster"],
+	"actors":["Corinna Harfouch","Johann von Bülow","Alexander Khuon"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Première année",
+	"image": "https://m.media-amazon.com/images/M/MV5BNTdjZDdiY2YtYjUwNi00M2JjLWE5ZDMtNGY3NThlMTM2ZDJhXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_.jpg",
+	"synopsis":"Friendship sparks between newcomer Benjamin and held-back Antoine during the first year of medical school.",
+	"date":"2019-01-11",
+	"duration":"PT1H32M",
+	"genre":["Comedy","Drama"],
+	"director":["Thomas Lilti"],
+	"actors":["Vincent Lacoste","William Lebghil","Michel Lerousseau"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"La fille au bracelet",
+	"image": "https://m.media-amazon.com/images/M/MV5BNDlmNDRjMTYtNWRkOC00YjMxLTg5ODYtMzM0YzU3YTBmODNhXkEyXkFqcGdeQXVyNzExNDQ2NDM@._V1_.jpg",
+	"synopsis":"A teenager stands trial for murdering her best friend.",
+	"date":"2020-06-19",
+	"duration":"PT1H35M",
+	"genre":["Crime","Drama"],
+	"director":["Stéphane Demoustier"],
+	"actors":["Roschdy Zem","Chiara Mastroianni","Melissa Guers"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"JFK",
+	"image": "https://m.media-amazon.com/images/M/MV5BYjYyODExMDctZjgwYy00ZjQwLWI4OWYtOGFlYjA4ZjEzNmY1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+	"synopsis":"New Orleans District Attorney Jim Garrison discovers there&apos;s more to the Kennedy assassination than the official story.",
+	"date":"1991-12-20",
+	"duration":"PT3H9M",
+	"genre":["Drama","History","Thriller"],
+	"director":["Oliver Stone"],
+	"actors":["Kevin Costner","Gary Oldman","Jack Lemmon"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"The Great Dictator",
+	"image": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+	"synopsis":"Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel&apos;s regime.",
+	"date":"1941-03-07",
+	"duration":"PT2H5M",
+	"genre":["Comedy","Drama","War"],
+	"director":["Charles Chaplin"],
+	"actors":["Charles Chaplin","Paulette Goddard","Jack Oakie"],
+	"youtube":"",
+	"note":5.0
+	},
+	{
+	"type":"movie",
+	"title":"Duel",
+	"image": "https://m.media-amazon.com/images/M/MV5BNzRkNjE4NjQtZTQ2NC00YTg1LThiZTMtNmRhYmQzODBlMDc2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+	"synopsis":"A business commuter is pursued and terrorized by the malevolent driver of a massive tractor-trailer.",
+	"date":"1971-11-13",
+	"duration":"PT1H30M",
+	"genre":["Action","Thriller"],
+	"director":["Steven Spielberg"],
+	"actors":["Dennis Weaver","Jacqueline Scott","Eddie Firestone"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Stargate",
+	"image": "https://m.media-amazon.com/images/M/MV5BYWEyYTQzNzQtZTg5OS00NDhkLTg1NjYtMzA5Y2MyYjYzNWQ5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+	"synopsis":"An interstellar teleportation device, found in Egypt, leads to a planet with humans resembling ancient Egyptians who worship the god Ra.",
+	"date":"1994-10-28",
+	"duration":"PT1H56M",
+	"genre":["Action","Adventure","Sci-Fi"],
+	"director":["Roland Emmerich"],
+	"actors":["Kurt Russell","James Spader","Jaye Davidson"],
+	"youtube":"",
+	"note":2.0
+	},
+	{
+	"type":"movie",
+	"title":"Les patriotes",
+	"image": "https://m.media-amazon.com/images/M/MV5BMWZkZGNiYjAtOGY5NC00MGQxLWEwODMtYjdiODc0MDQ4YmM2XkEyXkFqcGdeQXVyNzgzODI1OTE@._V1_.jpg",
+	"synopsis":"At 18, Ariel Brenner leaves Paris and his family to live in Israel. He secretly joins the Mossad, the Isreali secret service. After years of training, his first mission is in Paris to steal secrets from Remy Prieur, a French atomi...",
+	"date":"1994-06-01",
+	"duration":"PT2H18M",
+	"genre":["Thriller"],
+	"director":["Eric Rochant"],
+	"actors":["Yvan Attal","Richard Masur","Allen Garfield"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
 	"title":"La voie royale",
 	"image": "https://m.media-amazon.com/images/M/MV5BZjA4OTNlZDEtMGExYi00NDMxLWJjZDMtNWJkYTQ2NjQwODRjXkEyXkFqcGdeQXVyMDA5MDg4Nw@@._V1_.jpg",
 	"synopsis":"Sophie excels at academics. She leaves the family farm to attend a scientific prep class, but when faced with new challenges, she discovers that her desire of attending the Polytechnique is a genuine struggle of social ascent.",
@@ -1403,7 +1533,7 @@
 	"director":["Quentin Tarantino"],
 	"actors":["Uma Thurman","David Carradine","Daryl Hannah"],
 	"youtube":"",
-	"note":-1.0
+	"note":5.0
 	},
 	{
 	"type":"movie",
@@ -1416,7 +1546,7 @@
 	"director":["Damien Chazelle"],
 	"actors":["Miles Teller","J.K. Simmons","Melissa Benoist"],
 	"youtube":"",
-	"note":-1.0
+	"note":5.0
 	},
 	{
 	"type":"movie",
@@ -1429,7 +1559,7 @@
 	"director":["Jim Jarmusch"],
 	"actors":["Forest Whitaker","Henry Silva","John Tormey"],
 	"youtube":"",
-	"note":-1.0
+	"note":3.5
 	},
 	{
 	"type":"movie",
@@ -1442,7 +1572,7 @@
 	"director":["James Mangold"],
 	"actors":["Sylvester Stallone","Harvey Keitel","Ray Liotta"],
 	"youtube":"",
-	"note":-1.0
+	"note":3.0
 	},
 	{
 	"type":"movie",
@@ -1455,7 +1585,7 @@
 	"director":["Alan Parker"],
 	"actors":["Eddie Barth","Irene Cara","Lee Curreri"],
 	"youtube":"",
-	"note":-1.0
+	"note":3.0
 	},
 	{
 	"type":"movie",
@@ -1468,7 +1598,7 @@
 	"director":["Alan Parker"],
 	"actors":["Gene Hackman","Willem Dafoe","Frances McDormand"],
 	"youtube":"",
-	"note":-1.0
+	"note":3.0
 	},
 	{
 	"type":"movie",
@@ -1481,7 +1611,7 @@
 	"director":["Alan Parker"],
 	"actors":["Bob Geldof","Christine Hargreaves","James Laurenson"],
 	"youtube":"",
-	"note":-1.0
+	"note":4.0
 	},
 	{
 	"type":"movie",
@@ -1494,7 +1624,7 @@
 	"director":["Bryan Singer"],
 	"actors":["Rami Malek","Lucy Boynton","Gwilym Lee"],
 	"youtube":"",
-	"note":-1.0
+	"note":4.0
 	},
 	{
 	"type":"movie",
@@ -1520,7 +1650,7 @@
 	"director":["Gilles Lellouche"],
 	"actors":["Mathieu Amalric","Guillaume Canet","Benoît Poelvoorde"],
 	"youtube":"",
-	"note":-1.0
+	"note":4.0
 	},
 	{
 	"type":"movie",
@@ -1533,7 +1663,7 @@
 	"director":["Olivier Nakache","Éric Toledano"],
 	"actors":["Jean-Pierre Bacri","Jean-Paul Rouve","Gilles Lellouche"],
 	"youtube":"",
-	"note":-1.0
+	"note":4.0
 	},
 	{
 	"type":"movie",
@@ -1546,7 +1676,7 @@
 	"director":["Cédric Klapisch"],
 	"actors":["Jean-Pierre Bacri","Jean-Pierre Darroussin","Catherine Frot"],
 	"youtube":"",
-	"note":-1.0
+	"note":4.0
 	},
 	{
 	"type":"movie",
@@ -1559,7 +1689,7 @@
 	"director":["Agnès Jaoui"],
 	"actors":["Anne Alvaro","Jean-Pierre Bacri","Alain Chabat"],
 	"youtube":"",
-	"note":-1.0
+	"note":4.0
 	},
 	{
 	"type":"movie",
@@ -1572,7 +1702,7 @@
 	"director":["Zabou Breitman"],
 	"actors":["Isabelle Carré","Bernard Campan","Bernard Le Coq"],
 	"youtube":"",
-	"note":-1.0
+	"note":3.0
 	},
 	{
 	"type":"movie",
@@ -1585,7 +1715,7 @@
 	"director":["Jean-Pierre Améris"],
 	"actors":["Benoît Poelvoorde","Isabelle Carré","Lorella Cravotta"],
 	"youtube":"",
-	"note":-1.0
+	"note":2.5
 	},
 	{
 	"type":"movie",
@@ -1598,9 +1728,9 @@
 	"director":["Rémy Belvaux","André Bonzel","Benoît Poelvoorde"],
 	"actors":["Benoît Poelvoorde","Jacqueline Poelvoorde-Pappaert","Nelly Pappaert"],
 	"youtube":"",
-	"note":-1.0
+	"note":4.0
 	},
-		{
+	{
 	"type":"movie",
 	"title":"Le salaire de la peur",
 	"image": "https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
@@ -1624,7 +1754,7 @@
 	"director":["Pierre Salvadori"],
 	"actors":["Adèle Haenel","Pio Marmaï","Audrey Tautou"],
 	"youtube":"",
-	"note":-1.0
+	"note":4.0
 	},
 	{
 	"type":"movie",
@@ -1637,7 +1767,7 @@
 	"director":["Jean-Pierre Jeunet"],
 	"actors":["Audrey Tautou","Mathieu Kassovitz","Rufus"],
 	"youtube":"",
-	"note":-1.0
+	"note":4.0
 	},
 	{
 	"type":"movie",
@@ -1650,7 +1780,7 @@
 	"director":["Marc Caro","Jean-Pierre Jeunet"],
 	"actors":["Ron Perlman","Daniel Emilfork","Judith Vittet"],
 	"youtube":"",
-	"note":-1.0
+	"note":3.0
 	},
 	{
 	"type":"movie",
@@ -1663,7 +1793,7 @@
 	"director":["Alain Resnais"],
 	"actors":["Gérard Depardieu","Nicole Garcia","Roger Pierre"],
 	"youtube":"",
-	"note":-1.0
+	"note":3.0
 	},
 	{
 	"type":"movie",
@@ -1676,7 +1806,7 @@
 	"director":["Marc Caro","Jean-Pierre Jeunet"],
 	"actors":["Marie-Laure Dougnac","Dominique Pinon","Pascal Benezech"],
 	"youtube":"",
-	"note":-1.0
+	"note":3.0
 	},
 	{
 	"type":"movie",
@@ -1689,7 +1819,7 @@
 	"director":["Pedro Almodóvar"],
 	"actors":["Cecilia Roth","Marisa Paredes","Candela Peña"],
 	"youtube":"",
-	"note":-1.0
+	"note":5.0
 	},
 	{
 	"type":"movie",
@@ -1702,7 +1832,7 @@
 	"director":["Gérard Oury"],
 	"actors":["Louis de Funès","Yves Montand","Alice Sapritch"],
 	"youtube":"",
-	"note":-1.0
+	"note":5.0
 	},
 	{
 	"type":"movie",
@@ -1715,7 +1845,7 @@
 	"director":["Claude Zidi"],
 	"actors":["Jacques Villeret","Thierry Lhermitte"],
 	"youtube":"",
-	"note":-1.0
+	"note":4.5
 	},
 	{
 	"type":"movie",
@@ -1728,7 +1858,7 @@
 	"director":["Giuseppe Tornatore"],
 	"actors":["Philippe Noiret","Enzo Cannavale","Antonella Attili"],
 	"youtube":"",
-	"note":-1.0
+	"note":5.0
 	},
 	{
 	"type":"movie",
@@ -1741,7 +1871,7 @@
 	"director":["Claude Zidi"],
 	"actors":["Philippe Noiret","Thierry Lhermitte","Régine"],
 	"youtube":"",
-	"note":-1.0
+	"note":3.5
 	},
 	{
 	"type":"movie",
@@ -1754,7 +1884,7 @@
 	"director":["Andrew Niccol"],
 	"actors":["Ethan Hawke","Uma Thurman","Jude Law"],
 	"youtube":"",
-	"note":-1.0
+	"note":5.0
 	},
 {
 	"type":"movie",
@@ -1767,8 +1897,8 @@
 	"director":["David Lean"],
 	"actors":["Peter O&apos;Toole","Alec Guinness","Anthony Quinn"],
 	"youtube":""
-},
-{
+	},
+	{
 	"type":"movie",
 	"title":"Birdman or (The Unexpected Virtue of Ignorance)",
 	"image": "https://m.media-amazon.com/images/M/MV5BODAzNDMxMzAxOV5BMl5BanBnXkFtZTgwMDMxMjA4MjE@._V1_.jpg",
@@ -1778,9 +1908,10 @@
 	"genre":["Comedy","Drama"],
 	"director":["Alejandro G. Iñárritu"],
 	"actors":["Michael Keaton","Zach Galifianakis","Edward Norton"],
-	"youtube":""
-},
-{
+	"youtube":"",
+	"note":5.0
+	},
+	{
 	"type":"movie",
 	"title":"Spotlight",
 	"image": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_.jpg",
@@ -1790,9 +1921,10 @@
 	"genre":["Biography","Crime","Drama"],
 	"director":["Tom McCarthy"],
 	"actors":["Mark Ruffalo","Michael Keaton","Rachel McAdams"],
-	"youtube":""
-},
-{
+	"youtube":"",
+	"note":5.0
+	},
+	{
 	"type":"movie",
 	"title":"Avengers: Endgame",
 	"image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
