@@ -2,6 +2,15 @@
 [
 	{
 	"type":"song",
+	"author":"PROCOL HARUM",
+	"title":"A Whiter Shade of Pale - STEREO",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=CJxpKlTID2Q",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Gotye",
 	"title":"Somebody That I Used To Know",
 	"year":2011,
