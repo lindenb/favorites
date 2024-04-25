@@ -1,5 +1,24 @@
 
 [
+{
+	"type":"song",
+	"author":"ADRIANO CELENTANO",
+	"title":"Prisencolinensinainciusol",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=4C2wat_8VyI",
+	"playlist":[""]
+	},
+
+	{
+	"type":"song",
+	"author":"Ouin Ouin boogie",
+	"title":"Ouin Ouin boogie",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=0iaCW7vKJ2o",
+	"playlist":[""]
+	},
 	{
 	"type":"song",
 	"author":"PROCOL HARUM",
