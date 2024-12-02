@@ -1,5 +1,13 @@
-
 [
+	{
+	"type":"song",
+	"author":"Marcel Amont",
+	"title":"L'Amour Ca Fait Passer Le Temps",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=XDgQmJR6ayQ",
+	"playlist":["60s","France","Variete"]
+	},
 	{
 	"type":"song",
 	"author":"David Bowie",

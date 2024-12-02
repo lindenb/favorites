@@ -1,6 +1,268 @@
 [
 	{
 	"type":"movie",
+	"title":"Quand les aigles attaquent",
+	"image": "https://m.media-amazon.com/images/M/MV5BNzY1YjdjM2EtOThhOS00YzUyLWFjODUtZTNjNmJmNTFjNWVmXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"Allied agents stage a daring raid on a castle where the Nazis are holding American brigadier general George Carnaby prisoner, but that&apos;s not all that&apos;s really going on.",
+	"date":"1969-03-12",
+	"duration":"PT2H38M",
+	"genre":["Action","Adventure","War"],
+	"director":["Brian G. Hutton"],
+	"actors":["Richard Burton","Clint Eastwood","Mary Ure"],
+	"youtube":"",
+	"note":-1.0
+	},
+	{
+	"type":"movie",
+	"title":"Antoinette dans les Cévennes",
+	"image": "https://m.media-amazon.com/images/M/MV5BNmNmYmJjZmQtNTlkYi00ZGZjLWI3NTItOWY2NTRmY2QzZjk5XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"A schoolteacher crashes her married lover&apos;s family vacation and befriends a donkey named Patrick.",
+	"date":"2020-09-16",
+	"duration":"PT1H36M",
+	"genre":["Adventure","Comedy","Romance"],
+	"director":["Caroline Vignal"],
+	"actors":["Laure Calamy","Benjamin Lavernhe","Olivia Côte"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"The Imitation Game",
+	"image": "https://m.media-amazon.com/images/M/MV5BNjI3NjY1Mjg3MV5BMl5BanBnXkFtZTgwMzk5MDQ3MjE@._V1_.jpg",
+	"synopsis":"During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians while attempting to come to terms with his troubled private life.",
+	"date":"2014-12-25",
+	"duration":"PT1H54M",
+	"genre":["Biography","Drama","Thriller"],
+	"director":["Morten Tyldum"],
+	"actors":["Benedict Cumberbatch","Keira Knightley","Matthew Goode"],
+	"youtube":"",
+	"note":-1.0
+	},
+	{
+	"type":"movie",
+	"title":"The Curious Birth of Benjamin Button",
+	"image": "https://m.media-amazon.com/images/M/MV5BNmEwYzRkNDUtZjZmMi00ODdhLWI1YmEtZGU0NTg1YzgzYjBhXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"A documentary about the making of David Fincher&apos;s 2008 film The Curious Case of Benjamin Button. The documentary follows the project&apos;s beginning during the 1990s, filming on location in New Orleans, and its complex CGI post-produc...",
+	"date":"2009-05-05",
+	"duration":"PT2H55M",
+	"genre":["Documentary"],
+	"director":["David Prior"],
+	"actors":["David Fincher","Kathleen Kennedy","Joshua Donen"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Hidden Figures",
+	"image": "https://m.media-amazon.com/images/M/MV5BY2RhNDRhNzctZTllMy00NTc2LWJjZmUtMzg3MTNiNjhhODMxXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"Three female African-American mathematicians play a pivotal role in astronaut John Glenn&apos;s launch into orbit. Meanwhile, they also have to deal with racial and gender discrimination at work.",
+	"date":"2017-01-06",
+	"duration":"PT2H7M",
+	"genre":["Biography","Drama","History"],
+	"director":["Theodore Melfi"],
+	"actors":["Taraji P. Henson","Octavia Spencer","Janelle Monáe"],
+	"youtube":"",
+	"note":3.5
+	},
+	{
+	"type":"movie",
+	"title":"Cible émouvante",
+	"image": "https://m.media-amazon.com/images/M/MV5BOTMxNjVkNzEtNzlhZS00MzJiLTkxZDQtODlkYmUxYmNjZmU4XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"Into the solitary life of middle-aged hitman Victor Meynard come two people: Antoine, a youth who becomes Victor&apos;s apprentice; and Renée, a bold thief Victor&apos;s been hired to kill because she cheated a mobster. When circumstances p...",
+	"date":"1993-12-17",
+	"duration":"PT1H27M",
+	"genre":["Comedy","Drama","Crime"],
+	"director":["Pierre Salvadori"],
+	"actors":["Jean Rochefort","Marie Trintignant","Guillaume Depardieu"],
+	"youtube":"",
+	"note":-1.0
+	},
+	{
+	"type":"movie",
+	"title":"Boîte noire",
+	"image": "https://m.media-amazon.com/images/M/MV5BMzNlZTliMzYtYzIwNC00YmJiLWFmMmEtZjRjNWNmY2JhMjFjXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"A young and talented black box analyst is on a mission to solve the reason behind the deadly crash of a brand new aircraft.",
+	"date":"2021-09-08",
+	"duration":"PT2H9M",
+	"genre":["Drama","Mystery","Thriller"],
+	"director":["Yann Gozlan"],
+	"actors":["Pierre Niney","Lou de Laâge","André Dussollier"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Illusions perdues",
+	"image": "https://m.media-amazon.com/images/M/MV5BZGRlZGZmYWUtZmJhMS00Njc2LTgyNDctMmFlZjdhMzU0NDE2XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"Lucien de Rubempré, a young, lower-class poet, leaves his family&apos;s printing house for Paris. Soon, he learns the dark side of the arts business as he tries to stay true to his dreams.",
+	"date":"2022-11-18",
+	"duration":"PT2H29M",
+	"genre":["Drama","Romance"],
+	"director":["Xavier Giannoli"],
+	"actors":["Benjamin Voisin","Cécile de France","Vincent Lacoste"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"L'étroit Mousquetaire",
+	"image": "https://m.media-amazon.com/images/M/MV5BNmFmMTM3ZjAtOWVhMC00ZDMxLThiZDQtYWM0NDAzMzg2NDQ4XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"This delightful burlesque of Alexandre Dumas&apos; famous adventure narrative (and then-leading screen swashbuckler Douglas Fairbanks&apos; hit films) represented one of writer/director/star Max Linder&apos;s attempts to conquer Hollywood on its...",
+	"date":"1922-08-27",
+	"duration":"PT58M",
+	"genre":["Action","Adventure","Comedy"],
+	"director":["Max Linder"],
+	"actors":["Max Linder","Bull Montana","Frank Cooke"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Sitcom",
+	"image": "https://m.media-amazon.com/images/M/MV5BMDgyMDYwNWQtMWUxYS00ZGYxLWI4ZWEtNzA4YjFhODM2Nzg2XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"The adventures of an upper-class suburban family dealing with their younger brother&apos;s homosexuality, elder sister&apos;s suicide attempt, masochist tendencies, and a free-spirited maid and her husband.",
+	"date":"1998-05-27",
+	"duration":"PT1H25M",
+	"genre":["Comedy","Drama","Romance"],
+	"director":["François Ozon"],
+	"actors":["Évelyne Dandry","François Marthouret","Marina de Van"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Despicable Me",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_.jpg",
+	"synopsis":"Gru, a criminal mastermind, adopts three orphans as pawns to carry out the biggest heist in history. His life takes an unexpected turn when the little girls see the evildoer as their potential father.",
+	"date":"2010-07-09",
+	"duration":"PT1H35M",
+	"genre":["Animation","Adventure","Comedy"],
+	"director":["Pierre Coffin","Chris Renaud"],
+	"actors":["Steve Carell","Jason Segel","Russell Brand"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Airplane!",
+	"image": "https://m.media-amazon.com/images/M/MV5BNGMxMDRhMjItMDNlZi00MDIzLWE5MDQtODljMDQ3MWM1Y2E4XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"After the crew becomes sick with food poisoning, a neurotic ex-fighter pilot must safely land a commercial airplane full of passengers.",
+	"date":"1980-07-02",
+	"duration":"PT1H28M",
+	"genre":["Comedy"],
+	"director":["Jim Abrahams","David Zucker","Jerry Zucker"],
+	"actors":["Robert Hays","Julie Hagerty","Leslie Nielsen"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"La cabina",
+	"image": "https://m.media-amazon.com/images/M/MV5BNjI3NjUwNjItYzMwMy00MzdjLWEzMDMtMzI5Yjc0NzE0MmRhXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"A man gets trapped inside a telephone box and nobody is able to free him.",
+	"date":"1972-12-13",
+	"duration":"PT35M",
+	"genre":["Short","Drama","Horror"],
+	"director":["Antonio Mercero"],
+	"actors":["José Luis López Vázquez","Agustín González","Goyo Lebrero"],
+	"youtube":"https://www.youtube.com/watch?v=bKkfGG9q32c",
+	"note":5.0
+	},
+
+	{
+	"type":"movie",
+	"title":"Boîte noire",
+	"image": "https://m.media-amazon.com/images/M/MV5BMzNlZTliMzYtYzIwNC00YmJiLWFmMmEtZjRjNWNmY2JhMjFjXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"A young and talented black box analyst is on a mission to solve the reason behind the deadly crash of a brand new aircraft.",
+	"date":"2021-09-08",
+	"duration":"PT2H9M",
+	"genre":["Drama","Mystery","Thriller"],
+	"director":["Yann Gozlan"],
+	"actors":["Pierre Niney","Lou de Laâge","André Dussollier"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Novembre",
+	"image": "https://m.media-amazon.com/images/M/MV5BYmJlNmVmYmItMDU2Yi00OGE3LWE2ZWEtMzk3NjQxNzA4MDM3XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"5 days into the heart of the French anti-terrorism services during the hunt for suspects after the 13/11/2015 attacks in Paris.",
+	"date":"2022-10-05",
+	"duration":"PT1H46M",
+	"genre":["Crime","Drama","Thriller"],
+	"director":["Cédric Jimenez"],
+	"actors":["Jean Dujardin","Anaïs Demoustier","Sandrine Kiberlain"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"How to Train Your Dragon",
+	"image": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_.jpg",
+	"synopsis":"A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+	"date":"2010-03-26",
+	"duration":"PT1H38M",
+	"genre":["Animation","Action","Adventure"],
+	"director":["Dean DeBlois","Chris Sanders"],
+	"actors":["Jay Baruchel","Gerard Butler","Christopher Mintz-Plasse"],
+	"youtube":"https://www.youtube.com/watch?v=ZDyEERuK31Y",
+	"note":4.0
+	},
+
+	{
+	"type":"movie",
+	"title":"Coco",
+	"image": "https://m.media-amazon.com/images/M/MV5BMDIyM2E2NTAtMzlhNy00ZGUxLWI1NjgtZDY5MzhiMDc5NGU3XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"Aspiring musician Miguel, confronted with his family&apos;s ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+	"date":"2017-11-22",
+	"duration":"PT1H45M",
+	"genre":["Animation","Adventure","Drama"],
+	"director":["Lee Unkrich","Adrian Molina"],
+	"actors":["Anthony Gonzalez","Gael García Bernal","Benjamin Bratt"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Zootopia",
+	"image": "https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_.jpg",
+	"synopsis":"In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.",
+	"date":"2016-03-04",
+	"duration":"PT1H48M",
+	"genre":["Animation","Action","Adventure"],
+	"director":["Byron Howard","Rich Moore","Jared Bush"],
+	"actors":["Ginnifer Goodwin","Jason Bateman","Idris Elba"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Ratatouille",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_.jpg",
+	"synopsis":"A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
+	"date":"2007-06-27",
+	"duration":"PT1H51M",
+	"genre":["Animation","Adventure","Comedy"],
+	"director":["Brad Bird","Jan Pinkava"],
+	"actors":["Brad Garrett","Lou Romano","Patton Oswalt"],
+	"youtube":"",
+	"note":-1.0
+	},
+	{
+	"type":"movie",
+	"title":"Le couperet",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTc3MDAzNjYxNF5BMl5BanBnXkFtZTgwOTIzMDA2MDE@._V1_.jpg",
+	"synopsis":"A chemist (Garcia) loses his job to outsourcing. Two years later and still jobless, he hits on a solution: to genuinely eliminate his competition.",
+	"date":"2005-03-02",
+	"duration":"PT1H57M",
+	"genre":["Comedy","Crime","Drama"],
+	"director":["Costa-Gavras"],
+	"actors":["José Garcia","Karin Viard","Geordy Couturiau"],
+	"youtube":"",
+	"note":3.0
+	},
+	{
+	"type":"movie",
 	"title":"La daronne",
 	"image": "https://m.media-amazon.com/images/M/MV5BMzBlNDdhN2ItNWJkMS00OThlLThhOTUtZThiOWYyN2YyMWJkXkEyXkFqcGc@._V1_.jpg",
 	"synopsis":"A translator working for the police gets involved in the other side of drug dealing.",
@@ -207,6 +469,7 @@
 	"youtube":"",
 	"note":3.0
 	},
+
 	{
 	"type":"movie",
 	"title":"Les hirondelles de Kaboul",
@@ -375,6 +638,19 @@
 	"actors":["Payman Maadi","Navid Mohammadzadeh","Parinaz Izadyar"],
 	"youtube":"",
 	"note":3.0
+	},
+	{
+	"type":"movie",
+	"title":"Vanilla Sky",
+	"image": "https://m.media-amazon.com/images/M/MV5BNTg5YmYyMzAtYmEzZi00MzA2LWIxMTMtZTc1N2ZjNTA3ZDU2XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"A self-indulgent and vain publishing magnate finds his privileged life upended after a vehicular accident with a resentful lover.",
+	"date":"2001-12-14",
+	"duration":"PT2H16M",
+	"genre":["Fantasy","Mystery","Romance"],
+	"director":["Cameron Crowe"],
+	"actors":["Tom Cruise","Penélope Cruz","Cameron Diaz"],
+	"youtube":"",
+	"note":-1.0
 	},
 	{
 	"type":"movie",
@@ -1142,7 +1418,7 @@
 	"genre":["Biography","Drama","Western"],
 	"director":["John Sturges"],
 	"actors":["Burt Lancaster","Kirk Douglas","Rhonda Fleming"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=5iVp5GPXLkE",
 	"note":3.0
 	},
 	{
@@ -1168,7 +1444,7 @@
 	"genre":["Action","Crime","Drama"],
 	"director":["Clint Eastwood"],
 	"actors":["Clint Eastwood","Gene Hackman","Ed Harris"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=5OzynRDuUf4",
 	"note":4.5
 	},
 	{
@@ -1181,7 +1457,7 @@
 	"genre":["Adventure","Biography","Drama"],
 	"director":["Philip Kaufman"],
 	"actors":["Sam Shepard","Scott Glenn","Ed Harris"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=ElzIPn1pXWE",
 	"note":4.5
 	},
 	{
@@ -1194,7 +1470,7 @@
 	"genre":["Drama","Romance"],
 	"director":["Stephen Daldry"],
 	"actors":["Meryl Streep","Nicole Kidman","Julianne Moore"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=TZJCVilXbjQ",
 	"note":4.0
 	},
 	{
@@ -1207,7 +1483,7 @@
 	"genre":["Drama","Mystery","Sci-Fi"],
 	"director":["Robert Zemeckis"],
 	"actors":["Jodie Foster","Matthew McConaughey","Tom Skerritt"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=EWwhQB3TKXA",
 	"note":4.5
 	},
 	{
@@ -1221,7 +1497,7 @@
 	"director":["Martin Bourboulon"],
 	"actors":["François Civil","Vincent Cassel","Romain Duris"],
 	"youtube":"",
-	"note":4.0
+	"note":3.0
 	},
 	{
 	"type":"movie",
@@ -1233,7 +1509,7 @@
 	"genre":["Drama","Romance"],
 	"director":["Sofia Coppola"],
 	"actors":["Kirsten Dunst","Josh Hartnett","James Woods"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=NAgX1jO3No0",
 	"note":4.0
 	},
 	{
@@ -1246,7 +1522,7 @@
 	"genre":["Crime","Drama","Thriller"],
 	"director":["Gus Van Sant"],
 	"actors":["Elias McConnell","Alex Frost","Eric Deulen"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=LLakpFFOsUI",
 	"note":4.0
 	},
 	{
@@ -1259,7 +1535,7 @@
 	"genre":["Crime","Drama","Romance"],
 	"director":["Danny Boyle","Loveleen Tandan"],
 	"actors":["Dev Patel","Freida Pinto","Saurabh Shukla"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=AIzbwV7on6Q",
 	"note":3.5
 	},
 	{
@@ -1272,7 +1548,7 @@
 	"genre":["Drama","Thriller"],
 	"director":["Darren Aronofsky"],
 	"actors":["Natalie Portman","Mila Kunis","Vincent Cassel"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=5jaI1XOB-bs",
 	"note":4.0
 	},
 	{
@@ -1298,7 +1574,7 @@
 	"genre":["Drama","Horror","Sci-Fi"],
 	"director":["Jeff Nichols"],
 	"actors":["Michael Shannon","Jessica Chastain","Shea Whigham"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=hUraDx3oFVg",
 	"note":4.0
 	},
 	{
@@ -1324,7 +1600,7 @@
 	"genre":["Drama","Mystery","Romance"],
 	"director":["Steven Soderbergh"],
 	"actors":["George Clooney","Natascha McElhone","Ulrich Tukur"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=rvm7WMbXfeY",
 	"note":4.0
 	},
 	{
@@ -1337,7 +1613,7 @@
 	"genre":["Action","Adventure","Sci-Fi"],
 	"director":["Richard Donner"],
 	"actors":["Christopher Reeve","Margot Kidder","Gene Hackman"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=Rk1aQx9hTaE",
 	"note":4.0
 	},
 	{
@@ -1350,7 +1626,7 @@
 	"genre":["Comedy","Drama"],
 	"director":["Peter Cattaneo"],
 	"actors":["Robert Carlyle","Tom Wilkinson","Mark Addy"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=eVizC0J0bHw",
 	"note":4.0
 	},
 	{
@@ -1363,7 +1639,7 @@
 	"genre":["Comedy","Crime","Drama"],
 	"director":["Christopher Morris"],
 	"actors":["Will Adamsdale","Riz Ahmed","Adeel Akhtar"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=VML_-7n7NIc",
 	"note":5.0
 	},
 	{
@@ -1454,7 +1730,7 @@
 	"genre":["Mystery","Thriller"],
 	"director":["Christopher Nolan"],
 	"actors":["Guy Pearce","Carrie-Anne Moss","Joe Pantoliano"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=4CV41hoyS8A",
 	"note":5
 	},
 	{
@@ -1506,7 +1782,7 @@
 	"genre":["Crime","Drama","Mystery"],
 	"director":["François Ozon"],
 	"actors":["Charlotte Rampling","Charles Dance","Ludivine Sagnier"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=0ChnAk6mD8I",
 	"note":4
 	},
 	{
@@ -1519,7 +1795,7 @@
 	"genre":["Comedy","Drama","Romance"],
 	"director":["Cédric Klapisch"],
 	"actors":["Romain Duris","Judith Godrèche","Kelly Reilly"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=9q40H9FQobE",
 	"note":5
 	},
 	{
@@ -1532,7 +1808,7 @@
 	"genre":["Comedy","Drama","Romance"],
 	"director":["Michel Leclerc"],
 	"actors":["Sara Forestier","Jacques Gamblin","Zinedine Soualem"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=qXjH64Wu2gY",
 	"note":5.0
 	},
 	{
@@ -1545,7 +1821,7 @@
 	"genre":["Action","Adventure","Comedy"],
 	"director":["Christian-Jaque"],
 	"actors":["Alain Delon","Virna Lisi","Dawn Addams"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=BUhYFBOtFPs",
 	"note":3.0
 	},
 	{
@@ -1558,7 +1834,7 @@
 	"genre":["Drama","Thriller"],
 	"director":["Stephen Frears","Martin Pasetta"],
 	"actors":["Walter Cronkite","Richard Dreyfuss","Noah Wyle"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=p-6xcIUwPto",
 	"note":3.5
 	},
 	{
@@ -1571,7 +1847,7 @@
 	"genre":["Short","Drama","Romance"],
 	"director":["Chris Marker"],
 	"actors":["Étienne Becker","Jean Négroni","Hélène Chatelain"],
-	"youtube":"",
+	"youtube":" https://www.youtube.com/watch?v=WstrUci5Fbg",
 	"note":5.0
 	},
 	{
@@ -1584,7 +1860,7 @@
 	"genre":["Comedy","Crime","Drama"],
 	"director":["George Roy Hill"],
 	"actors":["Paul Newman","Robert Redford","Robert Shaw"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=_nAIb_J9T5M",
 	"note":3.0
 	},
 	{
@@ -1597,7 +1873,7 @@
 	"genre":["Action","Drama"],
 	"director":["Akira Kurosawa"],
 	"actors":["Toshirô Mifune","Takashi Shimura","Keiko Tsushima"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=1XMJY0hYJEw",
 	"note":5.0
 	},
 	{
@@ -1610,7 +1886,7 @@
 	"genre":["Action","Adventure","Drama"],
 	"director":["John Sturges"],
 	"actors":["Yul Brynner","Steve McQueen","Charles Bronson"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=yulmgTcGLZw",
 	"note":4.0
 	},
 	{
@@ -1623,7 +1899,7 @@
 	"genre":["Horror","Mystery","Thriller"],
 	"director":["Alfred Hitchcock"],
 	"actors":["Anthony Perkins","Janet Leigh","Vera Miles"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=DTJQfFQ40lI",
 	"note":4.0
 	},
 	{
@@ -1636,7 +1912,7 @@
 	"genre":["Fantasy","Horror","Thriller"],
 	"director":["Paul Schrader"],
 	"actors":["Nastassja Kinski","Malcolm McDowell","John Heard"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=GGxRZAog8jg",
 	"note":3.0
 	},
 	{
@@ -1649,7 +1925,7 @@
 	"genre":["Drama","Horror","Sci-Fi"],
 	"director":["David Cronenberg"],
 	"actors":["Christopher Walken","Brooke Adams","Tom Skerritt"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=qxJp_VQ5VUk",
 	"note":3.0
 	},
 	{
@@ -1662,7 +1938,7 @@
 	"genre":["Adventure","Comedy","Drama"],
 	"director":["Arthur Penn"],
 	"actors":["Dustin Hoffman","Faye Dunaway","Chief Dan George"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=vO_v1HtY2lw",
 	"note":5.0
 	},
 	{
@@ -1805,7 +2081,7 @@
 	"genre":["Action","Adventure","Comedy"],
 	"director":["James Gunn"],
 	"actors":["Chris Pratt","Vin Diesel","Bradley Cooper"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=d96cjJhvlMA",
 	"note":4.0
 	},
 	{
@@ -1818,7 +2094,7 @@
 	"genre":["Action","Adventure","Thriller"],
 	"director":["Renny Harlin"],
 	"actors":["Sylvester Stallone","John Lithgow","Michael Rooker"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=PDakRdYKSaA",
 	"note":3.0
 	},
 	{
@@ -1870,7 +2146,7 @@
 	"genre":["Action","Comedy","Fantasy"],
 	"director":["Edgar Wright"],
 	"actors":["Michael Cera","Mary Elizabeth Winstead","Kieran Culkin"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=KZ5kjjk-J4U",
 	"note":4.0
 	},
 	{
@@ -1883,7 +2159,7 @@
 	"genre":["Drama","Mystery","Romance"],
 	"director":["Juan José Campanella"],
 	"actors":["Ricardo Darín","Soledad Villamil","Pablo Rago"],
-	"youtube":"https://www.youtube.com/watch?v=6mPPmazIzcA",
+	"youtube":"https://www.youtube.com/watch?v=KtrWxaygpYA",
 	"note":5.0
 	},
 	{
@@ -1909,7 +2185,7 @@
 	"genre":["Action","Drama","Sci-Fi"],
 	"director":["James McTeigue"],
 	"actors":["Hugo Weaving","Natalie Portman","Rupert Graves"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=lSA7mAHolAw",
 	"note":4.5
 	},
 	{
@@ -1961,7 +2237,7 @@
 	"genre":["Comedy","Drama","Fantasy"],
 	"director":["Harold Ramis"],
 	"actors":["Bill Murray","Andie MacDowell","Chris Elliott"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=GncQtURdcE4",
 	"note":5.0
 	},
 	{
@@ -2013,7 +2289,7 @@
 	"genre":["Adventure","Comedy","Family"],
 	"director":["Alain Chabat"],
 	"actors":["Gérard Depardieu","Christian Clavier","Jamel Debbouze"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=XlhihCd6qtw",
 	"note":3.0
 	},
 	{
@@ -2027,6 +2303,19 @@
 	"director":["Alain Berbérian"],
 	"actors":["Chantal Lauby","Alain Chabat","Dominique Farrugia"],
 	"youtube":"https://www.youtube.com/watch?v=fFOzbEN-6ms",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Riverboom",
+	"image": "https://m.media-amazon.com/images/M/MV5BNzU2NzY4M2ItMDdjZC00MWI3LTlkZmItYjExYTVmNjg5ZTEzXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"In 2002, three young reporters get into a car in Kabul for a journey that will change their lives forever.",
+	"date":"2024-09-25",
+	"duration":"PT1H39M",
+	"genre":["Documentary"],
+	"director":["Claude Baechtold"],
+	"actors":["Claude Baechtold","Serge Michel","Paolo Woods"],
+	"youtube":"https://www.youtube.com/watch?v=1ljJNaEdIdQ",
 	"note":4.0
 	},
 	{
@@ -2143,7 +2432,7 @@
 	"genre":["Action","Crime","Drama"],
 	"director":["Quentin Tarantino"],
 	"actors":["Uma Thurman","David Carradine","Daryl Hannah"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=7kSuas6mRpk",
 	"note":5.0
 	},
 	{
