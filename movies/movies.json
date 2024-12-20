@@ -1,6 +1,19 @@
 [
 	{
 	"type":"movie",
+	"title":"Pacific Rim",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTY3MTI5NjQ4Nl5BMl5BanBnXkFtZTcwOTU1OTU0OQ@@._V1_.jpg",
+	"synopsis":"As a war between humankind and monstrous sea creatures wages on, a former pilot and a trainee are paired up to drive a seemingly obsolete special weapon in a desperate effort to save the world from the apocalypse.",
+	"date":"2013-07-12",
+	"duration":"PT2H11M",
+	"genre":["Action","Adventure","Sci-Fi"],
+	"director":["Guillermo del Toro"],
+	"actors":["Idris Elba","Charlie Hunnam","Rinko Kikuchi"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
 	"title":"Quand les aigles attaquent",
 	"image": "https://m.media-amazon.com/images/M/MV5BNzY1YjdjM2EtOThhOS00YzUyLWFjODUtZTNjNmJmNTFjNWVmXkEyXkFqcGc@._V1_.jpg",
 	"synopsis":"Allied agents stage a daring raid on a castle where the Nazis are holding American brigadier general George Carnaby prisoner, but that&apos;s not all that&apos;s really going on.",
@@ -310,7 +323,7 @@
 	"genre":["Drama","Sci-Fi"],
 	"director":["Robert Wise"],
 	"actors":["Michael Rennie","Patricia Neal","Hugh Marlowe"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=Xh8P4MIaZBA",
 	"note":4.0
 	},
 	{
@@ -1262,7 +1275,7 @@
 	"genre":["Action","Adventure","Mystery"],
 	"director":["Alfred Hitchcock"],
 	"actors":["Cary Grant","Eva Marie Saint","James Mason"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=nkj4RCcR0CY",
 	"note":3.0
 	},
 	{
@@ -1275,7 +1288,7 @@
 	"genre":["Drama","Music"],
 	"director":["Stephen Daldry"],
 	"actors":["Jamie Bell","Julie Walters","Jean Heywood"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=0g1YvKDdIfc",
 	"note":4.0
 	},
 	{
@@ -1288,7 +1301,7 @@
 	"genre":["Comedy","Drama","Romance"],
 	"director":["Paul Thomas Anderson"],
 	"actors":["Alana Haim","Cooper Hoffman","Sean Penn"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=ofnXPwUPENo",
 	"note":5.0
 	},
 	{
@@ -1314,7 +1327,7 @@
 	"genre":["Action","Drama","Family"],
 	"director":["Harald Zwart"],
 	"actors":["Jackie Chan","Jaden Smith","Taraji P. Henson"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=XY8amUImEu0",
 	"note":4.0
 	},
 	{
@@ -1327,7 +1340,7 @@
 	"genre":["Action","Adventure","Family"],
 	"director":["Don Chaffey"],
 	"actors":["Todd Armstrong","Nancy Kovack","Gary Raymond"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=pF_Fi7x93PY",
 	"note":4.0
 	},
 	{
@@ -1353,7 +1366,7 @@
 	"genre":["Documentary"],
 	"director":["Hubert Sauper"],
 	"actors":["Elizabeth &apos;Eliza&apos; Maganga Nsese","Raphael Tukiko Wagara","Dimond Remtulia"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=EElC9F--DaA",
 	"note":3.0
 	},
 	{
@@ -1366,7 +1379,7 @@
 	"genre":["Comedy","Drama"],
 	"director":["Mike Leigh"],
 	"actors":["Timothy Spall","Brenda Blethyn","Phyllis Logan"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=ShV57ZotaRc",
 	"note":5.0
 	},
 	{
@@ -1379,7 +1392,7 @@
 	"genre":["Crime","Drama","Romance"],
 	"director":["Takeshi Kitano"],
 	"actors":["Takeshi Kitano","Kayoko Kishimoto","Ren Ôsugi"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=PwTWtAE3ylY",
 	"note":4.5
 	},
 	{
@@ -1405,7 +1418,7 @@
 	"genre":["Drama","Music"],
 	"director":["Darius Marder"],
 	"actors":["Riz Ahmed","Olivia Cooke","Paul Raci"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=0eRAdLC65_E",
 	"note":3.0
 	},
 	{
@@ -1691,7 +1704,7 @@
 	"genre":["Action","Crime","Drama"],
 	"director":["Matt Reeves"],
 	"actors":["Robert Pattinson","Zoë Kravitz","Jeffrey Wright"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=GGZdoD7gYnE",
 	"note":3.0
 	},
 	{
@@ -1704,7 +1717,7 @@
 	"genre":["Action","Drama","Sci-Fi"],
 	"director":["Rian Johnson"],
 	"actors":["Joseph Gordon-Levitt","Bruce Willis","Emily Blunt"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=2iQuhsmtfHw",
 	"note":4.0
 	},
 	{
