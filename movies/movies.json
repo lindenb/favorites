@@ -1,6 +1,110 @@
 [
 	{
 	"type":"movie",
+	"title":"Close Encounters of the Third Kind",
+	"image": "https://m.media-amazon.com/images/M/MV5BMjM1NjE5NjQxN15BMl5BanBnXkFtZTgwMjYzMzQxMDE@._V1_.jpg",
+	"synopsis":"Roy Neary, an Indiana electric lineman, finds his quiet and ordinary daily life turned upside down after a close encounter with a UFO, spurring him to an obsessed cross-country quest for answers as a momentous event approaches.",
+	"date":"1977-12-14",
+	"duration":"PT2H18M",
+	"genre":["Drama","Sci-Fi"],
+	"director":["Steven Spielberg"],
+	"actors":["Richard Dreyfuss","François Truffaut","Teri Garr"],
+	"youtube":"",
+	"note":5.0
+	},
+	{
+	"type":"movie",
+	"title":"Jaws",
+	"image": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"When a massive killer shark unleashes chaos on a beach community off Long Island, it&apos;s up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+	"date":"1975-06-20",
+	"duration":"PT2H4M",
+	"genre":["Adventure","Drama","Horror"],
+	"director":["Steven Spielberg"],
+	"actors":["Roy Scheider","Robert Shaw","Richard Dreyfuss"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Le dossier 51",
+	"image": "https://m.media-amazon.com/images/M/MV5BYjNkNWYyOWMtNTU0NC00MmI3LTlkNDMtY2NmMTk0MjdjZWRlXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"An unnamed French intelligence service spies on and analyzes a French diplomat code name &apos;51&apos; to identify a method to control him.",
+	"date":"1978-08-30",
+	"duration":"PT1H45M",
+	"genre":["Crime","Drama"],
+	"director":["Michel Deville"],
+	"actors":["François Marthouret","Claude Marcault","Philippe Rouleau"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Les cowboys",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTgyOTIwMzcxN15BMl5BanBnXkFtZTgwNzM4OTEwOTE@._V1_.jpg",
+	"synopsis":"When his daughter goes missing from their prairie town east of France, Alain and his young son, Kid, head out to find her. The journey takes the men to some far-off and unsettling places in what begins to feel like an endless quest.",
+	"date":"2015-11-25",
+	"duration":"PT1H44M",
+	"genre":["Drama","Thriller","Western"],
+	"director":["Thomas Bidegain"],
+	"actors":["François Damiens","Finnegan Oldfield","Agathe Dronne"],
+	"youtube":"",
+	"note":3.0
+	},
+	{
+	"type":"movie",
+	"title":"Le Théorème de Marguerite",
+	"image": "https://m.media-amazon.com/images/M/MV5BNmZiMTZjNjQtYjU1Ni00MjA4LTg1ZGEtYThmN2I4NDA5MzVmXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"A brilliant mathematics student at France&apos;s top university the Ecole Normale Supérieure. On the day of her thesis presentation, a mistake shakes up all the certainty in her planned-out life, she decides to quit everything and star...",
+	"date":"2023-11-01",
+	"duration":"PT1H53M",
+	"genre":["Comedy","Drama","Mystery"],
+	"director":["Anna Novion"],
+	"actors":["Ella Rumpf","Jean-Pierre Darroussin","Clotilde Courau"],
+	"youtube":"",
+	"note":3.5
+	},
+	{
+	"type":"movie",
+	"title":"Young Sherlock Holmes / Le Secret de la Pyramide",
+	"image": "https://m.media-amazon.com/images/M/MV5BMWFjYjdkZjMtMjA5NS00ZDIzLWExMjAtYjA3MGYwM2QyYmU0XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"When assorted people start having inexplicable delusions that lead to their deaths, a teenage Sherlock Holmes decides to investigate.",
+	"date":"1985-12-04",
+	"duration":"PT1H49M",
+	"genre":["Adventure","Fantasy","Mystery"],
+	"director":["Barry Levinson"],
+	"actors":["Nicholas Rowe","Alan Cox","Sophie Ward"],
+	"youtube":"",
+	"note":3.5
+	},
+	{
+	"type":"movie",
+	"title":"Je te tiens, tu me tiens",
+	"image": "undefined",
+	"synopsis":"Deux couples de parents d’élève ont décidé de faire connaissance, leurs enfants partagent la même école, eux ne partagent pas du tout la même façon de vivre…",
+	"date":"2016-01-15",
+	"duration":"PT13M",
+	"genre":["Short"],
+	"director":["Eric Guirado"],
+	"actors":["Nicolas Martinez"],
+	"youtube":"",
+	"note":5.0
+	},
+	{
+	"type":"movie",
+	"title":"Some Like It Hot",
+	"image": "https://m.media-amazon.com/images/M/MV5BZTllZDYyNjEtY2RmMS00NmJhLWI4ODAtMTQ0NWFiZTJhZjA0XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+	"date":"1959-03-19",
+	"duration":"PT2H1M",
+	"genre":["Comedy","Music","Romance"],
+	"director":["Billy Wilder"],
+	"actors":["Marilyn Monroe","Tony Curtis","Jack Lemmon"],
+	"youtube":"",
+	"note":5.0
+	},
+	{
+	"type":"movie",
 	"title":"Pacific Rim",
 	"image": "https://m.media-amazon.com/images/M/MV5BMTY3MTI5NjQ4Nl5BMl5BanBnXkFtZTcwOTU1OTU0OQ@@._V1_.jpg",
 	"synopsis":"As a war between humankind and monstrous sea creatures wages on, a former pilot and a trainee are paired up to drive a seemingly obsolete special weapon in a desperate effort to save the world from the apocalypse.",
@@ -1053,7 +1157,7 @@
 	"genre":["Thriller"],
 	"director":["Eric Rochant"],
 	"actors":["Yvan Attal","Richard Masur","Allen Garfield"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=ut4Ood7abfg",
 	"note":4.0
 	},
 	{
@@ -1066,7 +1170,7 @@
 	"genre":["Comedy","Drama","History"],
 	"director":["Patrice Leconte"],
 	"actors":["Charles Berling","Jean Rochefort","Fanny Ardant","Bernard Giraudeau"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=jwItNWD066Q",
 	"note":4.0
 	},
 	{
@@ -1092,7 +1196,7 @@
 	"genre":["Biography","Drama","Romance"],
 	"director":["Peter Webber"],
 	"actors":["Scarlett Johansson","Colin Firth","Tom Wilkinson"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=8awflTA4QYE",
 	"note":4.0
 	},
 
@@ -1106,7 +1210,7 @@
 	"genre":["Comedy","Drama","History"],
 	"director":["Armando Iannucci"],
 	"actors":["Steve Buscemi","Simon Russell Beale","Jeffrey Tambor"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=JDYxbRZdkSo",
 	"note":4.0
 	},
 	{
@@ -1132,7 +1236,7 @@
 	"genre":["Biography","Drama","Music"],
 	"director":["Steven Soderbergh"],
 	"actors":["Michael Douglas","Matt Damon","Scott Bakula"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=ZlFD8hPamdk",
 	"note":3.5
 	},
 	{
@@ -1145,7 +1249,7 @@
 	"genre":["Biography","Drama","History"],
 	"director":["Gus Van Sant"],
 	"actors":["Sean Penn","Josh Brolin","Emile Hirsch"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=s2kD-9QZOs4",
 	"note":4.0
 	},
 	{
@@ -1197,7 +1301,7 @@
 	"genre":["Drama"],
 	"director":["Radu Mihaileanu"],
 	"actors":["Yaël Abecassis","Roschdy Zem","Moshe Agazai"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=awv5Z2R7TbI",
 	"note":4.5
 	},
 	{
@@ -1210,7 +1314,7 @@
 	"genre":["Drama","Mystery","Thriller"],
 	"director":["François Ozon"],
 	"actors":["Fabrice Luchini","Vincent Schmitt","Ernst Umhauer"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=nW4WrjUUpbM",
 	"note":4.0
 	},
 	{
@@ -1223,7 +1327,7 @@
 	"genre":["Drama","Romance"],
 	"director":["Alex Lutz"],
 	"actors":["Karin Viard","Alex Lutz","Jérôme Pouly"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=B4d5BhVyQ7g",
 	"note": 4.5
 	},
 	{
@@ -1236,7 +1340,7 @@
 	"genre":["Drama"],
 	"director":["Cristian Mungiu"],
 	"actors":["Anamaria Marinca","Laura Vasiliu","Vlad Ivanov"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=ZisE16JBUMA",
 	"note":4.0
 	},
 	{
@@ -1262,7 +1366,7 @@
 	"genre":["Adventure","Family","Fantasy"],
 	"director":["Henry Levin"],
 	"actors":["James Mason","Pat Boone","Arlene Dahl"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=4GsN66CB9sc",
 	"note":4.0
 	},
 	{
@@ -3345,6 +3449,19 @@
 	"youtube":"",
 	"note":3.0
 },
+	{
+	"type":"movie",
+	"title":"Run Silent, Run Deep",
+	"image": "https://m.media-amazon.com/images/M/MV5BN2ZmNTFkNjAtODY1Yi00ODlhLWE0NzEtOWFhN2RiNzU4NzBhXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"A U.S. submarine commander, obsessed with sinking a particular Japanese ship, butts heads with his first officer and crew.",
+	"date":"1958-03-27",
+	"duration":"PT1H33M",
+	"genre":["Action","Drama","War"],
+	"director":["Robert Wise"],
+	"actors":["Clark Gable","Burt Lancaster","Jack Warden"],
+	"youtube":"",
+	"note":3.0
+	},
 {
 	"type":"movie",
 	"title":"Contagion",

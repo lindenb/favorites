@@ -1,6 +1,15 @@
 [
 	{
 	"type":"song",
+	"author":"C2C",
+	"title":"Down the Road",
+	"year":2012,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=gpc3cCxWNkU",
+	"playlist":["techno"]
+	},
+	{
+	"type":"song",
 	"author":"Marcel Amont",
 	"title":"L'Amour Ca Fait Passer Le Temps",
 	"year":null,
