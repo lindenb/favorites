@@ -1,6 +1,45 @@
 [
 	{
 	"type":"movie",
+	"title":"The Draughtsman&apos;s Contract - Meurtre dans un jardin Anglais",
+	"image": "https://m.media-amazon.com/images/M/MV5BNTk0MTFmZjctOWIxOS00NTdmLWE5ZDQtNzNmMGFlMDZlYzc3XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"A young artist is commissioned by the wife of a wealthy landowner to make a series of drawings of the estate while her husband is away.",
+	"date":"1982-11-12",
+	"duration":"PT1H48M",
+	"genre":["Comedy","Drama","Mystery"],
+	"director":["Peter Greenaway"],
+	"actors":["Anthony Higgins","Janet Suzman","Anne-Louise Lambert"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Brassed Off",
+	"image": "https://m.media-amazon.com/images/M/MV5BZTllYjU3YjAtNWI0OC00ZDk3LTk0MjktOTJiMjJjZTM4ZjM5XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"The coal mine in a northern English village may be closing, which would also mean the end of the miners&apos; brass band.",
+	"date":"1996-11-01",
+	"duration":"PT1H48M",
+	"genre":["Comedy","Drama","Music"],
+	"director":["Mark Herman"],
+	"actors":["Pete Postlethwaite","Tara Fitzgerald","Ewan McGregor"],
+	"youtube":"",
+	"note":3.0
+	},
+	{
+	"type":"movie",
+	"title":"Mute Witness",
+	"image": "https://m.media-amazon.com/images/M/MV5BYTUzNTMwNmEtODkyNC00ZDcxLWE5ZTYtMDczYjg4NzhiZmM1XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"A mute make-up artist working on a slasher movie being shot in Moscow, is locked in the studio after hours. While there, she witnesses a brutal murder, and must escape capture.",
+	"date":"1995-09-15",
+	"duration":"PT1H35M",
+	"genre":["Crime","Horror","Thriller"],
+	"director":["Anthony Waller"],
+	"actors":["Marina Zudina","Fay Ripley","Evan Richards"],
+	"youtube":"",
+	"note":3.0
+	},
+	{
+	"type":"movie",
 	"title":"Close Encounters of the Third Kind",
 	"image": "https://m.media-amazon.com/images/M/MV5BMjM1NjE5NjQxN15BMl5BanBnXkFtZTgwMjYzMzQxMDE@._V1_.jpg",
 	"synopsis":"Roy Neary, an Indiana electric lineman, finds his quiet and ordinary daily life turned upside down after a close encounter with a UFO, spurring him to an obsessed cross-country quest for answers as a momentous event approaches.",
@@ -1020,6 +1059,7 @@
 	{
 	"type":"movie",
 	"title":"Lady Chance / The Cooler",
+
 	"image": "https://m.media-amazon.com/images/M/MV5BODYyZGE4ZWUtZGI0Yi00YjM1LTlmMWEtN2Q1YTFjYjQ5ZThmXkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_.jpg",
 	"synopsis":"In an old school Las Vegas casino, its top gambling jinx breaks his curse when he falls in love, much to his boss&apos; consternation.",
 	"date":"2004-01-16",
@@ -1066,7 +1106,7 @@
 	"genre":["Comedy","Drama","Romance"],
 	"director":["Céline Devaux"],
 	"actors":["Blanche Gardin","Laurent Lafitte","Maxence Tual"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=C9_mKyz9ScA",
 	"note":3.5
 	},
 	{
@@ -1079,7 +1119,7 @@
 	"genre":["Drama","Music"],
 	"director":["Ina Weisse"],
 	"actors":["Nina Hoss","Sophie Rois","Thorsten Merten"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=2cou4JZF5H4",
 	"note":3.5
 	},
 	{
@@ -1092,7 +1132,7 @@
 	"genre":["Drama","Music"],
 	"director":["Jan-Ole Gerster"],
 	"actors":["Corinna Harfouch","Johann von Bülow","Alexander Khuon"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=64TEGXdG18s",
 	"note":4.0
 	},
 	{
@@ -1105,7 +1145,7 @@
 	"genre":["Crime","Drama"],
 	"director":["Stéphane Demoustier"],
 	"actors":["Roschdy Zem","Chiara Mastroianni","Melissa Guers"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=dlVAL9SDCjQ",
 	"note":4.0
 	},
 	{
@@ -1118,7 +1158,7 @@
 	"genre":["Drama","History","Thriller"],
 	"director":["Oliver Stone"],
 	"actors":["Kevin Costner","Gary Oldman","Jack Lemmon"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=w16bYZ-4nmE",
 	"note":4.0
 	},
 	{
@@ -1131,7 +1171,7 @@
 	"genre":["Comedy","Drama","War"],
 	"director":["Charles Chaplin"],
 	"actors":["Charles Chaplin","Paulette Goddard","Jack Oakie"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=J7GY1Xg6X20",
 	"note":5.0
 	},
 	{
@@ -1144,7 +1184,7 @@
 	"genre":["Action","Thriller"],
 	"director":["Steven Spielberg"],
 	"actors":["Dennis Weaver","Jacqueline Scott","Eddie Firestone"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=gyKx0q298ZY",
 	"note":4.0
 	},
 	{
