@@ -1,6 +1,24 @@
 [
 	{
 	"type":"song",
+	"author":"The Alan Parsons Project",
+	"title":"Mammagamma",
+	"year": 1982,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=XXzOkCLdFwI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Sollex",
+	"title":"Coquillage et Nutella",
+	"year":2015,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=s1kkF9KTxM0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"C2C",
 	"title":"Down the Road",
 	"year":2012,
@@ -715,9 +733,9 @@
 	"author":"Hubert-Félix Thiéfaine",
 	"title":"Whiskeuses Images Again",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=fMPutSiLyvE",
-	"playlist":[""]
+	"playlist":["Thiefaine"]
 	},
 	{
 	"type":"song",

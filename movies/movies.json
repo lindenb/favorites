@@ -1,6 +1,84 @@
 [
 	{
 	"type":"movie",
+	"title":"The Medusa Touch",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTM3MmM0NzEtNDcyZi00MTYxLTk1OTctM2FhYWI4MWFmMjNkXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"A telekinetic novelist causes disasters simply by thinking about them.",
+	"date":"1978-04-07",
+	"duration":"PT1H49M",
+	"genre":["Drama","Mystery"],
+	"director":["Jack Gold"],
+	"actors":["Richard Burton","Lee Remick","Lino Ventura"],
+	"youtube":"",
+	"note":3.0
+	},
+	{
+	"type":"movie",
+	"title":"Christine",
+	"image": "https://m.media-amazon.com/images/M/MV5BYTQxZjlhNzUtMGJkMS00ODMwLWI0NzMtZGZiYzRmODE5ODI2XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"A nerdish boy buys a strange car with an evil mind of its own and his nature starts to change to reflect it.",
+	"date":"1983-12-09",
+	"duration":"PT1H50M",
+	"genre":["Horror","Thriller"],
+	"director":["John Carpenter"],
+	"actors":["Keith Gordon","John Stockwell","Alexandra Paul"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Den skyldige",
+	"image": "https://m.media-amazon.com/images/M/MV5BMmU2N2UxOTQtNDc3ZS00YjkxLWJiMTMtOTYxYzMxMGQ0ZjQ4XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"A police officer assigned alarm dispatch duty enters a race against time when he answers an emergency call from a kidnapped woman.",
+	"date":"2018-10-19",
+	"duration":"PT1H25M",
+	"genre":["Crime","Drama","Thriller"],
+	"director":["Gustav Möller"],
+	"actors":["Jakob Cedergren","Jessica Dinnage","Omar Shargawi"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Man on the Moon",
+	"image": "https://m.media-amazon.com/images/M/MV5BYjQ1NmQ3MjItNGNiZC00OWFiLWFiYjktN2E5MzAzZDYwNjdhXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"The life and career of legendary comedian Andy Kaufman.",
+	"date":"1999-12-22",
+	"duration":"PT1H58M",
+	"genre":["Biography","Comedy","Drama"],
+	"director":["Milos Forman"],
+	"actors":["Jim Carrey","Danny DeVito","Gerry Becker"],
+	"youtube":"",
+	"note":4.5
+	},
+	{
+	"type":"movie",
+	"title":"Grâce à Dieu",
+	"image": "https://m.media-amazon.com/images/M/MV5BZTJlNzJhY2YtNThjYS00YzdmLWFiZGMtYTM2ODk5OTVjYWM1XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"Three men, abused by the same priest during their childhood, engage in a fight for justice that will expose their personal experiences and question their life with their wife, family, and colleagues.",
+	"date":"2019-10-18",
+	"duration":"PT2H17M",
+	"genre":["Crime","Drama"],
+	"director":["François Ozon"],
+	"actors":["Melvil Poupaud","Denis Ménochet","Swann Arlaud"],
+	"youtube":"",
+	"note":-1.0
+	},
+	{
+	"type":"movie",
+	"title":"Good Bye Lenin!",
+	"image": "https://m.media-amazon.com/images/M/MV5BMjhlNTY2YzUtOWIwYS00MjIwLThjZGUtMDNiNTQzZmM1MTdjXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"In 1990, to protect his fragile mother from a fatal shock after a long coma, a young man must keep her from learning that her beloved nation of East Germany as she knew it has disappeared.",
+	"date":"2004-05-14",
+	"duration":"PT2H1M",
+	"genre":["Comedy","Drama","Romance"],
+	"director":["Wolfgang Becker"],
+	"actors":["Daniel Brühl","Katrin Sass","Chulpan Khamatova"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
 	"title":"The Draughtsman&apos;s Contract - Meurtre dans un jardin Anglais",
 	"image": "https://m.media-amazon.com/images/M/MV5BNTk0MTFmZjctOWIxOS00NTdmLWE5ZDQtNzNmMGFlMDZlYzc3XkEyXkFqcGc@._V1_.jpg",
 	"synopsis":"A young artist is commissioned by the wife of a wealthy landowner to make a series of drawings of the estate while her husband is away.",
@@ -870,7 +948,7 @@
 	"genre":["Comedy","Drama"],
 	"director":["Diane Kurys"],
 	"actors":["Eléonore Klarwein","Odile Michel","Anouk Ferjac"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=mJfIcJZq2ZU",
 	"note":3.0
 	},
 	{
@@ -883,7 +961,7 @@
 	"genre":["Drama"],
 	"director":["Sam Mendes"],
 	"actors":["Kevin Spacey","Annette Bening","Thora Birch"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=XCxzXblZyfQ",
 	"note":4.0
 	},
 	{
@@ -896,7 +974,7 @@
 	"genre":["Drama"],
 	"director":["Audrey Diwan"],
 	"actors":["Anamaria Vartolomei","Kacey Mottet Klein","Luàna Bajrami"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=eKvA9DORGOA",
 	"note":4.0
 	},
 	{
@@ -922,7 +1000,7 @@
 	"genre":["Drama"],
 	"director":["Mohammad Rasoulof"],
 	"actors":["Mahtab Servati","Zhila Shahi","Baran Rasoulof"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=UuidzIYF9VE",
 	"note":4.0
 	},
 
@@ -936,7 +1014,7 @@
 	"genre":["Drama","History","War"],
 	"director":["Jonathan Glazer"],
 	"actors":["Christian Friedel","Sandra Hüller","Johann Karthaus"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=GFNtVaAuVYY",
 	"note":3.0
 	},
 	{
@@ -949,7 +1027,7 @@
 	"genre":["Comedy","Drama","Mystery"],
 	"director":["Jim Jarmusch"],
 	"actors":["Bill Murray","Jessica Lange","Sharon Stone"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=c_TB7MkrGyc",
 	"note":3.0
 	},
 	{
@@ -988,7 +1066,7 @@
 	"genre":["Action","Adventure","Mystery"],
 	"director":["Guy Ritchie"],
 	"actors":["Robert Downey Jr.","Jude Law","Rachel McAdams"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=iKUzhzustok",
 	"note":4.0
 	},
 	{
@@ -1001,7 +1079,7 @@
 	"genre":["Comedy"],
 	"director":["Quentin Dupieux"],
 	"actors":["Benoît Poelvoorde","Grégoire Ludig","Marc Fraize"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=4AdyIkrHFTU",
 	"note":4.0
 	},
 	{
@@ -1019,7 +1097,7 @@
 	},
 	{
 	"type":"movie",
-	"title":"Rope",
+	"title":"Rope/La corde",
 	"image": "https://m.media-amazon.com/images/M/MV5BNGY4OTFlZTUtNDFjOC00NzM3LWI5ZjUtOWFkNTFhNzZhMmFkXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
 	"synopsis":"Two men attempt to prove they committed the perfect crime by hosting a dinner party after strangling their former classmate to death.",
 	"date":"1948-09-25",
@@ -1027,7 +1105,7 @@
 	"genre":["Crime","Drama","Mystery"],
 	"director":["Alfred Hitchcock"],
 	"actors":["James Stewart","John Dall","Farley Granger"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=8xkQoH8QbVs",
 	"note":3.0
 	},
 	{
@@ -1040,7 +1118,7 @@
 	"genre":["Comedy","Drama","Romance"],
 	"director":["Stephen Frears"],
 	"actors":["Gemma Arterton","Luke Evans","Dominic Cooper"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=YOYArwQeESE",
 	"note":3.5
 	},
 	{
@@ -1053,13 +1131,12 @@
 	"genre":["Biography","Comedy","Drama"],
 	"director":["Shari Springer Berman","Robert Pulcini"],
 	"actors":["Paul Giamatti","Shari Springer Berman","Harvey Pekar"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=APpxQm7sH5k",
 	"note":4.0
 	},
 	{
 	"type":"movie",
 	"title":"Lady Chance / The Cooler",
-
 	"image": "https://m.media-amazon.com/images/M/MV5BODYyZGE4ZWUtZGI0Yi00YjM1LTlmMWEtN2Q1YTFjYjQ5ZThmXkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_.jpg",
 	"synopsis":"In an old school Las Vegas casino, its top gambling jinx breaks his curse when he falls in love, much to his boss&apos; consternation.",
 	"date":"2004-01-16",
@@ -1067,7 +1144,7 @@
 	"genre":["Drama","Romance"],
 	"director":["Wayne Kramer"],
 	"actors":["William H. Macy","Maria Bello","Alec Baldwin"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=37Vj4F3Botw",
 	"note":3.0
 	},
 	{
@@ -1080,7 +1157,7 @@
 	"genre":["Comedy","Drama"],
 	"director":["Alexander Payne"],
 	"actors":["Paul Giamatti","Da&apos;Vine Joy Randolph","Dominic Sessa"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=JQ0mcIaeQmo",
 	"note":3.0
 	},
 	{
@@ -1093,7 +1170,7 @@
 	"genre":["Drama","Romance"],
 	"director":["Celine Song"],
 	"actors":["Greta Lee","Teo Yoo","John Magaro"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=kA244xewjcI",
 	"note":3.5
 	},
 	{
@@ -1718,7 +1795,7 @@
 	"genre":["Drama","Horror","Mystery"],
 	"director":["Darren Aronofsky"],
 	"actors":["Sean Gullette","Mark Margolis","Ben Shenkman"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=r0SC582sJvE",
 	"note":4.0
 	},
 	{
@@ -1738,13 +1815,13 @@
 	"type":"movie",
 	"title":"Witness",
 	"image": "https://m.media-amazon.com/images/M/MV5BZWQzYmM5OGYtMDJlOC00M2RlLThhYzgtNjZiOWYxNjlhMDJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-	"synopsis":"When a young Amish boy is sole witness to a murder while visiting Philadelphia with his mother, police detective John Book tries to protect the boy until an attempt on Book&apos;s life forces him into hiding in Amish country.",
+	"synopsis":"When a young Amish boy is sole witness to a murder while visiting Philadelphia with his mother, police detective John Book tries to protect the boy until an attempt on Book&'s life forces him into hiding in Amish country.",
 	"date":"1985-02-08",
 	"duration":"PT1H52M",
 	"genre":["Drama","Romance","Thriller"],
 	"director":["Peter Weir"],
 	"actors":["Harrison Ford","Kelly McGillis","Lukas Haas"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=BL_X7GelX5Q",
 	"note":4.0
 	},
 	{
@@ -3031,7 +3108,7 @@
 	"genre":["Action","Crime","Drama"],
 	"director":["Christopher Nolan"],
 	"actors":["Christian Bale","Heath Ledger","Aaron Eckhart"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=OLWjlDL6LHE",
 	"note":4.0
 },
 	{
@@ -3044,7 +3121,7 @@
 	"genre":["Crime","Drama","Mystery"],
 	"director":["Bryan Singer"],
 	"actors":["Kevin Spacey","Gabriel Byrne","Chazz Palminteri"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=oiXdPolca5w",
 	"note":5
 	},
 {
