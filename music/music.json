@@ -1,6 +1,15 @@
 [
 	{
 	"type":"song",
+	"author":"Arthur H",
+	"title":"Quai n° 3",
+	"year": 1990,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=RCRzIWtsyMw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"The Alan Parsons Project",
 	"title":"Mammagamma",
 	"year": 1982,
