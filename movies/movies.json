@@ -1,6 +1,32 @@
 [
 	{
 	"type":"movie",
+	"title":"House of Gucci",
+	"image": "https://m.media-amazon.com/images/M/MV5BMmQ3OTRiYWItMGRiOC00ZTVmLWJjMjEtNjZhNDQ5NjIxODNjXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel their legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately...murder.",
+	"date":"2021-11-24",
+	"duration":"PT2H38M",
+	"genre":["Biography","Crime","Drama"],
+	"director":["Ridley Scott"],
+	"actors":["Lady Gaga","Adam Driver","Al Pacino"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Seules les bêtes",
+	"image": "https://m.media-amazon.com/images/M/MV5BNWZjZDZiYmUtOGY2NC00YzdkLWJiZDYtNWM5M2Q5ZTU3Y2MzXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"A woman disappeared. After a snowstorm, her car is discovered on a road to a small remote village. While the police don&apos;t know where to start, five people are linked to the disappearance. Each one with his or her own secret.",
+	"date":"2021-10-15",
+	"duration":"PT1H57M",
+	"genre":["Crime","Drama","Mystery"],
+	"director":["Dominik Moll"],
+	"actors":["Denis Ménochet","Laure Calamy","Damien Bonnard"],
+	"youtube":"",
+	"note":4.5
+	},
+	{
+	"type":"movie",
 	"title":"De rouille et d&apos;os",
 	"image": "https://m.media-amazon.com/images/M/MV5BZjEyZDUyYjEtNDI4OS00MWIyLWFiM2UtNWU1NGJhMTRhNDNiXkEyXkFqcGc@._V1_.jpg",
 	"synopsis":"Put in charge of his young son, Alain leaves Belgium for Antibes to live with his sister and her husband as a family. Alain&apos;s bond with Stephanie, a killer whale trainer, grows deeper after Stephanie suffers a horrible accident.",
@@ -438,7 +464,7 @@
 	"genre":["Animation","Adventure","Comedy"],
 	"director":["Pierre Coffin","Chris Renaud"],
 	"actors":["Steve Carell","Jason Segel","Russell Brand"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=OPf1YYSKxBs",
 	"note":4.0
 	},
 	{
@@ -451,7 +477,7 @@
 	"genre":["Comedy"],
 	"director":["Jim Abrahams","David Zucker","Jerry Zucker"],
 	"actors":["Robert Hays","Julie Hagerty","Leslie Nielsen"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=tR3yMu7yS-Q",
 	"note":4.0
 	},
 	{
@@ -478,7 +504,7 @@
 	"genre":["Drama","Mystery","Thriller"],
 	"director":["Yann Gozlan"],
 	"actors":["Pierre Niney","Lou de Laâge","André Dussollier"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=mAs0C9T5EC0",
 	"note":4.0
 	},
 	{
