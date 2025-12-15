@@ -1,6 +1,33 @@
 [
 	{
 	"type":"song",
+	"author":"Bernard Lavilliers",
+	"title":"Les aventures extraordinaires d'un billet de banque",
+	"year":1975,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=8NukCxQLoOU",
+	"playlist":["70s"]
+	},
+	{
+	"type":"song",
+	"author":"Dionne Warwick",
+	"title":"Don't Make Me Over",
+	"year":1963,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=dDblF-J6qvY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Gil Scott-Heron",
+	"title":"Revolution Will Not Be Televised",
+	"year":1977,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=vwSRqaZGsPw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Arthur H",
 	"title":"Quai n° 3",
 	"year": 1990,
@@ -7832,7 +7859,7 @@
 	{
 	"type":"song",
 	"author":"Rone",
-	"title":"Opening",
+	"title":"Les Olympiades - Opening",
 	"lang":null,
 	"year":2021,
 	"youtube":"https://www.youtube.com/watch?v=DHgE0Kn7zqE",

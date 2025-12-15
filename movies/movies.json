@@ -1,5 +1,40 @@
 [
 	{
+	"type":"song",
+	"author":"Aretha Franklin",
+	"title":"Chain of Fools",
+	"year":1968,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=o0s5CP2kXsc",
+	"playlist":[""]
+	},
+	{
+	"type":"movie",
+	"title":"Una giornata particolare",
+	"image": "https://m.media-amazon.com/images/M/MV5BNjMzNWUyY2UtYWJlZC00N2JjLTgyNTEtNzFkNTljNGQzZGM5XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"Two neighbors, a persecuted journalist and a resigned housewife, meet during Hitler&apos;s visit to Italy in May 1938.",
+	"date":"undefined",
+	"duration":"PT1H43M",
+	"genre":["Drama"],
+	"actors":["Sophia Loren"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Revolutionary Road",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTczNDgzMjczOV5BMl5BanBnXkFtZTcwOTU3MzMwMg@@._V1_.jpg",
+	"synopsis":"A young couple living in a Connecticut suburb during the mid-1950s struggle to come to terms with their personal problems while trying to raise their two children.",
+	"date":"2009-01-23",
+	"duration":"PT1H59M",
+	"genre":["Drama","Romance"],
+	"director":[],
+	"actors":[],
+	"youtube":"",
+	"note":4.0
+	},
+
+	{
 	"type":"movie",
 	"title":"House of Gucci",
 	"image": "https://m.media-amazon.com/images/M/MV5BMmQ3OTRiYWItMGRiOC00ZTVmLWJjMjEtNjZhNDQ5NjIxODNjXkEyXkFqcGc@._V1_.jpg",
@@ -347,7 +382,7 @@
 	"genre":["Adventure","Comedy","Romance"],
 	"director":["Caroline Vignal"],
 	"actors":["Laure Calamy","Benjamin Lavernhe","Olivia Côte"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=qsbBWaCKlW4",
 	"note":4.0
 	},
 	{
@@ -360,8 +395,8 @@
 	"genre":["Biography","Drama","Thriller"],
 	"director":["Morten Tyldum"],
 	"actors":["Benedict Cumberbatch","Keira Knightley","Matthew Goode"],
-	"youtube":"",
-	"note":-1.0
+	"youtube":"https://www.youtube.com/watch?v=nuPZUUED5uk",
+	"note":3.0
 	},
 	{
 	"type":"movie",
@@ -373,7 +408,7 @@
 	"genre":["Documentary"],
 	"director":["David Prior"],
 	"actors":["David Fincher","Kathleen Kennedy","Joshua Donen"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=iH6FdW39Hag ",
 	"note":4.0
 	},
 	{
@@ -386,7 +421,7 @@
 	"genre":["Biography","Drama","History"],
 	"director":["Theodore Melfi"],
 	"actors":["Taraji P. Henson","Octavia Spencer","Janelle Monáe"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=5wfrDhgUMGI",
 	"note":3.5
 	},
 	{
@@ -399,21 +434,8 @@
 	"genre":["Comedy","Drama","Crime"],
 	"director":["Pierre Salvadori"],
 	"actors":["Jean Rochefort","Marie Trintignant","Guillaume Depardieu"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=KQ3bn2HfY0E",
 	"note":-1.0
-	},
-	{
-	"type":"movie",
-	"title":"Boîte noire",
-	"image": "https://m.media-amazon.com/images/M/MV5BMzNlZTliMzYtYzIwNC00YmJiLWFmMmEtZjRjNWNmY2JhMjFjXkEyXkFqcGc@._V1_.jpg",
-	"synopsis":"A young and talented black box analyst is on a mission to solve the reason behind the deadly crash of a brand new aircraft.",
-	"date":"2021-09-08",
-	"duration":"PT2H9M",
-	"genre":["Drama","Mystery","Thriller"],
-	"director":["Yann Gozlan"],
-	"actors":["Pierre Niney","Lou de Laâge","André Dussollier"],
-	"youtube":"",
-	"note":4.0
 	},
 	{
 	"type":"movie",
@@ -425,7 +447,7 @@
 	"genre":["Drama","Romance"],
 	"director":["Xavier Giannoli"],
 	"actors":["Benjamin Voisin","Cécile de France","Vincent Lacoste"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=umiWu_sjRhg",
 	"note":4.0
 	},
 	{
@@ -438,7 +460,7 @@
 	"genre":["Action","Adventure","Comedy"],
 	"director":["Max Linder"],
 	"actors":["Max Linder","Bull Montana","Frank Cooke"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=-M83Egk161U",
 	"note":4.0
 	},
 	{
@@ -451,7 +473,7 @@
 	"genre":["Comedy","Drama","Romance"],
 	"director":["François Ozon"],
 	"actors":["Évelyne Dandry","François Marthouret","Marina de Van"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=2_1OOgh8oOc",
 	"note":4.0
 	},
 	{
