@@ -1,6 +1,15 @@
 [
 	{
 	"type":"song",
+	"author":"Eric Clapton",
+	"title":"Cocaine",
+	"year":1977,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=O6yeLNNVa4A",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Bernard Lavilliers",
 	"title":"Les aventures extraordinaires d'un billet de banque",
 	"year":1975,
