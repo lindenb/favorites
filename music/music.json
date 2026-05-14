@@ -1,6 +1,89 @@
 [
 	{
 	"type":"song",
+	"author":"Wang Chung",
+	"title":"Dance Hall Days",
+	"year":1984,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=dexAI7lP-10",
+	"playlist":["80s"],
+	"kksk": "2026-05-14"
+	},
+	{
+	"type":"song",
+	"author":"Massive Attack",
+	"title":"Teardrop",
+	"year":1998,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=u7K72X4eo_s",
+	"playlist":["90s"]
+	},
+	{
+	"type":"song",
+	"author":"Status Quo",
+	"title":"In The Army Now",
+	"year": 1986,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=EIxsPBbZ_b8",
+	"playlist":["80s"]
+	},
+
+	{
+	"type":"song",
+	"author":"Al Green",
+	"title":"How Can You Mend A Broken Heart",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=r0qmJoav5rE",
+	"playlist":["70s"]
+	},
+	{
+	"type":"song",
+	"author":"Tina Turner",
+	"title":"Proud Mary",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Gciy9oG5678",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"I'm a Believer",
+	"title":"I'm a Believer",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=4PQAqprjOuA",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Nancy Sinatra",
+	"title":"You Only Live Twice",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Z6D6ObD9cMY",
+	"playlist":["60s","theme"]
+	},
+	{
+	"type":"song",
+	"author":"Culture Club",
+	"title":"Love Is Love",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=LDHZVuWpNlQ",
+	"playlist":["80s"]
+	},
+        {
+        "type":"song",
+        "author":"Aretha Franklin",
+        "title":"Chain of Fools",
+        "year":1968,
+        "lang":"en",
+        "youtube":"https://www.youtube.com/watch?v=o0s5CP2kXsc",
+        "playlist":[""]
+        },
+	{
+	"type":"song",
 	"author":"Eric Clapton",
 	"title":"Cocaine",
 	"year":1977,

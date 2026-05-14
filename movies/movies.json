@@ -1,39 +1,185 @@
 [
 	{
-	"type":"song",
-	"author":"Aretha Franklin",
-	"title":"Chain of Fools",
-	"year":1968,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=o0s5CP2kXsc",
-	"playlist":[""]
+	"type":"movie",
+	"title":"Network",
+	"image": "https://m.media-amazon.com/images/M/MV5BY2E4ZGJiNTMtZTAxZC00MmVlLWI1NjYtMGVhMjhkOGEwZDhjXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"A television network cynically exploits a deranged former anchor&apos;s ravings and revelations about mass media for its own profit, but finds that his message may be difficult to control.",
+	"date":"1976-11-27",
+	"duration":"PT2H1M",
+	"genre":["Drama"],
+	"director":["Sidney Lumet"],
+	"actors":["Faye Dunaway","William Holden","Peter Finch"],
+	"youtube":"https://www.youtube.com/watch?v=1cSGvqQHpjs",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"L'effet aquatique",
+	"image": "https://m.media-amazon.com/images/M/MV5BMWFlOTc1OWYtZTlkMS00MmIwLTg0YTYtYjFmYzQwZWJjNWQ2XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"Samir tombe amoureux d&apos;Agathe, maître-nageuse. Afin de la séduire, il prétend ne pas savoir nager pour qu&apos;elle lui apprenne.",
+	"date":"2016-06-29",
+	"duration":"PT1H23M",
+	"genre":["Comédie","Drame","Romantique"],
+	"director":["Sólveig Anspach","Jean-Luc Gaget"],
+	"actors":["Samir Guesmi","Florence Loiret Caille","Didda Jónsdóttir"],
+	"youtube":"https://www.youtube.com/watch?v=A-RxW4cAkp0",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Dallas Buyers Club",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTYwMTA4MzgyNF5BMl5BanBnXkFtZTgwMjEyMjE0MDE@._V1_.jpg",
+	"synopsis":"In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease.",
+	"date":"2013-11-22",
+	"duration":"PT1H57M",
+	"genre":["Biography","Drama"],
+	"director":["Jean-Marc Vallée"],
+	"actors":["Matthew McConaughey","Jennifer Garner","Jared Leto"],
+	"youtube":"https://www.youtube.com/watch?v=KDvPcBeOn8E",
+	"note":3.5
+	},
+	{
+	"type":"movie",
+	"title":"White House Down",
+	"image": "https://m.media-amazon.com/images/M/MV5BNTZkMmRiY2EtOTljZS00MjJjLWFiNDQtNjEwYWE0NWNkYjI4XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"While on a tour of the White House with his young daughter, a Capitol policeman springs into action to save his child and protect the president from a heavily armed group of dangerous terrorists.",
+	"date":"2013-06-28",
+	"duration":"PT2H11M",
+	"genre":["Action","Drama","Thriller"],
+	"director":["Roland Emmerich"],
+	"actors":["Channing Tatum","Jamie Foxx","Maggie Gyllenhaal"],
+	"youtube":"https://www.youtube.com/watch?v=WfaTlmYvTA8",
+	"note":3.5
+	},
+	{
+	"type":"movie",
+	"title":"Dark City",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTFhMmE1YzgtNTFhYS00MTRlLWI3ZDMtMWJkMTBmOWMzOTk5XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"A man struggles with memories of his past, which include a wife he cannot remember and a nightmarish world no one else ever seems to wake up from.",
+	"date":"1998-02-27",
+	"duration":"PT1H40M",
+	"genre":["Fantasy","Mystery","Sci-Fi"],
+	"director":["Alex Proyas"],
+	"actors":["Rufus Sewell","Kiefer Sutherland","Jennifer Connelly"],
+	"youtube":"https://www.youtube.com/watch?v=gt9HkO-cGGo",
+	"note":3.0
+	},
+	{
+	"type":"movie",
+	"title":"Midnight Express",
+	"image": "https://m.media-amazon.com/images/M/MV5BZTRiOGMxYzctMTk3Ny00ODBkLWIyNTMtOGZhMWY0MjZiYzAxXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"Billy Hayes, an American college student, is caught smuggling drugs out of Turkey and thrown into prison.",
+	"date":"1978-10-27",
+	"duration":"PT2H1M",
+	"genre":["Biography","Crime","Drama"],
+	"director":["Alan Parker"],
+	"actors":["Brad Davis","Irene Miracle","Bo Hopkins"],
+	"youtube":"https://www.youtube.com/watch?v=buDEEC7tKv4",
+	"note":3.0
+	},
+	{
+	"type":"movie",
+	"title":"Papillon",
+	"image": "https://m.media-amazon.com/images/M/MV5BN2RkNTU2YmUtNGJmNy00YTAzLWE2MjMtOTVkYWU5NzY3M2ViXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"A French convict in the 1930s befriends a fellow criminal as the two of them begin serving their sentence in the South American penal colony on Devil&apos;s Island, which inspires the man to plot his escape.",
+	"date":"1973-12-19",
+	"duration":"PT2H31M",
+	"genre":["Biography","Crime","Drama"],
+	"director":["Franklin J. Schaffner"],
+	"actors":["Steve McQueen","Dustin Hoffman","Victor Jory"],
+	"youtube":"",
+	"note":-1.0
+	},
+	{
+	"type":"movie",
+	"title":"Wag the Dog / Des hommes d'influence",
+	"image": "https://m.media-amazon.com/images/M/MV5BNmEwNzk5ZTYtNGUzOC00ZThjLTk3NGYtMDQ5MzNiYzQ0ZTNkXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"Shortly before an election, a spin-doctor and a Hollywood producer join efforts to fabricate a war in order to cover up a Presidential sex scandal.",
+	"date":"1998-01-09",
+	"duration":"PT1H37M",
+	"genre":["Comedy","Drama"],
+	"director":["Barry Levinson"],
+	"actors":["Dustin Hoffman","Robert De Niro","Anne Heche"],
+	"youtube":"https://www.youtube.com/watch?v=steA_PZPkc8",
+	"note":3.5
+	},
+	{
+	"type":"movie",
+	"title":"Angel Heart",
+	"image": "https://m.media-amazon.com/images/M/MV5BNGNiN2ZjNDQtZjEyNS00ZGFjLWE4YWQtMDczZjU1ZDFlZDhlXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"In 1955 New Orleans, small-time private investigator Harry Angel is hired by a man who calls himself Louis Cypher to track down a singer named Johnny Favorite, but the investigation takes an unexpected and somber turn.",
+	"date":"1987-03-06",
+	"duration":"PT1H53M",
+	"genre":["Horror","Mystery","Thriller"],
+	"director":["Alan Parker"],
+	"actors":["Mickey Rourke","Robert De Niro","Lisa Bonet"],
+	"youtube":"https://www.youtube.com/watch?v=0iKzekw3xn8",
+	"note":3.0
+	},
+	{
+	"type":"movie",
+	"title":"Un prophète",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTUyMjQ1MTY5OV5BMl5BanBnXkFtZTcwNzY5NjExMw@@._V1_.jpg",
+	"synopsis":"A delinquent Muslim man struggles to get by in prison until he is taken under the wing of a powerful mob boss, but his gradual rise through the organization&apos;s ranks brings him in conflict with his mentor.",
+	"date":"2010-03-26",
+	"duration":"PT2H35M",
+	"genre":["Crime","Drama"],
+	"director":["Jacques Audiard"],
+	"actors":["Tahar Rahim","Niels Arestrup","Adel Bencherif"],
+	"youtube":"https://www.youtube.com/watch?v=60gP-8DWH6Q",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Lock, Stock and Two Smoking Barrels | Arnaque Crime & Botanique",
+	"image": "https://m.media-amazon.com/images/M/MV5BMmY1M2M5ZmMtYzllZC00YzAxLTk4MjktZDJkNjA1MTUwMGQ4XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"When four small-time criminals lose a rigged poker game against a London kingpin, he gives them one week to settle their enormous debt.",
+	"date":"1998-08-28",
+	"duration":"PT1H47M",
+	"genre":["Comedy","Crime"],
+	"director":[],
+	"actors":[],
+	"youtube":"https://www.youtube.com/watch?v=ZP06u7X02N0",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Dossier 137",
+	"image": "https://m.media-amazon.com/images/M/MV5BYTdlN2RkOTEtMGRjMC00YTQ4LWIxZjktM2M0YTQ5NGM1ZDdjXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"Case 137 is seemingly just another case for Stéphanie, an investigator at the IGPN, the police of the police. But an unexpected element will trouble Stéphanie and transform case 137 into something more than a simple number.",
+	"date":"2025-11-19",
+	"duration":"PT1H55M",
+	"genre":["Crime","Drama"],
+	"director":["Dominik Moll"],
+	"actors":["Léa Drucker"],
+	"youtube":"https://www.youtube.com/watch?v=Ll17lAq0MWY",
+	"note":4.0
 	},
 	{
 	"type":"movie",
 	"title":"Una giornata particolare",
 	"image": "https://m.media-amazon.com/images/M/MV5BNjMzNWUyY2UtYWJlZC00N2JjLTgyNTEtNzFkNTljNGQzZGM5XkEyXkFqcGc@._V1_.jpg",
 	"synopsis":"Two neighbors, a persecuted journalist and a resigned housewife, meet during Hitler&apos;s visit to Italy in May 1938.",
-	"date":"undefined",
+	"date":"1977-10-01",
 	"duration":"PT1H43M",
 	"genre":["Drama"],
 	"actors":["Sophia Loren"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=nNjEsHcA2Ts",
 	"note":4.0
 	},
 	{
 	"type":"movie",
-	"title":"Revolutionary Road",
+	"title":"Revolutionary Road / Les Noces Rebelles",
 	"image": "https://m.media-amazon.com/images/M/MV5BMTczNDgzMjczOV5BMl5BanBnXkFtZTcwOTU3MzMwMg@@._V1_.jpg",
 	"synopsis":"A young couple living in a Connecticut suburb during the mid-1950s struggle to come to terms with their personal problems while trying to raise their two children.",
 	"date":"2009-01-23",
 	"duration":"PT1H59M",
 	"genre":["Drama","Romance"],
-	"director":[],
-	"actors":[],
-	"youtube":"",
+	"director":"Sam Mendes",
+	"actors":["Leonardo Di Carpio","Kate Winslet"],
+	"youtube":"https://www.youtube.com/watch?v=WGS9M6uiOW4",
 	"note":4.0
 	},
-
 	{
 	"type":"movie",
 	"title":"House of Gucci",
@@ -44,7 +190,7 @@
 	"genre":["Biography","Crime","Drama"],
 	"director":["Ridley Scott"],
 	"actors":["Lady Gaga","Adam Driver","Al Pacino"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=pGi3Bgn7U5U",
 	"note":4.0
 	},
 	{
@@ -57,12 +203,25 @@
 	"genre":["Crime","Drama","Mystery"],
 	"director":["Dominik Moll"],
 	"actors":["Denis Ménochet","Laure Calamy","Damien Bonnard"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=bVPkB6J1sqE",
 	"note":4.5
 	},
 	{
 	"type":"movie",
-	"title":"De rouille et d&apos;os",
+	"title":"Birdy",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTlmY2M4OTUtNDgyZS00OTRlLTgzMGMtNjljNTgxMDU4ZTBhXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"After two friends return home from the Vietnam War one becomes mentally unstable and obsesses with becoming a bird.",
+	"date":"1984-12-21",
+	"duration":"PT2H",
+	"genre":["Drama","War"],
+	"director":["Alan Parker"],
+	"actors":["Matthew Modine","Nicolas Cage","John Harkins"],
+	"youtube":"https://www.youtube.com/watch?v=r69aRoIGGR8",
+	"note":3.0
+	},
+	{
+	"type":"movie",
+	"title":"De rouille et d'os",
 	"image": "https://m.media-amazon.com/images/M/MV5BZjEyZDUyYjEtNDI4OS00MWIyLWFiM2UtNWU1NGJhMTRhNDNiXkEyXkFqcGc@._V1_.jpg",
 	"synopsis":"Put in charge of his young son, Alain leaves Belgium for Antibes to live with his sister and her husband as a family. Alain&apos;s bond with Stephanie, a killer whale trainer, grows deeper after Stephanie suffers a horrible accident.",
 	"date":"2012-05-17",
@@ -70,8 +229,8 @@
 	"genre":["Drama","Romance"],
 	"director":["Jacques Audiard"],
 	"actors":["Marion Cotillard","Matthias Schoenaerts","Armand Verdure"],
-	"youtube":"",
-	"note":4.0
+	"youtube":"https://www.youtube.com/watch?v=UZJGS0O0Np8",
+	"note":5.0
 	},
 	{
 	"type":"movie",
@@ -83,8 +242,21 @@
 	"genre":["Comedy","Drama"],
 	"director":["Kelly O&apos;Sullivan","Alex Thompson"],
 	"actors":["Keith Kupferer","Katherine Mallen Kupferer","Tara Mallen"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=R1TycuGX4Mw",
 	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"As bestas",
+	"image": "https://m.media-amazon.com/images/M/MV5BOTdmYTVlMDgtYTkxOS00ODhiLWE0NmQtNzI4Y2YwNzczOGIwXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"An expatriate French couple operate an organic farm in the Spanish countryside but clash with villagers.",
+	"date":"2022-07-20",
+	"duration":"PT2H17M",
+	"genre":["Drama","Thriller"],
+	"director":["Rodrigo Sorogoyen"],
+	"actors":["Marina Foïs","Denis Ménochet","Luis Zahera"],
+	"youtube":"https://www.youtube.com/watch?v=6mWLTJNmkeA",
+	"note":4.5
 	},
 	{
 	"type":"movie",
@@ -96,7 +268,7 @@
 	"genre":["Adventure","Drama","War"],
 	"director":["Stanley Kubrick"],
 	"actors":["Ryan O&apos;Neal","Marisa Berenson","Patrick Magee"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=AWMR79IMQ-M",
 	"note":4.0
 	},
 	{
@@ -109,7 +281,7 @@
 	"genre":["Action","Thriller","War"],
 	"director":["Sidney J. Furie"],
 	"actors":["Louis Gossett Jr.","Jason Gedrick","David Suchet"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=Ia3AtvztsmU",
 	"note":2.0
 	},
 	{
@@ -122,7 +294,7 @@
 	"genre":["Drama","Mystery"],
 	"director":["Jack Gold"],
 	"actors":["Richard Burton","Lee Remick","Lino Ventura"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=Mx4yXJkGo2g",
 	"note":3.0
 	},
 	{
@@ -135,7 +307,7 @@
 	"genre":["Horror","Thriller"],
 	"director":["John Carpenter"],
 	"actors":["Keith Gordon","John Stockwell","Alexandra Paul"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=gxRVY6hYbE4",
 	"note":4.0
 	},
 	{
@@ -148,7 +320,7 @@
 	"genre":["Crime","Drama","Thriller"],
 	"director":["Gustav Möller"],
 	"actors":["Jakob Cedergren","Jessica Dinnage","Omar Shargawi"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=abaoKA6rn5k",
 	"note":4.0
 	},
 	{
@@ -161,7 +333,7 @@
 	"genre":["Biography","Comedy","Drama"],
 	"director":["Milos Forman"],
 	"actors":["Jim Carrey","Danny DeVito","Gerry Becker"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=2L9RtSw943A",
 	"note":4.5
 	},
 	{
@@ -174,8 +346,8 @@
 	"genre":["Crime","Drama"],
 	"director":["François Ozon"],
 	"actors":["Melvil Poupaud","Denis Ménochet","Swann Arlaud"],
-	"youtube":"",
-	"note":-1.0
+	"youtube":"https://www.youtube.com/watch?v=aN8qu3rSR38",
+	"note":4.0
 	},
 	{
 	"type":"movie",
@@ -187,7 +359,7 @@
 	"genre":["Comedy","Drama","Romance"],
 	"director":["Wolfgang Becker"],
 	"actors":["Daniel Brühl","Katrin Sass","Chulpan Khamatova"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=u5hzmwGW4Ac",
 	"note":4.0
 	},
 	{
@@ -213,7 +385,7 @@
 	"genre":["Comedy","Drama","Mystery"],
 	"director":["Peter Greenaway"],
 	"actors":["Anthony Higgins","Janet Suzman","Anne-Louise Lambert"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=CmCMumlxfX0",
 	"note":4.0
 	},
 	{
@@ -226,7 +398,7 @@
 	"genre":["Comedy","Drama","Music"],
 	"director":["Mark Herman"],
 	"actors":["Pete Postlethwaite","Tara Fitzgerald","Ewan McGregor"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=9LnGM2Ee9lY",
 	"note":3.0
 	},
 	{
@@ -239,7 +411,7 @@
 	"genre":["Crime","Horror","Thriller"],
 	"director":["Anthony Waller"],
 	"actors":["Marina Zudina","Fay Ripley","Evan Richards"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=2Xqca_EJ1eA",
 	"note":3.0
 	},
 	{
@@ -252,7 +424,7 @@
 	"genre":["Drama","Sci-Fi"],
 	"director":["Steven Spielberg"],
 	"actors":["Richard Dreyfuss","François Truffaut","Teri Garr"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=XrgC0ut2De0",
 	"note":5.0
 	},
 	{
@@ -265,7 +437,7 @@
 	"genre":["Adventure","Drama","Horror"],
 	"director":["Steven Spielberg"],
 	"actors":["Roy Scheider","Robert Shaw","Richard Dreyfuss"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=U1fu_sA7XhE",
 	"note":4.0
 	},
 	{
@@ -278,7 +450,7 @@
 	"genre":["Crime","Drama"],
 	"director":["Michel Deville"],
 	"actors":["François Marthouret","Claude Marcault","Philippe Rouleau"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=sfMx5z30kag",
 	"note":4.0
 	},
 	{
@@ -304,7 +476,7 @@
 	"genre":["Comedy","Drama","Mystery"],
 	"director":["Anna Novion"],
 	"actors":["Ella Rumpf","Jean-Pierre Darroussin","Clotilde Courau"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=u355hd20X50",
 	"note":3.5
 	},
 	{
@@ -317,7 +489,7 @@
 	"genre":["Adventure","Fantasy","Mystery"],
 	"director":["Barry Levinson"],
 	"actors":["Nicholas Rowe","Alan Cox","Sophie Ward"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=QWvMK5j-fXU",
 	"note":3.5
 	},
 	{
@@ -343,7 +515,7 @@
 	"genre":["Comedy","Music","Romance"],
 	"director":["Billy Wilder"],
 	"actors":["Marilyn Monroe","Tony Curtis","Jack Lemmon"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=ZWPwJH-7J-M",
 	"note":5.0
 	},
 	{
@@ -356,7 +528,7 @@
 	"genre":["Action","Adventure","Sci-Fi"],
 	"director":["Guillermo del Toro"],
 	"actors":["Idris Elba","Charlie Hunnam","Rinko Kikuchi"],
-	"youtube":"",
+	"youtube":"https://www.youtube.com/watch?v=5guMumPFBag",
 	"note":4.0
 	},
 	{
@@ -435,7 +607,7 @@
 	"director":["Pierre Salvadori"],
 	"actors":["Jean Rochefort","Marie Trintignant","Guillaume Depardieu"],
 	"youtube":"https://www.youtube.com/watch?v=KQ3bn2HfY0E",
-	"note":-1.0
+	"note":3.0
 	},
 	{
 	"type":"movie",

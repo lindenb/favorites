@@ -48,6 +48,10 @@
 <xsl:if test="position() &gt; 1">, </xsl:if>
 <xsl:value-of select="."/>
 </xsl:for-each>
+<xsl:text>	</xsl:text>
+<xsl:value-of select="x:string[@name='youtube']"/>
+<xsl:text>	</xsl:text>
+<xsl:value-of select="x:number[@name='note']"/>
 <xsl:text>
 </xsl:text>
 </xsl:template>
