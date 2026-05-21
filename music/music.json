@@ -71,7 +71,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=LDHZVuWpNlQ",
-	"playlist":["80s"]
+	"playlist":["80s"],
+	"kksk":"2026-05-18"
 	},
         {
         "type":"song",
@@ -995,10 +996,11 @@
 	"type":"song",
 	"author":"Hubert-Félix Thiéfaine",
 	"title":"Mathématiques souterraines",
-	"year":null,
-	"lang":"en",
+	"year":1981,
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=GZyqjDSEMoA",
-	"playlist":[""]
+	"playlist":["80s","thiefaine"],
+	"kksk":"2026-05-21"
 	},
 	{
 	"type":"song",
@@ -10556,8 +10558,10 @@
 	"author":"The Beatles",
 	"title":"A Day In The Life",
 	"lang":"en",
+	"year":1967,
 	"youtube":"https://www.youtube.com/watch?v=usNsCeOV4GM",
-	"playlist":[""]
+	"playlist":["60s","beatles"],
+	"kksk": "2026-05-20"
 	},
 	{
 	"type":"song",
@@ -11181,7 +11185,8 @@
         "author": "George Michael",
         "lang": "en",
         "youtube": "https://www.youtube.com/watch?v=Ve-rxwKuqtI",
-        "playlist" : ["80s","slow","pop"]
+        "playlist" : ["80s","slow","pop"],
+	"kksk": "2026-05-19"
         },
 	{
 	"type":"song",
