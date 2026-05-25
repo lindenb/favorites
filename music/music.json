@@ -5871,14 +5871,25 @@
 	"youtube":"https://www.youtube.com/watch?v=a3ir9HC9vYg",
 	"playlist":[""]
 	},
+
 	{
 	"type":"song",
-	"author":["Bronski Beat","Jimmy Sommerville"],
+	"author":["Bronski Beat","Jimmy Somerville"],
 	"title":"Smalltown Boy",
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=88sARuFu-tc",
 	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":[""Jimmy Somerville"],
+	"title":"Comment te dire Adieu",
+	"year": 1989,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=3v5GIx5__ws",
+	"playlist":["80s"],
+	"kksk":"2026-05-22"
 	},
 	{
 	"type":"song",
@@ -7319,7 +7330,8 @@
 	"lang":"en",
 	"year": 1978,
 	"youtube":"https://www.youtube.com/watch?v=h3JFEfdK_Ls",
-	"playlist":["80s","pop"]
+	"playlist":["80s","pop"],
+	"kksk": "2026-05-25"
 	},
 	{
 	"type":"song",
@@ -9109,10 +9121,11 @@
 	"type":"song",
 	"author":"Renaud",
 	"title":"Près des autos tamponneuses",
-	"year":null,
-	"lang":"en",
+	"year": 1983,
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=CeJRAZFWbzY",
-	"playlist":[""]
+	"playlist":["80s","renaud","kksk"],
+	"kksk": "2026-05-25"
 	},
 	{
 	"type":"song",
@@ -9472,6 +9485,7 @@
 	"youtube":"https://www.youtube.com/watch?v=Hvlv5qrhDUM",
 	"playlist":[""]
 	},
+
 	{
 	"type":"song",
 	"author":"The Stranglers",
@@ -10534,8 +10548,10 @@
 	"author":"Depeche Mode",
 	"title":"A Question Of Time",
 	"lang":"en",
+	"year":  1986,
 	"youtube":"https://www.youtube.com/watch?v=9pt7EWFF_T8",
-	"playlist":[""]
+	"playlist":["80s"],
+	"kksk": "2026-05-24"
 	},
 	{
 	"type":"song",
