@@ -1,4 +1,187 @@
 [
+{
+	"type":"song",
+	"author":"Claude Puterflam",
+	"title":"La petite",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=HrMvW6-o6Qk",
+	"playlist":["70s"]
+	},
+	{
+	"type":"song",
+	"author":"LYNDA LEMAY. Chéri, tu ronfles LIVE",
+	"title":"LYNDA LEMAY. Chéri, tu ronfles LIVE",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=bj0qvpQuj0I",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"LYNDA LEMAY. Chéri, tu ronfles LIVE",
+	"title":"LYNDA LEMAY. Chéri, tu ronfles LIVE",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=bj0qvpQuj0I",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"LYNDA LEMAY. Époustouflante LIVE",
+	"title":"LYNDA LEMAY. Époustouflante LIVE",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=y1xs_5wb4Mk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"LYNDA LEMAY",
+	"title":"Alphonse",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=iw6PsIUX1tE",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Linda Lemay",
+	"title":"La Visite",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=MAKq_RfZ-G8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Linda Lemay",
+	"title":"Drôle de mine",
+	"year": 1994,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=XMzY7gK6yo0",
+	"playlist":["90s","variete"],
+	"kksk": "2026-06-21"
+	},
+	{
+	"type":"song",
+	"author":"Paul Mc Cartney",
+	"title":"Live And Let Die",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=08saJgLmytU",
+	"playlist":[""]
+	},
+{
+	"type":"song",
+	"author":"Enzo Enzo",
+	"title":"Le poison",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=8XLt4cRc0rg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Enzo Enzo",
+	"title":"Les yeux ouverts",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=RxjsocycyYs",
+	"playlist":[""],
+	"kksk":"2026-06-30"
+	},
+	{
+	"type":"song",
+	"author":"Enzo Enzo",
+	"title":"Juste Quelqu'un De Bien",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Bo16qG-a9WM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Camille",
+	"title":"La jeune fille aux cheveux blancs",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=taUpHOwF3fs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Camille",
+	"title":"Ta douleur",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=YhQclI06QPw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Camille",
+	"title":"Quand je marche",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=wl0ZQJrFs2k",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Camille",
+	"title":"Baby carni bird",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=1lVsQ1H1bis",
+	"playlist":[""]
+	},
+
+	{
+	"type":"song",
+	"author":"Camille",
+	"title":"Pour que l'amour me quitte",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=9Ey_vGvCQgY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Camille",
+	"title":"Vertige",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=xLrL4FnMHmo",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Camille",
+	"title":"La rue de Ménilmontant",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=5iUsxHLxYag",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Camille",
+	"title":"Pâle Septembre",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=y88usEVkGSs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Camille",
+	"title":"Au port",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=NC_Ln12Yspg",
+	"playlist":[""]
+	},
 	{
 	"type":"song",
 	"author":"Wang Chung",
@@ -45,6 +228,16 @@
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=Gciy9oG5678",
 	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Tina Turner",
+	"title":"We Don't Need Another Hero",
+	"year":1985,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=HLBXAs2LO8k",
+	"playlist":[""],
+	"kksk":"2026-06-24"
 	},
 	{
 	"type":"song",
@@ -159,10 +352,11 @@
 	"type":"song",
 	"author":"Marcel Amont",
 	"title":"L'Amour Ca Fait Passer Le Temps",
-	"year":null,
+	"year": 1971,
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=XDgQmJR6ayQ",
-	"playlist":["60s","France","Variete"]
+	"playlist":["70s","France","Variete"],
+	"kksk":"2026-06-10"
 	},
 	{
 	"type":"song",
@@ -456,10 +650,11 @@
 	"type":"song",
 	"author":"Musical Youth",
 	"title":"Pass The Dutchie",
-	"year":null,
+	"year":1982,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=5HIKVSYaU6s",
-	"playlist":[""]
+	"playlist":["80s","rap"],
+	"kksk": "2026-05-29"
 	},
 	{
 	"type":"song",
@@ -753,10 +948,11 @@
 	"type":"song",
 	"author":"Bernard Lavilliers",
 	"title":"Betty",
-	"year":null,
-	"lang":"en",
+	"year":1981,
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=-uUNtb9UkZI",
-	"playlist":[""]
+	"playlist":["variete"],
+	"kksk":"2026-06-05"
 	},
 	{
 	"type":"song",
@@ -834,10 +1030,11 @@
 	"type":"song",
 	"author":"Hubert-Félix Thiéfaine",
 	"title":"Un vendredi 13 à 5h",
-	"year":null,
-	"lang":"en",
+	"year": 1984,
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=xAds9wgRJE4",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"2026-06-20"
 	},
 	{
 	"type":"song",
@@ -1096,10 +1293,11 @@
 	"type":"song",
 	"author":"KALIKA",
 	"title":"L'été est mort",
-	"year":null,
-	"lang":"en",
+	"year":2021,
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=AVKE41TbPMU",
-	"playlist":["funny"]
+	"playlist":["funny","pop"]
+	"kksk":"2026-06-06"
 	},
 	{
 	"type":"song",
@@ -1114,10 +1312,11 @@
 	"type":"song",
 	"author":"Les Cowboys Fringants",
 	"title":"Plus Rien",
-	"year":null,
-	"lang":"en",
+	"year":2004,
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=ZMxAdn7w0fY",
-	"playlist":[""]
+	"playlist":["variete"],
+	"kksk": "2026-06-22"
 	},
 	{
 	"type":"song",
@@ -1294,10 +1493,11 @@
 	"type":"song",
 	"author":"TELEPHONE",
 	"title":"Argent trop cher",
-	"year":null,
-	"lang":"en",
+	"year":1981,
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=AZcypfABSzw",
-	"playlist":[""]
+	"playlist":["80s"],
+	"kksk":"2026-06-04"
 	},
 	{
 	"type":"song",
@@ -1477,7 +1677,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=ma6ManVDCHA",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"2026-06-26"
 	},
 	{
 	"type":"song",
@@ -1573,10 +1774,12 @@
 	"type":"song",
 	"author":"Alanis Morissette",
 	"title":"You Learn",
-	"year":null,
+	"year":1995,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=GFW-WfuX2Dk",
-	"playlist":[""]
+	"playlist":["90s"],
+	"kksk":"2026-05-28"
+
 	},
 	{
 	"type":"song",
@@ -2735,10 +2938,11 @@
 	"type":"song",
 	"author":"Leonard Cohen",
 	"title":"The partisan",
-	"year":null,
+	"year":1969,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=JgiVd1r6dUU",
-	"playlist":[""]
+	"playlist":["60s"],
+	"kksk":"2026-06-17"
 	},
 	{
 	"type":"song",
@@ -3240,10 +3444,11 @@
 	"type":"song",
 	"author":"Jacques Brel",
 	"title":"Jef",
-	"year":null,
+	"year":1967,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=8WHeCUriDPc",
-	"playlist":[""]
+	"playlist":["60s","variete"],
+	"kksk": "2026-06-02"
 	},
 	{
 	"type":"song",
@@ -3348,10 +3553,11 @@
 	"type":"song",
 	"author":"Jacques Brel",
 	"title":"Les Marquises",
-	"year":null,
-	"lang":"en",
+	"year": 1977,
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=0gjOCSYNj-g",
-	"playlist":[""]
+	"playlist":["variete","70s"],
+	"kksks":"2026-06-08"
 	},
 	{
 	"type":"song",
@@ -3842,6 +4048,15 @@
 	},
 	{
 	"type":"song",
+	"author":"The Blues Brothers | Aretha Franklin Sings "Think" in 4K HDR",
+	"title":"The Blues Brothers | Aretha Franklin Sings "Think" in 4K HDR",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=RTXszRHc0qs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Dido",
 	"title":"Don't Think Of Me",
 	"year":null,
@@ -4033,10 +4248,11 @@
 	"type":"song",
 	"author":"Mort Shuman",
 	"title":"Le Nègre Blanc",
-	"year":null,
-	"lang":"en",
+	"lang":"fr",
+	"year": 1979,
 	"youtube":"https://www.youtube.com/watch?v=zn5RtjFaAIA",
-	"playlist":[""]
+	"playlist":["70s"],
+	"kksk": "2026-05-31"
 	},
 	{
 	"type":"song",
@@ -4495,10 +4711,11 @@
 	"type":"song",
 	"author":"Pink Floyd",
 	"title":"Breathe",
-	"year":null,
+	"year": 1973,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=Vddl9TK5RqU",
-	"playlist":[""]
+	"playlist":["pop","70s"],
+	"kksk":"2026-06-11"
 	},
 	{
 	"type":"song",
@@ -4901,10 +5118,11 @@
 	"type":"song",
 	"author":"ABBA",
 	"title":"Take a Chance On Me",
-	"year":null,
+	"year": 1978,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=72r32bceDzg",
-	"playlist":["pop","70s"]
+	"playlist":["pop","70s"],
+	"kksk":"2026-07-03"
 	},
 	{
 	"type":"song",
@@ -5082,10 +5300,11 @@
 	"type":"song",
 	"author":"Supertramp",
 	"title":"School",
-	"year":null,
+	"year": 1974,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=y7R_gflT8tg",
-	"playlist":[""]
+	"playlist":["70s"],
+	"kksk":"2026-06-23"
 	},
 	{
 	"type":"song",
@@ -5500,7 +5719,8 @@
 	"year":1982,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=LiDWF8mMSek",
-	"playlist":["pop","80s"]
+	"playlist":["pop","80s"],
+	"kksk": "2026-05-27"
 	},
 	{
 	"type":"song",
@@ -5554,7 +5774,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=tfFjm-6cbu8",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"2026-06-01"
 	},
 	{
 	"type":"song",
@@ -5785,10 +6006,11 @@
 	"type":"song",
 	"author":"Etienne Daho",
 	"title":"Sur mon cou",
-	"year":null,
-	"lang":"en",
+	"year":1998,
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=r0kIq4qeWpU",
-	"playlist":[""]
+	"playlist":["90s"],
+	"kksk":"2026-06-13"
 	},
 	{
 	"type":"song",
@@ -6087,7 +6309,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=IzAO9A9GjgI",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"2026-06-29"
 	},
 	{
 	"type":"song",
@@ -6347,10 +6570,11 @@
 	"type":"song",
 	"author":"INXS",
 	"title":"Never Tear Us Apart",
-	"year":null,
+	"year":1987,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=_VU9DjQpvMQ",
-	"playlist":[""]
+	"playlist":["80s"],
+	"kksk": "2026-06-01"
 	},
 	{
 	"type":"song",
@@ -6702,7 +6926,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=cqZc7ZQURMs",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"2026-06-25"
 	},
 	{
 	"type":"song",
@@ -7005,10 +7230,10 @@
 	"type":"song",
 	"author":"William Sheller",
 	"title":"Les miroirs dans la boue",
-	"year":null,
-	"lang":"en",
+	"year":1986,
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=9N044dStO9U",
-	"playlist":[""]
+	"playlist":["80s","variete"]
 	},
 	{
 	"type":"song",
@@ -8008,10 +8233,11 @@
 	"type":"song",
 	"author":"Pink Floyd",
 	"title":"Learning To Fly",
-	"year":null,
+	"year": 1986,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=nVhNCTH8pDs",
-	"playlist":[""]
+	"playlist":["90s"],
+	"kksk":"2026-06-18"
 	},
 	{
 	"type":"song",
@@ -8383,7 +8609,8 @@
 	"lang":"en",
 	"year": 1979,
 	"youtube":"https://www.youtube.com/watch?v=d0NxhFn0szc",
-	"playlist":["pop","70s"]
+	"playlist":["pop","70s"],
+	"kksk":"2026-06-09"
 	},
 	{
 	"type":"song",
@@ -8392,7 +8619,8 @@
 	"year":1977,
 	"lang":"it",
 	"youtube":"https://www.youtube.com/watch?v=G7EVwcT141I",
-	"playlist":["70s","variete"]
+	"playlist":["70s","variete"],
+	"kksk": "2026-05-30"
 	},
 	{
 	"type":"song",
@@ -9782,9 +10010,11 @@
 	"type":"song",
 	"author":"Véronique Sanson",
 	"title":"Le Maudit",
-	"lang":"en",
+	"lang":"fr",
+	"year": 1974,
 	"youtube":"https://www.youtube.com/watch?v=pgZ215t1lJQ",
-	"playlist":[""]
+	"playlist":["kksk","variete"]
+	"kksk":"2025-05-26"
 	},
 	{
 	"type":"song",
@@ -10452,7 +10682,7 @@
 	"title":"Here Comes The Rain Again",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=TzFnYcIqj6I",
-	"playlist":[""]
+	"playlist":["pop"]
 	},
 	{
 	"type":"song",
@@ -10955,9 +11185,11 @@
 	"type":"song",
 	"author":"Veronique Sanson",
 	"title":"Vancouver",
-	"lang":"en",
+	"lang":"fr",
+	"year":1976,
 	"youtube":"https://www.youtube.com/watch?v=LW2fZrNqEAw",
-	"playlist":[""]
+	"playlist":["70s","variete"],
+	"kksk":"2026-06-15"
 	},
 	{
 	"type":"song",

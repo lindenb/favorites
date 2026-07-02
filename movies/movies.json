@@ -1,4 +1,70 @@
 [
+{
+	"type":"movie",
+	"title":"West Side Story: A New Generation",
+	"image": "https://m.media-amazon.com/images/M/MV5BNzRmZTRlZDgtNDNmMy00YWJiLWE1ZGItYTFhODJiZmNhZTMzXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"Join director Steven Spielberg for an in-depth behind-the-scenes look at his reimagining of the enduring classic &quot;West Side Story&quot; in this television documentary special.",
+	"date":"2022-03-03",
+	"duration":"PT29M",
+	"genre":["Documentary"],
+	"director":["Laurent Bouzereau"],
+	"actors":["David Alvarez","Ariana DeBose","Ansel Elgort"],
+	"youtube":"",
+	"note":3.5
+	},
+	{
+	"type":"movie",
+	"title":"Volver",
+	"image": "https://m.media-amazon.com/images/M/MV5BMjA0NTUxMjY1OV5BMl5BanBnXkFtZTcwNjI2OTMzMQ@@._V1_.jpg",
+	"synopsis":"After her death, a mother returns to her home town in order to fix the situations she couldn&apos;t resolve during her life.",
+	"date":"2007-01-26",
+	"duration":"PT2H1M",
+	"genre":["Comedy","Drama"],
+	"director":["Pedro Almodóvar"],
+	"actors":["Penélope Cruz","Carmen Maura","Lola Dueñas"],
+	"youtube":"",
+	"note":4.0
+	},
+
+	{
+	"type":"movie",
+	"title":"Persepolis",
+	"image": "https://m.media-amazon.com/images/M/MV5BNzk3NTI2NGUtNmM1Yy00YTRmLWE2YTItZTYyNGM0ZjdjOTliXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"A precocious and outspoken Iranian girl grows up during the Islamic Revolution.",
+	"date":"2008-02-22",
+	"duration":"PT1H36M",
+	"genre":["Animation","Biography","Drama"],
+	"director":["Vincent Paronnaud","Marjane Satrapi"],
+	"actors":["Chiara Mastroianni","Catherine Deneuve","Danielle Darrieux"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"El ser querido",
+	"image": "https://m.media-amazon.com/images/M/MV5BMmI3OTI5Y2ItZTJlMS00MjIwLTg5ZGUtOWFiZmUzOTE1NDFjXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"Acclaimed director reunites with estranged daughter, an unsuccessful actress, to shoot a film together, confronting their strained relationship and unresolved past issues that neither wants to address directly.",
+	"date":"2026-05-16",
+	"duration":"PT2H15M",
+	"genre":["Drama"],
+	"director":["Rodrigo Sorogoyen"],
+	"actors":["Javier Bardem","Victoria Luengo","Raúl Arévalo"],
+	"youtube":"",
+	"note":4.0
+	},
+	{
+	"type":"movie",
+	"title":"Salinui chueok / Memories of Murder",
+	"image": "https://m.media-amazon.com/images/M/MV5BYmRjOWE5NmMtYTdkYS00ODFlLWJiMTMtYzE2NDZlZjlkZDQ0XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",
+	"date":"2003-05-02",
+	"duration":"PT2H11M",
+	"genre":["Crime","Drama","Mystery"],
+	"director":["Bong Joon Ho"],
+	"actors":["Song Kang-ho","Kim Sang-kyung","Kim Roe-ha"],
+	"youtube":"",
+	"note":3.0
+	},
 	{
 	"type":"movie",
 	"title":"Network",
