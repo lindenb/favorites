@@ -1,6 +1,114 @@
 [
 {
 	"type":"song",
+	"author":"Geinoh Yamashirogumi",
+	"title":"Kaneda",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=CAjtimRClYU",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Al Bano & Romina Power",
+	"title":"Felicita • TopPop",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=O2lxEVnhox0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Orchestral Manoeuvres In The Dark",
+	"title":"Souvenir",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=XDIYOiQUi2s",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Isaac Hayes",
+	"title":"Theme From Shaft",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=Q429AOpL_ds",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"10cc",
+	"title":"I'm Not In Love",
+	"year": 1975,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=STugQ0X1NoI",
+	"playlist":["slow","70s"]
+	},
+	{
+	"type":"song",
+	"author":"Enya",
+	"title":"Orinoco Flow",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=LTrk4X9ACtw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Beyoncé",
+	"title":"Crazy In Love ft. JAY Z",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ViwtNLUqkMY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bonnie Tyler",
+	"title":"Total Eclipse of the Heart",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=lcOxhH8N3Bo",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bonnie Tyler",
+	"title":"It's A Heartache",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=bEOl38y8Nj8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Bonnie Tyler",
+	"title":"If You Were A Woman",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=rJOo67DtZAY",
+	"playlist":[""]
+	},
+{
+	"type":"song",
+	"author":"Bonnie Tyler",
+	"title":"Holding Out For A Hero",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=bWcASV2sey0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Here She Comes",
+	"title":"Here She Comes",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=l-OBCVsMdzs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Claude Puterflam",
 	"title":"La petite",
 	"year":null,
@@ -169,9 +277,10 @@
 	"author":"Camille",
 	"title":"Pâle Septembre",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=y88usEVkGSs",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"2026-07-22"
 	},
 	{
 	"type":"song",
@@ -346,7 +455,8 @@
 	"year":2012,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=gpc3cCxWNkU",
-	"playlist":["techno"]
+	"playlist":["techno"],
+	"kksk":"2026-07-21"
 	},
 	{
 	"type":"song",
@@ -681,7 +791,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=T8yssvCh3ac",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"2026-07-30"
 	},
 	{
 	"type":"song",
@@ -839,12 +950,22 @@
 	{
 	"type":"song",
 	"author":"Klaus Nomi",
+	"title":"The Cold Song",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=TnkVgKzKPt8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Klaus Nomi",
 	"title":"Simple Man",
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=BI3NvpApuWQ",
 	"playlist":[""]
 	},
+
 	{
 	"type":"song",
 	"author":"Kim Carnes",
@@ -1061,7 +1182,8 @@
 	"year":null,
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=fMPutSiLyvE",
-	"playlist":["Thiefaine"]
+	"playlist":["Thiefaine"],
+	"kksk":"2026-07-28"
 	},
 	{
 	"type":"song",
@@ -1343,16 +1465,18 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=wXcdYBh3hgg",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"2026-07-25"
 	},
 	{
 	"type":"song",
-	"author":"Happy Together",
-	"title":"The Turtles",
+	"author":"The Turtles",
+	"title":"Happy Together",
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=9ZEURntrQOg",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"2026-07-26"
 	},
 	{
 	"type":"song",
@@ -1560,7 +1684,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=86Dtc6DLW88",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk": "2026-07-15"
 	},
 	{
 	"type":"song",
@@ -2312,7 +2437,6 @@
 	"youtube":"https://www.youtube.com/watch?v=tPxajzP-2jQ",
 	"playlist":[""]
 	},
-	
 	{
 	"type":"song",
 	"author":"Michael Jackson",
@@ -2967,9 +3091,10 @@
 	"author":"Yves Montand",
 	"title":"La Bicyclette",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=eoHjQs6C4UY",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"2026-06-24"
 	},
 	{
 	"type":"song",
@@ -3611,7 +3736,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=oRrz3yYC2Yg",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"2026-07-16"
 	},
 	{
 	"type":"song",
@@ -6014,6 +6140,15 @@
 	},
 	{
 	"type":"song",
+	"author":"Etienne Daho",
+	"title":"Le grand sommeil",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=RcbYb-7wG80",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Bee Gees",
 	"title":"More Than A Woman",
 	"year":null,
@@ -6098,10 +6233,11 @@
 	"type":"song",
 	"author":["Bronski Beat","Jimmy Somerville"],
 	"title":"Smalltown Boy",
-	"year":null,
+	"year": 1984,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=88sARuFu-tc",
-	"playlist":[""]
+	"playlist":["80s"],
+	"kksk": "2026-07-13"
 	},
 	{
 	"type":"song",
@@ -6445,7 +6581,8 @@
 	"year":1976,
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=dtDTQQyFazA",
-	"playlist":[""]
+	"playlist":["70s"],
+	"kksk": "2026-07-15"
 	},
 	{
 	"type":"song",
@@ -6543,10 +6680,11 @@
 	"type":"song",
 	"author":"Gnarls Barkley",
 	"title":"Crazy",
-	"year":null,
+	"year":2006,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=-N4jf6rtyuw",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"2026-07-20"
 	},
 	{
 	"type":"song",
@@ -7456,7 +7594,8 @@
 	"lang":"en",
 	"year": 1987,
 	"youtube":"https://www.youtube.com/watch?v=5jjIpvmfxlY",
-	"playlist":["pop","rock"]
+	"playlist":["pop","rock"],
+	"kksk": "2029-07-27"
 	},
 	{
 	"type":"song",
@@ -8031,7 +8170,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=zi-NtO84oX8",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"2026-07-19"
 	},
 	{
 	"type":"song",
@@ -8176,7 +8316,8 @@
 	"lang":"en",
 	"year":2011,
 	"youtube":"https://www.youtube.com/watch?v=MV_3Dpw-BRY",
-	"playlist":[""]
+	"playlist":["theme"],
+	"kksk":"2026-07-29"
 	},
 	{
 	"type":"song",
@@ -9287,9 +9428,10 @@
 	"author":"Renaud",
 	"title":"Elle a vu le loup",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=DnKexUDxrDA",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk": "2026-07-23"
 	},
 	{
 	"type":"song",
@@ -9389,7 +9531,8 @@
 	"year":null,
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=Xa6WZkfKlxA",
-	"playlist":["80s","variete"]
+	"playlist":["80s","variete"],
+	"kksk":"2026-07-17"
 	},
 	{
 	"type":"song",

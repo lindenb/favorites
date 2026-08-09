@@ -1,5 +1,57 @@
 [
+	{
+	"type":"movie",
+	"title":"Que la bête meure",
+	"image": "https://m.media-amazon.com/images/M/MV5BNDJlMDhmODYtYzlhMi00MTYxLWEyMDUtNGE1ZWU5NTVmYTQxXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"Un homme s&apos;affirme dans la vie d&apos;une actrice qu&apos;il croit être en quelque sorte responsable de la mort de son fils.",
+	"date":"1969-09-05",
+	"duration":"PT1H50M",
+	"genre":["Policier","Drame","Thriller"],
+	"director":["Claude Chabrol"],
+	"actors":["Michel Duchaussoy","Caroline Cellier","Jean Yanne"],
+	"youtube":"",
+	"note":3.0
+	},
+	{
+	"type":"movie",
+	"title":"Up in the Air",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTI3MzYxMTA4NF5BMl5BanBnXkFtZTcwMDE4ODg3Mg@@._V1_.jpg",
+	"synopsis":"Ryan&apos;s job is to travel around the country, firing people. When his boss hires Natalie, who proposes firing people via video conference, he tries to convince her that her method is a mistake.",
+	"date":"2009-12-23",
+	"duration":"PT1H49M",
+	"genre":["Comedy","Drama","Romance"],
+	"director":["Jason Reitman"],
+	"actors":["George Clooney","Vera Farmiga","Anna Kendrick"],
+	"youtube":"",
+	"note":3.5
+	},
 {
+	"type":"movie",
+	"title":"La bataille de Gaulle: J&apos;écris ton nom",
+	"image": "https://m.media-amazon.com/images/M/MV5BY2NhODRhMWUtNTZlZi00YjJiLTk3ZTAtNWYyNjE4YjgyZTUyXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"Charles De Gaulle&apos;s journey as a French army officer from 1940 to 1945, tracking his evolution toward a political career.",
+	"date":"2026-06-26",
+	"duration":"PT2H37M",
+	"genre":["Biography","Drama","History"],
+	"director":["Antonin Baudry"],
+	"actors":["Simon Abkarian","Niels Schneider","Anamaria Vartolomei"],
+	"youtube":"",
+	"note":5.0
+	},
+	{
+	"type":"movie",
+	"title":"La bataille de Gaulle: L&apos;âge de fer",
+	"image": "https://m.media-amazon.com/images/M/MV5BNTc1ZWJjMDEtYjY3Yy00ZjQ3LTk5ZjMtOTczNGQ3YjU3M2ZhXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"A powerful account of Charles de Gaulle&apos;s journey during World War II, from his rise as a military leader to his emergence in French politics between 1940-1945.",
+	"date":"2026-06-03",
+	"duration":"PT2H40M",
+	"genre":["Biography","Drama","History"],
+	"director":["Antonin Baudry"],
+	"actors":["Simon Abkarian","Simon Russell Beale","Florian Lesieur"],
+	"youtube":"",
+	"note":5.0
+	},
+	{
 	"type":"movie",
 	"title":"West Side Story: A New Generation",
 	"image": "https://m.media-amazon.com/images/M/MV5BNzRmZTRlZDgtNDNmMy00YWJiLWE1ZGItYTFhODJiZmNhZTMzXkEyXkFqcGc@._V1_.jpg",
