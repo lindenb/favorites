@@ -1,6 +1,32 @@
 [
 	{
 	"type":"movie",
+	"title":"Sur mes lèvres",
+	"image": "https://m.media-amazon.com/images/M/MV5BOWIwNGQ5ODctZWRmNy00OGY1LWFiZDctZjcwNzgxMGJmODVjXkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"She is almost deaf and he lip-reads. He is an ex-convict. She wants to help him. He thinks no one can help except himself.",
+	"date":"2002-07-26",
+	"duration":"PT1H55M",
+	"genre":["Crime","Drama","Romance"],
+	"director":["Jacques Audiard"],
+	"actors":["Vincent Cassel","Emmanuelle Devos","Olivier Gourmet"],
+	"youtube":"",
+	"note":3.0
+	},
+	{
+	"type":"movie",
+	"title":"Respire",
+	"image": "https://m.media-amazon.com/images/M/MV5BODg1MTRhYTktMjZhYi00ZTNhLWE1YTUtZTVkZTI0ZDQ2Zjk2XkEyXkFqcGc@._V1_.jpg",
+	"synopsis":"Charlie est une adolescente de banlieue banale, mais quand elle se lie profondément avec Sarah, la nouvelle rebelle de l&apos;école, elle découvre qu&apos;il n&apos;y a rien de banal dans ses sentiments.",
+	"date":"2014-11-12",
+	"duration":"PT1H31M",
+	"genre":["Drame"],
+	"director":["Mélanie Laurent"],
+	"actors":["Joséphine Japy","Lou de Laâge","Isabelle Carré"],
+	"youtube":"",
+	"note":3.0
+	},
+	{
+	"type":"movie",
 	"title":"Que la bête meure",
 	"image": "https://m.media-amazon.com/images/M/MV5BNDJlMDhmODYtYzlhMi00MTYxLWEyMDUtNGE1ZWU5NTVmYTQxXkEyXkFqcGc@._V1_.jpg",
 	"synopsis":"Un homme s&apos;affirme dans la vie d&apos;une actrice qu&apos;il croit être en quelque sorte responsable de la mort de son fils.",
@@ -521,7 +547,7 @@
 	},
 	{
 	"type":"movie",
-	"title":"Mute Witness",
+	"title":"Mute Witness/Temoin muet",
 	"image": "https://m.media-amazon.com/images/M/MV5BYTUzNTMwNmEtODkyNC00ZDcxLWE5ZTYtMDczYjg4NzhiZmM1XkEyXkFqcGc@._V1_.jpg",
 	"synopsis":"A mute make-up artist working on a slasher movie being shot in Moscow, is locked in the studio after hours. While there, she witnesses a brutal murder, and must escape capture.",
 	"date":"1995-09-15",

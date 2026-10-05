@@ -1,5 +1,78 @@
 [
-{
+	{
+	"type":"song",
+	"author":"Mike Oldfield",
+	"title":"Crises",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=BLyAvB_nRZs",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Jethro Tull",
+	"title":"Bourée",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=pqxwXla3-Bw",
+	"playlist":["RockProgressif","Flute"]
+	},
+	{
+	"type":"song",
+	"author":"Jorge Ben jor",
+	"title":"Taj Mahal",
+	"year":null,
+	"lang":"br",
+	"youtube":"https://www.youtube.com/watch?v=rfrpOhC6858",
+	"playlist":["brazil","from-kksk"]
+	},
+	{
+	"type":"song",
+	"author":"Indeep",
+	"title":"Last Night A DJ Saved My Life",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=CgGiCKbud5I",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Le Club",
+	"title":"Un Fait Divers Et Rien De Plus",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=sIwoEnmnBXM",
+	"playlist":["80s"],
+	"kksk":"20260908"
+	},
+	{
+	"type":"song",
+	"author":"Don´t Let Me Be Misunderstood",
+	"title":"Santa Esmeralda - Kill Bill Vol. 1",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=TitGdoeoEtU",
+	"playlist":[""]
+	},
+
+	"type":"song",
+	"author":"Dusty Springfield",
+	"title":"Son of a Preacher Man",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=oAZLgsDRUv4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"L Affaire Louis Trio",
+	"title":"Mobilis In Mobile",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=GPPNMsxfAzA",
+	"playlist":[""]
+	},
+	{
 	"type":"song",
 	"author":"Geinoh Yamashirogumi",
 	"title":"Kaneda",
@@ -907,9 +980,10 @@
 	"author":"Jil Caplan",
 	"title":"Entre les tombes",
 	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=nLPSjmP_PEs",
-	"playlist":[""]
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=bWcWcwOhqAo",
+	"playlist":[""],
+	"kksk":"20260925"
 	},
 	{
 	"type":"song",
@@ -1341,6 +1415,25 @@
 	},
 	{
 	"type":"song",
+	"author":"Claude François",
+	"title":"Le lundi au soleil",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=e1Fm-7FLu4Q",
+	"playlist":["70s"],
+	"kksk":"20261003"
+	},
+	{
+	"type":"song",
+	"author":"The Mamas & The Papas",
+	"title":"Monday Monday",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=h81Ojd3d2rY",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Hubert-Félix Thiéfaine",
 	"title":"Soleil cherche futur",
 	"year":null,
@@ -1611,7 +1704,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=4VDS8uArR0A",
-	"playlist":[""]
+	"playlist":["70s"],
+	"kksk":"20261001"
 	},
 	{
 	"type":"song",
@@ -1657,7 +1751,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=c_BcivBprM0",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20260909"
 	},
 	{
 	"type":"song",
@@ -1721,7 +1816,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=Ftgk_tkU-eY",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20261005"
 	},
 	{
 	"type":"song",
@@ -2057,7 +2153,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=Gv-G6rAxX6w",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20260901"
 	},
 	{
 	"type":"song",
@@ -2233,24 +2330,6 @@
 	{
 	"type":"song",
 	"author":"Michel Polnareff",
-	"title":"Viens te faire chahuter",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=__8KK2qw6l4",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"Michel Polnareff",
-	"title":"Elle rit",
-	"year":null,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=PaLrkm_gZdk",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"Michel Polnareff",
 	"title":"Bulle de savon",
 	"year":null,
 	"lang":"en",
@@ -2272,24 +2351,6 @@
 	"title":"Radio",
 	"year":null,
 	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=JgiVd1r6dUU",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"Michel Polnareff",
-	"title":"la michetonneuse",
-	"year":null,
-	"lang":"fr",
-	"youtube":"https://www.youtube.com/watch?v=OBaVIghqDMQ",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"Michel Polnareff",
-	"title":"L´oiseau de nuit",
-	"year":null,
-	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=JgiVd1r6dUU",
 	"playlist":[""]
 	},
@@ -2345,15 +2406,6 @@
 	"year":null,
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=1dmt5o0DjaU",
-	"playlist":[""]
-	},
-	{
-	"type":"song",
-	"author":"Michel Polnareff",
-	"title":"I Love You Because",
-	"year":1971,
-	"lang":"en",
-	"youtube":"https://www.youtube.com/watch?v=t1hvXNMB6k0",
 	"playlist":[""]
 	},
 	{
@@ -2705,7 +2757,8 @@
 	"year":null,
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=dlcn3-n5BIs",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20290913"
 	},
 	{
 	"type":"song",
@@ -2802,9 +2855,10 @@
 	"author":"Alexis HK",
 	"title":"Chicken Manager",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=gMQVLU8yxUI",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20261004"
 	},
 	{
 	"type":"song",
@@ -3509,7 +3563,8 @@
 	"year":1972,
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=5gdyOgAWDjM",
-	"playlist":["70s"]
+	"playlist":["70s"],
+	"kksk":"20260910"
 	},
 	{
 	"type":"song",
@@ -3899,7 +3954,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=-8l3ntDR_lI",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20260905"
 	},
 	{
 	"type":"song",
@@ -4206,7 +4262,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=mCcNGt_eliM",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20260914"
 	},
 
 	{
@@ -4243,7 +4300,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=D_QLxj8jCF0",
-	"playlist":[""]
+	"playlist":["rock"],
+	"kksk":"20260930"
 	},	{
 	"type":"song",
 	"author":"Pink Floyd",
@@ -4767,7 +4825,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=8xQM94V0WyQ",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20260902"
 	},
 
 	{
@@ -4986,7 +5045,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=rsRXZ1afhLw",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk": "20260904"
 	},
 	{
 	"type":"song",
@@ -5951,11 +6011,12 @@
 	{
 	"type":"song",
 	"author":"Louis Chedid",
-	"title":"Anne, ma sœur Anne",
+	"title":"Anne, ma soeur Anne",
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=2jFkn4kjjiU",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20260907"
 	},
 	{
 	"type":"song",
@@ -6561,9 +6622,10 @@
 	"author":"Johnny Hallyday",
 	"title":"Le chanteur abandonné",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=rgv_ryuDfqI",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20261002"
 	},
 	{
 	"type":"song",
@@ -7281,11 +7343,12 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=PFpY_zW-7Os",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20260912"
 	},
 	{
 	"type":"song",
-	"author":"Loulou",
+	"author":"William Sheller",
 	"title":"Loulou",
 	"year":null,
 	"lang":"en",
@@ -7479,7 +7542,8 @@
 	"lang":"en",
 	"year": 1993,
 	"youtube":"https://www.youtube.com/watch?v=4qQyUi4zfDs",
-	"playlist":["pop","90s"]
+	"playlist":["pop","90s"],
+	"kksk":"20260924"
 	},
 	{
 	"type":"song",
@@ -9027,7 +9091,8 @@
 	"title":"IDEES NOIRES",
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=ubL_hVPm6Oc",
-	"playlist":["80s","pop","variete"]
+	"playlist":["80s","pop","variete"],
+	"kksk":"20260916"
 	},
 	{
 	"type":"song",
@@ -10001,7 +10066,8 @@
 	"title":"Les cadors",
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=cePV7P86SdY",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20260928"
 	},
 	{
 	"type":"song",
@@ -10292,7 +10358,8 @@
 	"title":"Wonderful Life",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=u1ZoHfJZACA",
-	"playlist":[""]
+	"playlist":["80s"],
+	"kksks": "2026-08-31"
 	},
 	{
 	"type":"song",
@@ -10563,7 +10630,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=CSmRpXkQ7Rs",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk": "20260921"
 	},
 	{
 	"type":"song",
@@ -10648,7 +10716,8 @@
 	"title":"Just Can't Get Enough",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=_6FBfAQ-NDE",
-	"playlist":[""]
+	"playlist":["80s"],
+	"kksk":"20260929"
 	},
 	{
 	"type":"song",
@@ -10932,7 +11001,8 @@
 	"title":"The Printing Machine",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=JF0_dGYeSEk",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20260917"
 	},
 	{
 	"type":"song",
@@ -11314,7 +11384,8 @@
 	"title":"La groupie du pianiste",
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=hFCYZ4ViQDY",
-	"playlist":["70s","variete"]
+	"playlist":["70s","variete"],
+	"kksk":"20260911"
 	},
 	{
 	"type":"song",
@@ -11349,7 +11420,8 @@
 	"lang":"en",
 	"year":1975,
 	"youtube":"https://www.youtube.com/watch?v=tzVJPgCn-Z8",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20260922"
 	},
 	{
 	"type":"song",
@@ -11397,7 +11469,8 @@
 	"title":"Lettre à france",
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=Fk2VBiMm9I4",
-	"playlist":["70s","variete"]
+	"playlist":["70s","variete"],
+	"kksk":"20260923"
 	},
 	{
 	"type":"song",
@@ -11435,9 +11508,10 @@
 	"type":"song",
 	"author":"Robert Charlebois",
 	"title":"Lindberg",
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=AtYcPgLXzG8",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20290927"
 	},
 	{
 	"type":"song",
@@ -11586,6 +11660,7 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=bIPBkDIV7_U",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20260903"
 	}
 ]
