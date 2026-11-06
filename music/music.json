@@ -1,6 +1,125 @@
 [
 	{
 	"type":"song",
+	"author":"Paolo Nutini",
+	"title":"Jenny Don't Be Hasty",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=73WeSi0Zirw",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Paolo Nutini",
+	"title":"New Shoes",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=hmbUNF1Q4R8",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Paolo Nutini",
+	"title":"These Streets",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=DmefCUgU-h0",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Paolo Nutini",
+	"title":"Million Faces",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=C0K0KQfglJM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Paolo Nutini",
+	"title":"Last Request",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=OFh0cRBlvEc",
+	"playlist":[""],
+	"kksk":"20261104"
+	},
+	{
+	"type":"song",
+	"author":"Jefferson Airplane",
+	"title":"White Rabbit",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=pnJM_jC7j_4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Plastic Bertrand",
+	"title":"Ça plane pour moi",
+	"year":null,
+	"lang":"fr",
+	"youtube":"https://www.youtube.com/watch?v=8soQkubMk1g",
+	"playlist":["70s"],
+	"kksk":"20261026"
+	},
+	{
+	"type":"song",
+	"author":"Trio",
+	"title":"Da Da Da ich lieb dich nicht du liebst mich nicht aha aha aha",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=RCdNmkjd6qg",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Axel Bauer",
+	"title":"CARGO de nuit",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=e9c1ya90N2M",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Cock Robin",
+	"title":"The Promise You Made",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=3pk3A_QSINI",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Cock Robin",
+	"title":"When Your Heart Is Weak",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=dRnNpLOhn1Q",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Cock Robin",
+	"title":"Just Around The Corner",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=o17HJDwMqn4",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
+	"author":"Cock Robin",
+	"title":"Thought You Were On My Side",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=sc530KCXCSk",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Mike Oldfield",
 	"title":"Crises",
 	"year":null,
@@ -964,7 +1083,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=QPuC7q-GYOc",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20261007"
 	},
 	{
 	"type":"song",
@@ -1354,9 +1474,10 @@
 	"title":"Exit to Chatagoune",
 	"author":"Hubert-Félix Thiéfaine",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=dqCcZtyYeUU",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20261014"
 	},
 	{
 	"type":"song",
@@ -2269,9 +2390,10 @@
 	"author":"Richard Gotainer",
 	"title":"Chipie",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=gyiN22itwSU",
-	"playlist":[""]
+	"playlist":[""],
+	"kssk":"20261011"
 	},
 	{
 	"type":"song",
@@ -3405,6 +3527,15 @@
 	},
 	{
 	"type":"song",
+	"author":"Claude Nougaro",
+	"title":"Le Jazz et la Java",
+	"year":null,
+	"lang":"en",
+	"youtube":"https://www.youtube.com/watch?v=ViZ4GfYvVnM",
+	"playlist":[""]
+	},
+	{
+	"type":"song",
 	"author":"Serge Gainsbourg",
 	"title":"Ce mortel ennui",
 	"year":null,
@@ -4005,7 +4136,7 @@
 	{
 	"type":"song",
 	"author":"The Beatles",
-	"title":"Restored HD Video",
+	"title":"Strawberry Fields",
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=8UQK-UcRezE",
@@ -4036,7 +4167,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=2Q_ZzBGPdqE",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20261021"
 	},
 	{
 	"type":"song",
@@ -4226,7 +4358,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=kg4m99unSj4",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20261018"
 	},
 	{
 	"type":"song",
@@ -4517,7 +4650,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=fpWNimba344",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20261015"
 	},
 	{
 	"type":"song",
@@ -4753,7 +4887,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=wtLlJg3kzcE",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20261022"
 	},
 	{
 	"type":"song",
@@ -5380,7 +5515,8 @@
 	"year":null,
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=hMQv0yXvvpc",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20251106"
 	},
 	{
 	"type":"song",
@@ -5526,7 +5662,8 @@
 	"year":1979,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=wohgwABTpa8",
-	"playlist":["pop","80s"]
+	"playlist":["pop","80s"],
+	"kksk":"20261020"
 	},
 	{
 	"type":"song",
@@ -5971,6 +6108,7 @@
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=loB0kmz_0MM",
 	"playlist":[""]
+	"kksk":"2026-10-01"
 	},
 	{
 	"type":"song",
@@ -7098,7 +7236,8 @@
 	"year":1973,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=KYx2uZRlJCk",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20261023"
 	},
 	{
 	"type":"song",
@@ -7470,7 +7609,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=z8rQ575DWD8",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20261104"
 	},
 	{
 	"type":"song",
@@ -7837,7 +7977,8 @@
 	"title":"The Ark",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=p9MOCN29akc",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20261013"
 	},
 	{
 	"type":"song",
@@ -8031,7 +8172,8 @@
 	"lang":"en",
 	"year": 1971,
 	"youtube":"https://www.youtube.com/watch?v=TVEhDrJzM8E",
-	"playlist":["70s","rock"]
+	"playlist":["70s","rock"],
+	"kksk":"20261106"
 	},
 	{
 	"type":"song",
@@ -8278,10 +8420,11 @@
 	"author":"Bénabar",
 	"title":"Le 115",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=Au4iTciMLFo",
     "copyrighted":true,
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20261102"
 	},
 	{
 	"type":"song",
@@ -8399,7 +8542,8 @@
 	"lang":null,
 	"year":2021,
 	"youtube":"https://www.youtube.com/watch?v=DHgE0Kn7zqE",
-	"playlist":["techno","movie"]
+	"playlist":["techno","movie"],
+	"kksk":"20261025"
 	},
 	{
 	"type":"song",
@@ -8689,6 +8833,7 @@
 	"youtube":"https://www.youtube.com/watch?v=NhW2AKtPjTY",
 	"playlist":["60s","variete"]
 	},
+
 	{
 	"type":"song",
 	"author":"Herman's Hermits",
@@ -9042,7 +9187,8 @@
 	"title":"Video Killed The Radio Star",
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=W8r-tXRLazs",
-	"playlist":["pop","80s"]
+	"playlist":["pop","80s"],
+	"kksk":"20261011"
 	},
 	{
 	"type":"song",
@@ -9628,9 +9774,10 @@
 	"author":"Julien Clerc",
 	"title":"Le coeur volcan",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=uRNUl6gOKTo",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20261009"
 	},
 	{
 	"type":"song",
@@ -9683,7 +9830,8 @@
 	"lang":"fr",
 	"year":1982,
 	"youtube":"https://www.youtube.com/watch?v=3R9grTgxcEo",
-	"playlist":["variete","80s"]
+	"playlist":["variete","80s"],
+	"kksk":"20261009"
 	},
 	{
 	"type":"song",
@@ -9919,7 +10067,8 @@
 	"year":null,
 	"lang":"en",
 	"youtube":"https://www.youtube.com/watch?v=Hvlv5qrhDUM",
-	"playlist":[""]
+	"playlist":["80s"],
+	"kksk":"20261024"
 	},
 
 	{
@@ -11123,9 +11272,10 @@
 	"author":"Michel Sardou",
 	"title":"Afrique adieu",
 	"year":null,
-	"lang":"en",
+	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=vghc7C2plyI",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20261006"
 	},
 	{
 	"type":"song",
@@ -11360,7 +11510,8 @@
 	"title":"Chanson sur ma drôle de vie",
 	"lang":"fr",
 	"youtube":"https://www.youtube.com/watch?v=NAogfwwqwGY",
-	"playlist":[""]
+	"playlist":[""],
+	"kksk":"20261016"
 	},
 	{
 	"type":"song",
